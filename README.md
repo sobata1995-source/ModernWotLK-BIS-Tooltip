@@ -1,297 +1,114 @@
-# ModernWotLK BIS Tooltip
+# ModernWotLK BIS Tooltip 0.3.3-beta
 
-**See which classes and specializations can use an item as BIS or an alternative, directly in its tooltip.**
+Warmane forum PvE reference for the original WoW 3.3.5a client (Interface 30300).
 
-ModernWotLK BIS Tooltip is an English-language addon for the original **World of Warcraft: Wrath of the Lich King 3.3.5a client (build 12340)**. It adds compact, class-colored gear recommendations based on **Wowhead WotLK Classic Phase 3 and Phase 4 guide tables**.
+## Important: partial database
 
-The current addon version is **v0.2.2 — Narrow**.
+This beta replaces the Wowhead database with a smaller curated Warmane snapshot:
+599 unique items, 1124 item/spec assessments, 26 covered specs, 26 forum threads.
+See COVERAGE.md for the complete spec-by-phase coverage matrix.
+This is NOT complete coverage of every class, role or phase. Keep your previous ZIP.
+No entry means no curated assessment, not that an item is bad.
 
-[Releases and downloads](https://github.com/sobata1995-source/ModernWotLK-BIS-Tooltip/releases) · [Report an issue](https://github.com/sobata1995-source/ModernWotLK-BIS-Tooltip/issues)
+## Display
 
-> Download the packaged addon ZIP from a published release's **Assets** section. If no release is listed yet, the downloadable package has not been published. GitHub's automatically generated **Source code** archives are not necessarily install-ready addon packages.
+Always visible, compact class-colored rows; matching specs are combined. Ratings
+appear above Vendor, Auction and Disenchant when those lines use standard tooltip text.
+The original smaller font and narrow layout are retained.
 
-## Contents
+## Phase labels
 
-- [What the addon does](#what-the-addon-does)
-- [Where the information comes from](#where-the-information-comes-from)
-- [Database size and coverage](#database-size-and-coverage)
-- [Understanding BIS and ALT labels](#understanding-bis-and-alt-labels)
-- [Display and colors](#display-and-colors)
-- [Compatibility](#compatibility)
-- [Installation](#installation)
-- [Updating and uninstalling](#updating-and-uninstalling)
-- [Using the addon](#using-the-addon)
-- [Troubleshooting](#troubleshooting)
-- [Accuracy and known limitations](#accuracy-and-known-limitations)
-- [Project structure](#project-structure)
-- [Testing and reporting problems](#testing-and-reporting-problems)
-- [Version history](#version-history)
-- [Supporting the project](#supporting-the-project)
+This release is an endgame reference, not a progression filter.
+BIS 4 means listed in a curated endgame set (ICC/RS pool).
+ALT 1 or ALT 2 means an earlier-phase recommendation retained as a historical option;
+it is not proof that it competes with ICC gear. Early-phase evidence covers Assassination, Feral Cat, Arcane and Elemental, with different coverage per phase. Feral Cat has Phase 3 entries.
+BIS 3>4 indicates best-set evidence in both phases; nonconsecutive history uses commas.
+ALT 3 can retain a former Phase 3 best item. These are source-history labels, not a live realm progression setting.
+ALT 4 means an explicit endgame alternative. Conditional sets are marked with *.
+Do not combine every listed BIS item blindly: race, hit, expertise and set bonuses matter.
 
-## What the addon does
+## Sources
 
-Hover over an item that exists in the local database and the addon adds a recommendation block to the normal item tooltip. You can see the relevant classes, specs and phase labels without opening a browser or comparing multiple guides manually.
+SOURCES.json contains exact forum URLs, authors, sections, conditions and item IDs.
+Data is stored locally; the addon makes no network requests. Older endgame guides
+without phase labels are assigned to the endgame pool. Lists are community guidance,
+not simulations. Normal and heroic versions are separate item IDs.
 
-Features include:
+## Realms and compatibility
 
-- **BIS and alternative gear**, rather than BIS-only lists.
-- **Phase-aware labels:** BIS 4, BIS 3>4, ALT 3 and ALT 4.
-- **All available class/spec assessments shown automatically.** No Shift key is required.
-- **Class-colored headings and complete assessment lines.**
-- **Comma-separated specs** when their label and conditional status match.
-- **Compact text:** the recommendation block uses 80% of the tooltip body font size, with a 9-point minimum.
-- **Narrow layout:** long spec groups break at spec boundaries instead of extending indefinitely sideways.
-- **Inline placement** above recognized Vendor, Auction, Disenchant or Sell Price lines.
-- **Offline operation:** the addon reads a bundled Lua database.
-- **Separate Feral Cat and Feral Bear recommendations.**
+Icecrown, Lordaeron, Onyxia and Blackrock are detected; other realm names use generic.
+All profiles share the same PvE database. Realm detection does not check raid unlocks,
+item availability or PvP suitability. No Turtle, Vanilla, Classic Era or Retail support.
 
-It does not automatically equip items, calculate your DPS, simulate your character or compare every item against your currently equipped gear.
+## Transmog
 
-## Where the information comes from
-
-**The sole recommendation source is Wowhead's WotLK Classic Phase 3 and Phase 4 class/role guides.**
-
-The current database snapshot was collected on **September 10, 2026** from **61 guide pages**. It uses their gear recommendation tables, including Best/BiS entries and selected positive alternatives.
-
-Example source pages:
-
-- [Fury Warrior — Phase 3](https://www.wowhead.com/wotlk/guide/classes/warrior/fury/dps-bis-gear-pve-phase-3)
-- [Fury Warrior — Phase 4](https://www.wowhead.com/wotlk/guide/classes/warrior/fury/dps-bis-gear-pve-phase-4)
-
-The release package includes **SOURCES.json** with an evidence record for every imported item/spec assessment. Records contain the item ID, item name, spec, assigned addon label, original guide table label, guide section and source URL.
-
-### Local data, not a live connection
-
-The addon does **not** contact Wowhead while you play. It extracts the item ID from the tooltip's item link and looks it up in Database.lua.
-
-Changes made to a Wowhead guide do not automatically change your installed addon. The database must be reviewed, rebuilt and distributed in an updated package.
-
-### How recommendations are interpreted
-
-The database is imported from guide tables and classified into the addon labels. It is not a newly created simulation ranking. A guide may identify several items as Best for one slot, or recommend different items for different builds and situations.
-
-Purchase-priority numbers are not treated as gear ranks. Weak/catch-up entries and unsupported Classic-only item IDs are excluded by the import rules. Conditional choices are marked where identified, and the original table wording is retained in SOURCES.json.
-
-## Database size and coverage
-
-| Coverage | Current snapshot |
-| --- | ---: |
-| Unique item IDs | **1,306** |
-| Item/spec assessments | **3,904** |
-| Wowhead guide pages imported | **61** |
-| Classes covered | **10** |
-| Spec/role categories | **31** |
-| Guide phases | **3 and 4** |
-
-An assessment is one recommendation for one item and one spec/role. The same item may have several assessments, so **3,904 assessments does not mean 3,904 different items**.
-
-### Class and role categories
-
-| Class | Categories in the database |
-| --- | --- |
-| Warrior | Arms, Fury, Protection |
-| Paladin | Holy, Protection, Retribution |
-| Hunter | Beast Mastery, Marksmanship, Survival |
-| Rogue | Assassination, Combat, Subtlety |
-| Priest | Discipline, Holy, Shadow |
-| Death Knight | Blood tank, Frost DPS, Unholy DPS |
-| Shaman | Elemental, Enhancement, Restoration |
-| Mage | Arcane, Fire, Frost |
-| Warlock | Affliction, Demonology, Destruction |
-| Druid | Balance, Feral Cat, Feral Bear, Restoration |
-
-This is **not every item in World of Warcraft**, and coverage of all classes does not guarantee that every possible build or every BIS item has been manually verified.
-
-**Known coverage gap:** the Balance Druid Phase 3 source redirected to an unrelated WoW Classic guide and was excluded. Balance Phase 4 data is present, but its Phase 3 history is incomplete.
-
-## Understanding BIS and ALT labels
-
-| Label | Meaning |
-| --- | --- |
-| **BIS 4** | The imported Phase 4 guide table identifies the item as Best/BiS; matching Phase 3 Best/BiS evidence is not recorded. |
-| **BIS 3>4** | Best/BiS evidence is recorded for both Phase 3 and Phase 4. |
-| **ALT 3** | Phase 3 Best/BiS evidence exists, but no Phase 4 Best/BiS evidence is recorded. |
-| **ALT 4** | A positive Phase 4 alternative is recorded, without Phase 3 Best/BiS evidence. |
-
-The numbers are **guide phases**, not item ranks, item levels or a guarantee of the raid where an item first dropped.
-
-For overlapping evidence, the display uses this order: **BIS 3>4 → BIS 4 → ALT 3 → ALT 4**. For example, a former Phase 3 BIS item also listed as a Phase 4 alternative displays ALT 3.
-
-There are no invented numerical rankings such as #1 or #2 in this version. ALT 3 is a historical label, not a calculation proving that the item will improve your character.
-
-### What the asterisk means
-
-An assessment ending in an asterisk (*) is a conditional choice identified during import. Conditions can involve race, set bonuses, stat caps, encounter requirements or other guide-specific assumptions. Consult the original guide and source record before treating it as a universal recommendation.
-
-The marker is not a replacement for reading the guide; automated classification does not capture every nuance in its explanatory text.
-
-### Example lookups
-
-For Warrior assessments in the current snapshot:
-
-| Item | Item ID | Label |
-| --- | ---: | --- |
-| Deathbringer's Will — Heroic | 50363 | BIS 4 |
-| Sylvanas' Cunning | 47545 | BIS 3>4 |
-| Death's Choice — Heroic | 47464 | ALT 3 |
-| Shadow's Edge | 49888 | ALT 4 |
-
-Normal and Heroic versions generally have different item IDs and are evaluated separately. A rating for one version should not be assumed to apply to the other.
-
-## Display and colors
-
-A typical block looks like this:
-
-    Warrior
-      ARMS, FURY - BIS 4
-
-The complete assessment line uses the class color, including the spec names and BIS/ALT label. Warrior is brown, Mage light blue, Death Knight red, Paladin pink, Druid orange, and the other classes use their corresponding colors.
-
-Specs are combined only within the same class and only when their phase label and conditional flag match. Different labels remain on separate lines. Longer groups are split into shorter lines and repeat the label to keep each line understandable.
-
-The block is inserted before the first recognized English Vendor, Auction, Disenchant or Sell Price line. When no such line exists, it is appended to the tooltip. The main tooltip is clamped to the screen, but native item text and other addons can still influence its width and height.
-
-## Compatibility
-
-| Client/environment | Status |
-| --- | --- |
-| Original WotLK 3.3.5a, build 12340 | Target client; TOC Interface 30300 |
-| Warmane using the target client | Intended use; not a Warmane-only addon |
-| Other servers using standard 3.3.5a clients/item IDs | Expected to work, but not individually verified |
-| Custom items, custom item IDs or rebalanced servers | Data may be missing or recommendations may differ |
-| WotLK Classic client | Not supported by this build |
-| Classic Era / Season of Discovery / Retail | Not supported by this build |
-
-**Client compatibility and recommendation accuracy are separate.** The Lua addon targets original 3.3.5a, while its recommendation sources target WotLK Classic. Differences in item tuning, including Ulduar changes, may affect recommendations on an original-client server.
-
-The addon hooks the standard **GameTooltip** and **ItemRefTooltip**. This supports item displays in bags, loot, character equipment, Inspect, the Auction House and opened chat item links where those tooltips are used. Custom tooltip frames and separate comparison tooltips are not hooked.
-
-Inspect shows the database's available class/role assessments. It does not analyze the inspected player's build.
+The addon reads the first item ID from GameTooltip:GetItem(), not the displayed name
+or appearance. A Shadowmourne hyperlink remains item 49623 even with a changed name.
+This path is mock-tested; Warmane transmog has not been tested live. If a server or
+custom addon supplies an appearance-item hyperlink, its ID will be evaluated instead.
+Shadowmourne now has Arms and Fury ratings; both are tested against its original item ID.
 
 ## Installation
 
-1. Open the project's **Releases** page.
-2. Download the packaged ModernWotLK addon ZIP from the release's **Assets** section.
-3. Close World of Warcraft.
-4. Extract the ZIP into your game's **Interface/AddOns** directory.
-5. Verify this exact folder structure:
+1. Close WoW and back up the previous ModernWotLKBISTooltip folder.
+2. Extract this ZIP into World of Warcraft/Interface/AddOns/.
+3. Verify ModernWotLKBISTooltip/ModernWotLKBISTooltip.toc is directly inside that folder.
+4. Enable the addon on character selection and log in.
 
-    World of Warcraft/
-      Interface/
-        AddOns/
-          ModernWotLKBISTooltip/
-            ModernWotLKBISTooltip.toc
-            Core.lua
-            Database.lua
-            Tooltip.lua
+## Commands
 
-6. Start the game and open **AddOns** on the character-selection screen.
-7. Enable **ModernWotLK BIS Tooltip**.
-8. Enter the world and run **/mwbis** to check the loaded version.
+- /mwbis : version and profile
+- /mwbis coverage : actual database counts
+- /mwbis item 49623 : original guide URLs and conditions
+- /mwbis profile auto : automatic realm detection
+- /mwbis profile generic : manual generic profile (run /reload after changing)
 
-The game does not load a ZIP file directly. Avoid an extra nested folder such as AddOns/ModernWotLKBISTooltip/ModernWotLKBISTooltip.
+## Test in game
 
-No Git command, Python installation, external Lua package or internet connection is required to use the addon in game.
+Hover a known item in bags, equipment, loot, inspect and opened chat links.
+Check that pricing stays below the addon rows and repeated hovers do not duplicate them.
+Compare an equipped transmog item with its original item link: ratings should match.
+Unknown items should retain their normal tooltip. Custom tooltip frames may need integration.
 
-## Updating and uninstalling
+## Validation
 
-To update, close the game, extract the new package into the same AddOns directory and replace the old addon files. Restart the game and check the version with /mwbis. If replacing files while logged in, use /reload; restart the client if the addon does not refresh correctly.
+Lua 5.1 mocked tests cover load order, both standard tooltip frames, pricing and coin
+anchors, repeated callbacks, font restoration, unknown items, realm detection and item-ID
+parsing with a cosmetic name. These do not replace a live client test.
 
-To uninstall, close the game and remove only the **ModernWotLKBISTooltip** folder from AddOns. The current version declares no SavedVariables settings.
+## Changes in 0.3.2-beta
 
-## Using the addon
+- Added Feral Cat, Feral Bear, Holy and Protection Paladin, Discipline, Shadow, Enhancement, Restoration Shaman, Arms, Protection Warrior and Balance.
+- Expanded Fury to a heroic endgame set, including Shadowmourne.
+- Added Cat phase 1/2/3 evidence, plus Arcane and Elemental phase 1 options.
+- Source diagnostics now include the phase. Compact tooltip layout is retained.
+- 376 items and 693 assessments: 183 items and 364 assessments more than 0.3.0-beta.
 
-Simply hover over a known item. Available assessments appear automatically; **Shift is not required**.
+Blood DK, Beast Mastery, Survival, Subtlety and Frost Mage remain uncurated.
+Most covered specs still lack early-phase lists; see COVERAGE.md. No claim of all-game coverage.
+The data records forum recommendations, not independently simulated rankings.
 
-The **/mwbis** command reports the addon version and your detected talent tree. Detection uses the tree with the most points in the active talent group and responds to dual-spec changes. Zero points or tied trees may produce an unknown spec. This diagnostic result does not restrict the all-class display.
+## Suggested regression items
 
-There is currently no configuration window, in-game font slider, live gear score calculation or automatic BIS database updater.
+- 49623 Shadowmourne: Arms and Fury BIS 4, grouped on one recommendation line.
+- 45931: Feral Cat historical ALT 3.
+- 40516: Elemental historical ALT 1.
+- 50735: Feral Bear BIS 4 and Arms ALT 4.
+- 51265: Protection Paladin BIS 4.
 
-## Troubleshooting
+Reload after replacing the files. Test bags, equipment, loot, inspect and opened chat links.
+The automated tests passed under Lua 5.1; this updated database has not been tested in a live WoW client.
 
-### No addon entry on the character-selection screen
+## 0.3.2-beta healing tier fix
 
-Check that the ZIP was extracted and the .toc file is directly inside the correct addon folder. Confirm that you are launching the intended game installation and the 3.3.5a client.
+Added ten ilvl 251/264 Priest healing T10 items as conditional Discipline ALT 4. These are explicitly derived tier alternatives, not claimed as direct forum rankings. Item 51176 from the reported inspect screenshot was absent in 0.3.1. Heroic tier ratings are unchanged. This does not add every lower-level variant automatically.
 
-### No recommendation block on an item
+## 0.3.3-beta: lower-stat variants across classes
 
-First run /mwbis. Then test a known item, such as Heroic Deathbringer's Will (50363). An item outside the database has no recommendation block. **No data does not mean bad gear.** Normal/Heroic IDs may differ.
+Added 421 conditional ALT assessments (213 additional item IDs) across 25 covered specializations. The database now contains 599 items and 1124 assessments for 26 specs. Existing ratings are unchanged.
 
-### Chat link does not show ratings
+VARIANT-AUDIT.json records each added item, its source item, specialization and phase. These are derived alternatives, not direct Warmane forum rankings. Cached item metadata supplies identities and stat comparisons only; recommendations remain anchored to the Warmane source setup. No Wowhead rankings were imported.
 
-Click the item link to open its tooltip. The item link may need to be available in the client's cache. Custom chat/tooltip addons may display a different tooltip frame.
+Matching requires the same name (allowing the Sanctified tier prefix), slot, class restriction, socket configuration and stat types, with strictly lower stats. Missing metadata, different names, faction equivalents and unmatched variants are not automatically filled. Proc strength, set composition and stat caps still require player judgement. This is not complete coverage of all items or specs.
 
-### The tooltip is still wide or tall
-
-Long lists are narrowed and the BIS block font is reduced, but native item descriptions, many applicable roles, UI scale and other addons still affect the final size. Report the item ID and include a screenshot showing the whole tooltip.
-
-### Vendor or auction values are misplaced
-
-Price insertion depends on recognizable English labels. Addons with custom widgets or cached line positions may need dedicated compatibility work. Include the names of your tooltip, auction and pricing addons when reporting the issue.
-
-### I see a Lua error
-
-Enable error reporting with **/console scriptErrors 1**, then **/reload** and reproduce the problem. Include the full error, not only the first line, in your issue report.
-
-## Accuracy and known limitations
-
-- The database is a **snapshot**, not a continuously synchronized service.
-- Phase 4 means the current imported Wowhead Phase 4 pages, including **Ruby Sanctum updates where those pages contain them**. It is not a strictly ICC-only historical snapshot.
-- The import is automated and has not received a manual item-by-item audit across every spec and slot.
-- Multiple Best entries may represent different valid setups; there is no universal gear optimizer behind the labels.
-- The Balance Druid Phase 3 source gap remains open.
-- Server-specific balance, racial considerations, stat caps, set bonuses and encounter choices can change what is best for your character.
-- Not every talent build or tank/DPS variation has a separate category.
-- Source attribution identifies the recommendation origin; it does not imply endorsement by Wowhead or Blizzard.
-
-## Project structure
-
-| File in the addon package | Purpose |
-| --- | --- |
-| ModernWotLKBISTooltip.toc | Client interface version and Lua load order |
-| Core.lua | Namespace, class/talent detection, item ID lookup and filtering |
-| Database.lua | Local phase assessments and spec names |
-| Tooltip.lua | Grouped class-colored display, font handling and price-line insertion |
-| SOURCES.json | Evidence and URLs for imported assessments; not loaded in game |
-| Tests/test_addon.py | Mocked Lua integration and source-consistency tests |
-| VALIDATION.md | Release-specific checks and testing limits |
-| README.md | Installation and usage documentation |
-
-## Testing and reporting problems
-
-Lua 5.1 integration and source-consistency tests passed for v0.2.0. Later compact-font and narrow-layout changes received structural/package checks and user feedback, but the updated automated suite was not rerun in those release turns. See the packaged VALIDATION.md for the specific release.
-
-Developers can install Python and **lupa==2.8**, then run **python Tests/test_addon.py** from the addon folder. Mock tests do not replace testing in the actual WoW client with other addons enabled.
-
-When opening an issue, include:
-
-- Addon version from /mwbis.
-- Client version/build and server, if relevant.
-- Item name and item ID, including Normal or Heroic version.
-- Expected label and the exact Wowhead guide URL, for data issues.
-- Screenshot, UI scale and relevant addon names, for display issues.
-- Full Lua error and steps to reproduce, if applicable.
-
-## Version history
-
-| Version | Main change |
-| --- | --- |
-| 0.2.2 | Narrower layout, shorter heading/condition note and long-group splitting |
-| 0.2.1 | Smaller font for the BIS/ALT block |
-| 0.2.0 | Wowhead Phase 3/4 database, phase labels and full-line class colors |
-| 0.1.3 | Comma-separated specs for identical assessments |
-| 0.1.2 | Inline class-grouped display above price lines; no Shift requirement |
-| 0.1.1 | English-only text |
-| 0.1.0 | Initial proof of concept with demonstration data |
-
-## Supporting the project
-
-You can support development by testing releases, reporting reproducible bugs, suggesting documented data corrections and sharing the project with other 3.3.5a players.
-
-A verified financial support link has not been added yet. Any future support link will be published on this project page; support is optional.
-
-## Credits and licensing
-
-Gear recommendations are attributed to **Wowhead and the authors of the linked WotLK guides**. This is an independent addon project, not an official Wowhead or Blizzard product.
-
-A project license has not yet been selected. Do not assume the repository grants a particular open-source license, or that third-party source material is covered by the same terms as the addon code.
+Tests verify every previous rating stays unchanged and every added assessment renders as conditional ALT. Live-client testing is still needed.

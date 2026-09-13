@@ -1,0 +1,2949 @@
+[
+  {
+    "item": 53126,
+    "parent": 54580,
+    "name": "Umbrage Armbands",
+    "spec": "WARRIOR_2",
+    "phase": 4
+  },
+  {
+    "item": 50326,
+    "parent": 51277,
+    "name": "Lightsworn Helmet",
+    "spec": "PALADIN_3",
+    "phase": 4
+  },
+  {
+    "item": 50324,
+    "parent": 51279,
+    "name": "Lightsworn Shoulderplates",
+    "spec": "PALADIN_3",
+    "phase": 4
+  },
+  {
+    "item": 50328,
+    "parent": 51275,
+    "name": "Lightsworn Battleplate",
+    "spec": "PALADIN_3",
+    "phase": 4
+  },
+  {
+    "item": 50002,
+    "parent": 50659,
+    "name": "Polar Bear Claw Bracers",
+    "spec": "PALADIN_3",
+    "phase": 4
+  },
+  {
+    "item": 50325,
+    "parent": 51278,
+    "name": "Lightsworn Legplates",
+    "spec": "PALADIN_3",
+    "phase": 4
+  },
+  {
+    "item": 49998,
+    "parent": 50653,
+    "name": "Shadowvault Slayer's Cloak",
+    "spec": "PALADIN_3",
+    "phase": 4
+  },
+  {
+    "item": 53126,
+    "parent": 54580,
+    "name": "Umbrage Armbands",
+    "spec": "PALADIN_3",
+    "phase": 4
+  },
+  {
+    "item": 53133,
+    "parent": 54576,
+    "name": "Signet of Twilight",
+    "spec": "PALADIN_3",
+    "phase": 4
+  },
+  {
+    "item": 50096,
+    "parent": 51312,
+    "name": "Scourgelord Helmet",
+    "spec": "DEATHKNIGHT_2",
+    "phase": 4
+  },
+  {
+    "item": 51127,
+    "parent": 51312,
+    "name": "Sanctified Scourgelord Helmet",
+    "spec": "DEATHKNIGHT_2",
+    "phase": 4
+  },
+  {
+    "item": 50098,
+    "parent": 51314,
+    "name": "Scourgelord Shoulderplates",
+    "spec": "DEATHKNIGHT_2",
+    "phase": 4
+  },
+  {
+    "item": 51125,
+    "parent": 51314,
+    "name": "Sanctified Scourgelord Shoulderplates",
+    "spec": "DEATHKNIGHT_2",
+    "phase": 4
+  },
+  {
+    "item": 50094,
+    "parent": 51310,
+    "name": "Scourgelord Battleplate",
+    "spec": "DEATHKNIGHT_2",
+    "phase": 4
+  },
+  {
+    "item": 51129,
+    "parent": 51310,
+    "name": "Sanctified Scourgelord Battleplate",
+    "spec": "DEATHKNIGHT_2",
+    "phase": 4
+  },
+  {
+    "item": 50333,
+    "parent": 50670,
+    "name": "Toskk's Maximized Wristguards",
+    "spec": "DEATHKNIGHT_2",
+    "phase": 4
+  },
+  {
+    "item": 50021,
+    "parent": 50675,
+    "name": "Aldriana's Gloves of Secrecy",
+    "spec": "DEATHKNIGHT_2",
+    "phase": 4
+  },
+  {
+    "item": 50187,
+    "parent": 50620,
+    "name": "Coldwraith Links",
+    "spec": "DEATHKNIGHT_2",
+    "phase": 4
+  },
+  {
+    "item": 50362,
+    "parent": 50363,
+    "name": "Deathbringer's Will",
+    "spec": "DEATHKNIGHT_2",
+    "phase": 4
+  },
+  {
+    "item": 54569,
+    "parent": 54590,
+    "name": "Sharpened Twilight Scale",
+    "spec": "DEATHKNIGHT_2",
+    "phase": 4
+  },
+  {
+    "item": 50096,
+    "parent": 51312,
+    "name": "Scourgelord Helmet",
+    "spec": "DEATHKNIGHT_3",
+    "phase": 4
+  },
+  {
+    "item": 51127,
+    "parent": 51312,
+    "name": "Sanctified Scourgelord Helmet",
+    "spec": "DEATHKNIGHT_3",
+    "phase": 4
+  },
+  {
+    "item": 50098,
+    "parent": 51314,
+    "name": "Scourgelord Shoulderplates",
+    "spec": "DEATHKNIGHT_3",
+    "phase": 4
+  },
+  {
+    "item": 51125,
+    "parent": 51314,
+    "name": "Sanctified Scourgelord Shoulderplates",
+    "spec": "DEATHKNIGHT_3",
+    "phase": 4
+  },
+  {
+    "item": 50019,
+    "parent": 50677,
+    "name": "Winding Sheet",
+    "spec": "DEATHKNIGHT_3",
+    "phase": 4
+  },
+  {
+    "item": 50094,
+    "parent": 51310,
+    "name": "Scourgelord Battleplate",
+    "spec": "DEATHKNIGHT_3",
+    "phase": 4
+  },
+  {
+    "item": 51129,
+    "parent": 51310,
+    "name": "Sanctified Scourgelord Battleplate",
+    "spec": "DEATHKNIGHT_3",
+    "phase": 4
+  },
+  {
+    "item": 53126,
+    "parent": 54580,
+    "name": "Umbrage Armbands",
+    "spec": "DEATHKNIGHT_3",
+    "phase": 4
+  },
+  {
+    "item": 50095,
+    "parent": 51311,
+    "name": "Scourgelord Gauntlets",
+    "spec": "DEATHKNIGHT_3",
+    "phase": 4
+  },
+  {
+    "item": 51128,
+    "parent": 51311,
+    "name": "Sanctified Scourgelord Gauntlets",
+    "spec": "DEATHKNIGHT_3",
+    "phase": 4
+  },
+  {
+    "item": 50187,
+    "parent": 50620,
+    "name": "Coldwraith Links",
+    "spec": "DEATHKNIGHT_3",
+    "phase": 4
+  },
+  {
+    "item": 50362,
+    "parent": 50363,
+    "name": "Deathbringer's Will",
+    "spec": "DEATHKNIGHT_3",
+    "phase": 4
+  },
+  {
+    "item": 54569,
+    "parent": 54590,
+    "name": "Sharpened Twilight Scale",
+    "spec": "DEATHKNIGHT_3",
+    "phase": 4
+  },
+  {
+    "item": 50241,
+    "parent": 51231,
+    "name": "Dark Coven Hood",
+    "spec": "WARLOCK_1",
+    "phase": 4
+  },
+  {
+    "item": 51208,
+    "parent": 51231,
+    "name": "Sanctified Dark Coven Hood",
+    "spec": "WARLOCK_1",
+    "phase": 4
+  },
+  {
+    "item": 50005,
+    "parent": 50658,
+    "name": "Amulet of the Silent Eulogy",
+    "spec": "WARLOCK_1",
+    "phase": 4
+  },
+  {
+    "item": 50244,
+    "parent": 51234,
+    "name": "Dark Coven Shoulderpads",
+    "spec": "WARLOCK_1",
+    "phase": 4
+  },
+  {
+    "item": 51205,
+    "parent": 51234,
+    "name": "Sanctified Dark Coven Shoulderpads",
+    "spec": "WARLOCK_1",
+    "phase": 4
+  },
+  {
+    "item": 53489,
+    "parent": 54583,
+    "name": "Cloak of Burning Dusk",
+    "spec": "WARLOCK_1",
+    "phase": 4
+  },
+  {
+    "item": 50243,
+    "parent": 51233,
+    "name": "Dark Coven Robe",
+    "spec": "WARLOCK_1",
+    "phase": 4
+  },
+  {
+    "item": 51206,
+    "parent": 51233,
+    "name": "Sanctified Dark Coven Robe",
+    "spec": "WARLOCK_1",
+    "phase": 4
+  },
+  {
+    "item": 53486,
+    "parent": 54582,
+    "name": "Bracers of Fiery Night",
+    "spec": "WARLOCK_1",
+    "phase": 4
+  },
+  {
+    "item": 50240,
+    "parent": 51230,
+    "name": "Dark Coven Gloves",
+    "spec": "WARLOCK_1",
+    "phase": 4
+  },
+  {
+    "item": 51209,
+    "parent": 51230,
+    "name": "Sanctified Dark Coven Gloves",
+    "spec": "WARLOCK_1",
+    "phase": 4
+  },
+  {
+    "item": 49978,
+    "parent": 50613,
+    "name": "Crushing Coldwraith Belt",
+    "spec": "WARLOCK_1",
+    "phase": 4
+  },
+  {
+    "item": 50062,
+    "parent": 50699,
+    "name": "Plague Scientist's Boots",
+    "spec": "WARLOCK_1",
+    "phase": 4
+  },
+  {
+    "item": 50170,
+    "parent": 50714,
+    "name": "Valanar's Other Signet Ring",
+    "spec": "WARLOCK_1",
+    "phase": 4
+  },
+  {
+    "item": 50008,
+    "parent": 50664,
+    "name": "Ring of Rapid Ascent",
+    "spec": "WARLOCK_1",
+    "phase": 4
+  },
+  {
+    "item": 54572,
+    "parent": 54588,
+    "name": "Charred Twilight Scale",
+    "spec": "WARLOCK_1",
+    "phase": 4
+  },
+  {
+    "item": 50173,
+    "parent": 50719,
+    "name": "Shadow Silk Spindle",
+    "spec": "WARLOCK_1",
+    "phase": 4
+  },
+  {
+    "item": 50353,
+    "parent": 50348,
+    "name": "Dislodged Foreign Object",
+    "spec": "WARLOCK_1",
+    "phase": 4
+  },
+  {
+    "item": 50241,
+    "parent": 51231,
+    "name": "Dark Coven Hood",
+    "spec": "WARLOCK_2",
+    "phase": 4
+  },
+  {
+    "item": 51208,
+    "parent": 51231,
+    "name": "Sanctified Dark Coven Hood",
+    "spec": "WARLOCK_2",
+    "phase": 4
+  },
+  {
+    "item": 50005,
+    "parent": 50658,
+    "name": "Amulet of the Silent Eulogy",
+    "spec": "WARLOCK_2",
+    "phase": 4
+  },
+  {
+    "item": 50244,
+    "parent": 51234,
+    "name": "Dark Coven Shoulderpads",
+    "spec": "WARLOCK_2",
+    "phase": 4
+  },
+  {
+    "item": 51205,
+    "parent": 51234,
+    "name": "Sanctified Dark Coven Shoulderpads",
+    "spec": "WARLOCK_2",
+    "phase": 4
+  },
+  {
+    "item": 53489,
+    "parent": 54583,
+    "name": "Cloak of Burning Dusk",
+    "spec": "WARLOCK_2",
+    "phase": 4
+  },
+  {
+    "item": 50243,
+    "parent": 51233,
+    "name": "Dark Coven Robe",
+    "spec": "WARLOCK_2",
+    "phase": 4
+  },
+  {
+    "item": 51206,
+    "parent": 51233,
+    "name": "Sanctified Dark Coven Robe",
+    "spec": "WARLOCK_2",
+    "phase": 4
+  },
+  {
+    "item": 53486,
+    "parent": 54582,
+    "name": "Bracers of Fiery Night",
+    "spec": "WARLOCK_2",
+    "phase": 4
+  },
+  {
+    "item": 50240,
+    "parent": 51230,
+    "name": "Dark Coven Gloves",
+    "spec": "WARLOCK_2",
+    "phase": 4
+  },
+  {
+    "item": 51209,
+    "parent": 51230,
+    "name": "Sanctified Dark Coven Gloves",
+    "spec": "WARLOCK_2",
+    "phase": 4
+  },
+  {
+    "item": 49978,
+    "parent": 50613,
+    "name": "Crushing Coldwraith Belt",
+    "spec": "WARLOCK_2",
+    "phase": 4
+  },
+  {
+    "item": 50062,
+    "parent": 50699,
+    "name": "Plague Scientist's Boots",
+    "spec": "WARLOCK_2",
+    "phase": 4
+  },
+  {
+    "item": 50170,
+    "parent": 50714,
+    "name": "Valanar's Other Signet Ring",
+    "spec": "WARLOCK_2",
+    "phase": 4
+  },
+  {
+    "item": 50008,
+    "parent": 50664,
+    "name": "Ring of Rapid Ascent",
+    "spec": "WARLOCK_2",
+    "phase": 4
+  },
+  {
+    "item": 54572,
+    "parent": 54588,
+    "name": "Charred Twilight Scale",
+    "spec": "WARLOCK_2",
+    "phase": 4
+  },
+  {
+    "item": 50173,
+    "parent": 50719,
+    "name": "Shadow Silk Spindle",
+    "spec": "WARLOCK_2",
+    "phase": 4
+  },
+  {
+    "item": 50360,
+    "parent": 50365,
+    "name": "Phylactery of the Nameless Lich",
+    "spec": "WARLOCK_2",
+    "phase": 4
+  },
+  {
+    "item": 50241,
+    "parent": 51231,
+    "name": "Dark Coven Hood",
+    "spec": "WARLOCK_3",
+    "phase": 4
+  },
+  {
+    "item": 51208,
+    "parent": 51231,
+    "name": "Sanctified Dark Coven Hood",
+    "spec": "WARLOCK_3",
+    "phase": 4
+  },
+  {
+    "item": 50005,
+    "parent": 50658,
+    "name": "Amulet of the Silent Eulogy",
+    "spec": "WARLOCK_3",
+    "phase": 4
+  },
+  {
+    "item": 50244,
+    "parent": 51234,
+    "name": "Dark Coven Shoulderpads",
+    "spec": "WARLOCK_3",
+    "phase": 4
+  },
+  {
+    "item": 51205,
+    "parent": 51234,
+    "name": "Sanctified Dark Coven Shoulderpads",
+    "spec": "WARLOCK_3",
+    "phase": 4
+  },
+  {
+    "item": 53489,
+    "parent": 54583,
+    "name": "Cloak of Burning Dusk",
+    "spec": "WARLOCK_3",
+    "phase": 4
+  },
+  {
+    "item": 50243,
+    "parent": 51233,
+    "name": "Dark Coven Robe",
+    "spec": "WARLOCK_3",
+    "phase": 4
+  },
+  {
+    "item": 51206,
+    "parent": 51233,
+    "name": "Sanctified Dark Coven Robe",
+    "spec": "WARLOCK_3",
+    "phase": 4
+  },
+  {
+    "item": 53486,
+    "parent": 54582,
+    "name": "Bracers of Fiery Night",
+    "spec": "WARLOCK_3",
+    "phase": 4
+  },
+  {
+    "item": 50240,
+    "parent": 51230,
+    "name": "Dark Coven Gloves",
+    "spec": "WARLOCK_3",
+    "phase": 4
+  },
+  {
+    "item": 51209,
+    "parent": 51230,
+    "name": "Sanctified Dark Coven Gloves",
+    "spec": "WARLOCK_3",
+    "phase": 4
+  },
+  {
+    "item": 49978,
+    "parent": 50613,
+    "name": "Crushing Coldwraith Belt",
+    "spec": "WARLOCK_3",
+    "phase": 4
+  },
+  {
+    "item": 50062,
+    "parent": 50699,
+    "name": "Plague Scientist's Boots",
+    "spec": "WARLOCK_3",
+    "phase": 4
+  },
+  {
+    "item": 50170,
+    "parent": 50714,
+    "name": "Valanar's Other Signet Ring",
+    "spec": "WARLOCK_3",
+    "phase": 4
+  },
+  {
+    "item": 50008,
+    "parent": 50664,
+    "name": "Ring of Rapid Ascent",
+    "spec": "WARLOCK_3",
+    "phase": 4
+  },
+  {
+    "item": 54572,
+    "parent": 54588,
+    "name": "Charred Twilight Scale",
+    "spec": "WARLOCK_3",
+    "phase": 4
+  },
+  {
+    "item": 50173,
+    "parent": 50719,
+    "name": "Shadow Silk Spindle",
+    "spec": "WARLOCK_3",
+    "phase": 4
+  },
+  {
+    "item": 50242,
+    "parent": 51232,
+    "name": "Dark Coven Leggings",
+    "spec": "WARLOCK_3",
+    "phase": 4
+  },
+  {
+    "item": 51207,
+    "parent": 51232,
+    "name": "Sanctified Dark Coven Leggings",
+    "spec": "WARLOCK_3",
+    "phase": 4
+  },
+  {
+    "item": 50360,
+    "parent": 50365,
+    "name": "Phylactery of the Nameless Lich",
+    "spec": "WARLOCK_3",
+    "phase": 4
+  },
+  {
+    "item": 50276,
+    "parent": 51281,
+    "name": "Bloodmage Hood",
+    "spec": "MAGE_1",
+    "phase": 4
+  },
+  {
+    "item": 51158,
+    "parent": 51281,
+    "name": "Sanctified Bloodmage Hood",
+    "spec": "MAGE_1",
+    "phase": 4
+  },
+  {
+    "item": 50279,
+    "parent": 51284,
+    "name": "Bloodmage Shoulderpads",
+    "spec": "MAGE_1",
+    "phase": 4
+  },
+  {
+    "item": 51155,
+    "parent": 51284,
+    "name": "Sanctified Bloodmage Shoulderpads",
+    "spec": "MAGE_1",
+    "phase": 4
+  },
+  {
+    "item": 53489,
+    "parent": 54583,
+    "name": "Cloak of Burning Dusk",
+    "spec": "MAGE_1",
+    "phase": 4
+  },
+  {
+    "item": 53486,
+    "parent": 54582,
+    "name": "Bracers of Fiery Night",
+    "spec": "MAGE_1",
+    "phase": 4
+  },
+  {
+    "item": 51716,
+    "parent": 51280,
+    "name": "Bloodmage Gloves",
+    "spec": "MAGE_1",
+    "phase": 4
+  },
+  {
+    "item": 51159,
+    "parent": 51280,
+    "name": "Sanctified Bloodmage Gloves",
+    "spec": "MAGE_1",
+    "phase": 4
+  },
+  {
+    "item": 50275,
+    "parent": 51280,
+    "name": "Bloodmage Gloves",
+    "spec": "MAGE_1",
+    "phase": 4
+  },
+  {
+    "item": 49978,
+    "parent": 50613,
+    "name": "Crushing Coldwraith Belt",
+    "spec": "MAGE_1",
+    "phase": 4
+  },
+  {
+    "item": 50062,
+    "parent": 50699,
+    "name": "Plague Scientist's Boots",
+    "spec": "MAGE_1",
+    "phase": 4
+  },
+  {
+    "item": 54572,
+    "parent": 54588,
+    "name": "Charred Twilight Scale",
+    "spec": "MAGE_1",
+    "phase": 4
+  },
+  {
+    "item": 50173,
+    "parent": 50719,
+    "name": "Shadow Silk Spindle",
+    "spec": "MAGE_1",
+    "phase": 4
+  },
+  {
+    "item": 50278,
+    "parent": 51283,
+    "name": "Bloodmage Robe",
+    "spec": "MAGE_1",
+    "phase": 4
+  },
+  {
+    "item": 51156,
+    "parent": 51283,
+    "name": "Sanctified Bloodmage Robe",
+    "spec": "MAGE_1",
+    "phase": 4
+  },
+  {
+    "item": 50008,
+    "parent": 50664,
+    "name": "Ring of Rapid Ascent",
+    "spec": "MAGE_1",
+    "phase": 4
+  },
+  {
+    "item": 50353,
+    "parent": 50348,
+    "name": "Dislodged Foreign Object",
+    "spec": "MAGE_1",
+    "phase": 4
+  },
+  {
+    "item": 50276,
+    "parent": 51281,
+    "name": "Bloodmage Hood",
+    "spec": "MAGE_2",
+    "phase": 4
+  },
+  {
+    "item": 51158,
+    "parent": 51281,
+    "name": "Sanctified Bloodmage Hood",
+    "spec": "MAGE_2",
+    "phase": 4
+  },
+  {
+    "item": 50279,
+    "parent": 51284,
+    "name": "Bloodmage Shoulderpads",
+    "spec": "MAGE_2",
+    "phase": 4
+  },
+  {
+    "item": 51155,
+    "parent": 51284,
+    "name": "Sanctified Bloodmage Shoulderpads",
+    "spec": "MAGE_2",
+    "phase": 4
+  },
+  {
+    "item": 53489,
+    "parent": 54583,
+    "name": "Cloak of Burning Dusk",
+    "spec": "MAGE_2",
+    "phase": 4
+  },
+  {
+    "item": 53486,
+    "parent": 54582,
+    "name": "Bracers of Fiery Night",
+    "spec": "MAGE_2",
+    "phase": 4
+  },
+  {
+    "item": 51716,
+    "parent": 51280,
+    "name": "Bloodmage Gloves",
+    "spec": "MAGE_2",
+    "phase": 4
+  },
+  {
+    "item": 51159,
+    "parent": 51280,
+    "name": "Sanctified Bloodmage Gloves",
+    "spec": "MAGE_2",
+    "phase": 4
+  },
+  {
+    "item": 50275,
+    "parent": 51280,
+    "name": "Bloodmage Gloves",
+    "spec": "MAGE_2",
+    "phase": 4
+  },
+  {
+    "item": 49978,
+    "parent": 50613,
+    "name": "Crushing Coldwraith Belt",
+    "spec": "MAGE_2",
+    "phase": 4
+  },
+  {
+    "item": 50062,
+    "parent": 50699,
+    "name": "Plague Scientist's Boots",
+    "spec": "MAGE_2",
+    "phase": 4
+  },
+  {
+    "item": 54572,
+    "parent": 54588,
+    "name": "Charred Twilight Scale",
+    "spec": "MAGE_2",
+    "phase": 4
+  },
+  {
+    "item": 50173,
+    "parent": 50719,
+    "name": "Shadow Silk Spindle",
+    "spec": "MAGE_2",
+    "phase": 4
+  },
+  {
+    "item": 50418,
+    "parent": 50629,
+    "name": "Robe of the Waking Nightmare",
+    "spec": "MAGE_2",
+    "phase": 4
+  },
+  {
+    "item": 51714,
+    "parent": 51282,
+    "name": "Bloodmage Leggings",
+    "spec": "MAGE_2",
+    "phase": 4
+  },
+  {
+    "item": 51157,
+    "parent": 51282,
+    "name": "Sanctified Bloodmage Leggings",
+    "spec": "MAGE_2",
+    "phase": 4
+  },
+  {
+    "item": 50008,
+    "parent": 50664,
+    "name": "Ring of Rapid Ascent",
+    "spec": "MAGE_2",
+    "phase": 4
+  },
+  {
+    "item": 50360,
+    "parent": 50365,
+    "name": "Phylactery of the Nameless Lich",
+    "spec": "MAGE_2",
+    "phase": 4
+  },
+  {
+    "item": 50278,
+    "parent": 51283,
+    "name": "Bloodmage Robe",
+    "spec": "MAGE_2",
+    "phase": 4
+  },
+  {
+    "item": 51156,
+    "parent": 51283,
+    "name": "Sanctified Bloodmage Robe",
+    "spec": "MAGE_2",
+    "phase": 4
+  },
+  {
+    "item": 50063,
+    "parent": 50702,
+    "name": "Lingering Illness",
+    "spec": "MAGE_2",
+    "phase": 4
+  },
+  {
+    "item": 50115,
+    "parent": 51286,
+    "name": "Ahn'Kahar Blood Hunter's Headpiece",
+    "spec": "HUNTER_2",
+    "phase": 4
+  },
+  {
+    "item": 51153,
+    "parent": 51286,
+    "name": "Sanctified Ahn'Kahar Blood Hunter's Headpiece",
+    "spec": "HUNTER_2",
+    "phase": 4
+  },
+  {
+    "item": 50117,
+    "parent": 51288,
+    "name": "Ahn'Kahar Blood Hunter's Spaulders",
+    "spec": "HUNTER_2",
+    "phase": 4
+  },
+  {
+    "item": 51151,
+    "parent": 51288,
+    "name": "Sanctified Ahn'Kahar Blood Hunter's Spaulders",
+    "spec": "HUNTER_2",
+    "phase": 4
+  },
+  {
+    "item": 50118,
+    "parent": 51289,
+    "name": "Ahn'Kahar Blood Hunter's Tunic",
+    "spec": "HUNTER_2",
+    "phase": 4
+  },
+  {
+    "item": 51150,
+    "parent": 51289,
+    "name": "Sanctified Ahn'Kahar Blood Hunter's Tunic",
+    "spec": "HUNTER_2",
+    "phase": 4
+  },
+  {
+    "item": 50114,
+    "parent": 51285,
+    "name": "Ahn'Kahar Blood Hunter's Handguards",
+    "spec": "HUNTER_2",
+    "phase": 4
+  },
+  {
+    "item": 51154,
+    "parent": 51285,
+    "name": "Sanctified Ahn'Kahar Blood Hunter's Handguards",
+    "spec": "HUNTER_2",
+    "phase": 4
+  },
+  {
+    "item": 49988,
+    "parent": 50645,
+    "name": "Leggings of Northern Lights",
+    "spec": "HUNTER_2",
+    "phase": 4
+  },
+  {
+    "item": 50421,
+    "parent": 50633,
+    "name": "Sindragosa's Cruel Claw",
+    "spec": "HUNTER_2",
+    "phase": 4
+  },
+  {
+    "item": 50000,
+    "parent": 50655,
+    "name": "Scourge Hunter's Vambraces",
+    "spec": "HUNTER_2",
+    "phase": 4
+  },
+  {
+    "item": 50413,
+    "parent": 50688,
+    "name": "Nerub'ar Stalker's Cord",
+    "spec": "HUNTER_2",
+    "phase": 4
+  },
+  {
+    "item": 50362,
+    "parent": 50363,
+    "name": "Deathbringer's Will",
+    "spec": "HUNTER_2",
+    "phase": 4
+  },
+  {
+    "item": 54569,
+    "parent": 54590,
+    "name": "Sharpened Twilight Scale",
+    "spec": "HUNTER_2",
+    "phase": 4
+  },
+  {
+    "item": 51745,
+    "parent": 51252,
+    "name": "Shadowblade Helmet",
+    "spec": "ROGUE_2",
+    "phase": 4
+  },
+  {
+    "item": 51187,
+    "parent": 51252,
+    "name": "Sanctified Shadowblade Helmet",
+    "spec": "ROGUE_2",
+    "phase": 4
+  },
+  {
+    "item": 50421,
+    "parent": 50633,
+    "name": "Sindragosa's Cruel Claw",
+    "spec": "ROGUE_2",
+    "phase": 4
+  },
+  {
+    "item": 51746,
+    "parent": 51254,
+    "name": "Shadowblade Pauldrons",
+    "spec": "ROGUE_2",
+    "phase": 4
+  },
+  {
+    "item": 51185,
+    "parent": 51254,
+    "name": "Sanctified Shadowblade Pauldrons",
+    "spec": "ROGUE_2",
+    "phase": 4
+  },
+  {
+    "item": 50105,
+    "parent": 51254,
+    "name": "Shadowblade Pauldrons",
+    "spec": "ROGUE_2",
+    "phase": 4
+  },
+  {
+    "item": 50001,
+    "parent": 50656,
+    "name": "Ikfirus's Sack of Wonder",
+    "spec": "ROGUE_2",
+    "phase": 4
+  },
+  {
+    "item": 50333,
+    "parent": 50670,
+    "name": "Toskk's Maximized Wristguards",
+    "spec": "ROGUE_2",
+    "phase": 4
+  },
+  {
+    "item": 50021,
+    "parent": 50675,
+    "name": "Aldriana's Gloves of Secrecy",
+    "spec": "ROGUE_2",
+    "phase": 4
+  },
+  {
+    "item": 50067,
+    "parent": 50707,
+    "name": "Astrylian's Sutured Cinch",
+    "spec": "ROGUE_2",
+    "phase": 4
+  },
+  {
+    "item": 50042,
+    "parent": 50697,
+    "name": "Gangrenous Leggings",
+    "spec": "ROGUE_2",
+    "phase": 4
+  },
+  {
+    "item": 49950,
+    "parent": 50607,
+    "name": "Frostbitten Fur Boots",
+    "spec": "ROGUE_2",
+    "phase": 4
+  },
+  {
+    "item": 54569,
+    "parent": 54590,
+    "name": "Sharpened Twilight Scale",
+    "spec": "ROGUE_2",
+    "phase": 4
+  },
+  {
+    "item": 50362,
+    "parent": 50363,
+    "name": "Deathbringer's Will",
+    "spec": "ROGUE_2",
+    "phase": 4
+  },
+  {
+    "item": 49998,
+    "parent": 50653,
+    "name": "Shadowvault Slayer's Cloak",
+    "spec": "ROGUE_2",
+    "phase": 4
+  },
+  {
+    "item": 53126,
+    "parent": 54580,
+    "name": "Umbrage Armbands",
+    "spec": "ROGUE_2",
+    "phase": 4
+  },
+  {
+    "item": 53133,
+    "parent": 54576,
+    "name": "Signet of Twilight",
+    "spec": "ROGUE_2",
+    "phase": 4
+  },
+  {
+    "item": 51743,
+    "parent": 51250,
+    "name": "Shadowblade Breastplate",
+    "spec": "ROGUE_2",
+    "phase": 4
+  },
+  {
+    "item": 51189,
+    "parent": 51250,
+    "name": "Sanctified Shadowblade Breastplate",
+    "spec": "ROGUE_2",
+    "phase": 4
+  },
+  {
+    "item": 50087,
+    "parent": 51250,
+    "name": "Shadowblade Breastplate",
+    "spec": "ROGUE_2",
+    "phase": 4
+  },
+  {
+    "item": 51744,
+    "parent": 51253,
+    "name": "Shadowblade Legplates",
+    "spec": "ROGUE_2",
+    "phase": 4
+  },
+  {
+    "item": 51186,
+    "parent": 51253,
+    "name": "Sanctified Shadowblade Legplates",
+    "spec": "ROGUE_2",
+    "phase": 4
+  },
+  {
+    "item": 50090,
+    "parent": 51253,
+    "name": "Shadowblade Legplates",
+    "spec": "ROGUE_2",
+    "phase": 4
+  },
+  {
+    "item": 50107,
+    "parent": 51301,
+    "name": "Lasherweave Gauntlets",
+    "spec": "DRUID_3",
+    "phase": 4
+  },
+  {
+    "item": 51138,
+    "parent": 51301,
+    "name": "Sanctified Lasherweave Gauntlets",
+    "spec": "DRUID_3",
+    "phase": 4
+  },
+  {
+    "item": 50108,
+    "parent": 51302,
+    "name": "Lasherweave Helmet",
+    "spec": "DRUID_3",
+    "phase": 4
+  },
+  {
+    "item": 51137,
+    "parent": 51302,
+    "name": "Sanctified Lasherweave Helmet",
+    "spec": "DRUID_3",
+    "phase": 4
+  },
+  {
+    "item": 50109,
+    "parent": 51303,
+    "name": "Lasherweave Legplates",
+    "spec": "DRUID_3",
+    "phase": 4
+  },
+  {
+    "item": 51136,
+    "parent": 51303,
+    "name": "Sanctified Lasherweave Legplates",
+    "spec": "DRUID_3",
+    "phase": 4
+  },
+  {
+    "item": 50113,
+    "parent": 51304,
+    "name": "Lasherweave Pauldrons",
+    "spec": "DRUID_3",
+    "phase": 4
+  },
+  {
+    "item": 51135,
+    "parent": 51304,
+    "name": "Sanctified Lasherweave Pauldrons",
+    "spec": "DRUID_3",
+    "phase": 4
+  },
+  {
+    "item": 50172,
+    "parent": 50717,
+    "name": "Sanguine Silk Robes",
+    "spec": "DRUID_3",
+    "phase": 4
+  },
+  {
+    "item": 49975,
+    "parent": 50609,
+    "name": "Bone Sentinel's Amulet",
+    "spec": "DRUID_3",
+    "phase": 4
+  },
+  {
+    "item": 50014,
+    "parent": 50668,
+    "name": "Greatcloak of the Turned Champion",
+    "spec": "DRUID_3",
+    "phase": 4
+  },
+  {
+    "item": 53489,
+    "parent": 54583,
+    "name": "Cloak of Burning Dusk",
+    "spec": "DRUID_3",
+    "phase": 4
+  },
+  {
+    "item": 53486,
+    "parent": 54582,
+    "name": "Bracers of Fiery Night",
+    "spec": "DRUID_3",
+    "phase": 4
+  },
+  {
+    "item": 50424,
+    "parent": 50636,
+    "name": "Memory of Malygos",
+    "spec": "DRUID_3",
+    "phase": 4
+  },
+  {
+    "item": 50423,
+    "parent": 50635,
+    "name": "Sundial of Eternal Dusk",
+    "spec": "DRUID_3",
+    "phase": 4
+  },
+  {
+    "item": 50392,
+    "parent": 51255,
+    "name": "Crimson Acolyte Cowl",
+    "spec": "PRIEST_2",
+    "phase": 4
+  },
+  {
+    "item": 51184,
+    "parent": 51255,
+    "name": "Sanctified Crimson Acolyte Cowl",
+    "spec": "PRIEST_2",
+    "phase": 4
+  },
+  {
+    "item": 50396,
+    "parent": 51257,
+    "name": "Crimson Acolyte Mantle",
+    "spec": "PRIEST_2",
+    "phase": 4
+  },
+  {
+    "item": 51182,
+    "parent": 51257,
+    "name": "Sanctified Crimson Acolyte Mantle",
+    "spec": "PRIEST_2",
+    "phase": 4
+  },
+  {
+    "item": 50172,
+    "parent": 50717,
+    "name": "Sanguine Silk Robes",
+    "spec": "PRIEST_2",
+    "phase": 4
+  },
+  {
+    "item": 50766,
+    "parent": 51260,
+    "name": "Crimson Acolyte Gloves",
+    "spec": "PRIEST_2",
+    "phase": 4
+  },
+  {
+    "item": 51179,
+    "parent": 51260,
+    "name": "Sanctified Crimson Acolyte Gloves",
+    "spec": "PRIEST_2",
+    "phase": 4
+  },
+  {
+    "item": 50769,
+    "parent": 51262,
+    "name": "Crimson Acolyte Leggings",
+    "spec": "PRIEST_2",
+    "phase": 4
+  },
+  {
+    "item": 51177,
+    "parent": 51262,
+    "name": "Sanctified Crimson Acolyte Leggings",
+    "spec": "PRIEST_2",
+    "phase": 4
+  },
+  {
+    "item": 49975,
+    "parent": 50609,
+    "name": "Bone Sentinel's Amulet",
+    "spec": "PRIEST_2",
+    "phase": 4
+  },
+  {
+    "item": 50014,
+    "parent": 50668,
+    "name": "Greatcloak of the Turned Champion",
+    "spec": "PRIEST_2",
+    "phase": 4
+  },
+  {
+    "item": 53486,
+    "parent": 54582,
+    "name": "Bracers of Fiery Night",
+    "spec": "PRIEST_2",
+    "phase": 4
+  },
+  {
+    "item": 49978,
+    "parent": 50613,
+    "name": "Crushing Coldwraith Belt",
+    "spec": "PRIEST_2",
+    "phase": 4
+  },
+  {
+    "item": 50062,
+    "parent": 50699,
+    "name": "Plague Scientist's Boots",
+    "spec": "PRIEST_2",
+    "phase": 4
+  },
+  {
+    "item": 53490,
+    "parent": 54585,
+    "name": "Ring of Phased Regeneration",
+    "spec": "PRIEST_2",
+    "phase": 4
+  },
+  {
+    "item": 50424,
+    "parent": 50636,
+    "name": "Memory of Malygos",
+    "spec": "PRIEST_2",
+    "phase": 4
+  },
+  {
+    "item": 47271,
+    "parent": 47432,
+    "name": "Solace of the Fallen",
+    "spec": "PRIEST_2",
+    "phase": 4
+  },
+  {
+    "item": 50423,
+    "parent": 50635,
+    "name": "Sundial of Eternal Dusk",
+    "spec": "PRIEST_2",
+    "phase": 4
+  },
+  {
+    "item": 50843,
+    "parent": 51237,
+    "name": "Frost Witch's Helm",
+    "spec": "SHAMAN_1",
+    "phase": 4
+  },
+  {
+    "item": 51202,
+    "parent": 51237,
+    "name": "Sanctified Frost Witch's Helm",
+    "spec": "SHAMAN_1",
+    "phase": 4
+  },
+  {
+    "item": 50005,
+    "parent": 50658,
+    "name": "Amulet of the Silent Eulogy",
+    "spec": "SHAMAN_1",
+    "phase": 4
+  },
+  {
+    "item": 50845,
+    "parent": 51235,
+    "name": "Frost Witch's Shoulderpads",
+    "spec": "SHAMAN_1",
+    "phase": 4
+  },
+  {
+    "item": 51204,
+    "parent": 51235,
+    "name": "Sanctified Frost Witch's Shoulderpads",
+    "spec": "SHAMAN_1",
+    "phase": 4
+  },
+  {
+    "item": 53489,
+    "parent": 54583,
+    "name": "Cloak of Burning Dusk",
+    "spec": "SHAMAN_1",
+    "phase": 4
+  },
+  {
+    "item": 50841,
+    "parent": 51239,
+    "name": "Frost Witch's Hauberk",
+    "spec": "SHAMAN_1",
+    "phase": 4
+  },
+  {
+    "item": 51200,
+    "parent": 51239,
+    "name": "Sanctified Frost Witch's Hauberk",
+    "spec": "SHAMAN_1",
+    "phase": 4
+  },
+  {
+    "item": 53486,
+    "parent": 54582,
+    "name": "Bracers of Fiery Night",
+    "spec": "SHAMAN_1",
+    "phase": 4
+  },
+  {
+    "item": 50842,
+    "parent": 51238,
+    "name": "Frost Witch's Gloves",
+    "spec": "SHAMAN_1",
+    "phase": 4
+  },
+  {
+    "item": 51201,
+    "parent": 51238,
+    "name": "Sanctified Frost Witch's Gloves",
+    "spec": "SHAMAN_1",
+    "phase": 4
+  },
+  {
+    "item": 53488,
+    "parent": 54587,
+    "name": "Split Shape Belt",
+    "spec": "SHAMAN_1",
+    "phase": 4
+  },
+  {
+    "item": 50844,
+    "parent": 51236,
+    "name": "Frost Witch's Kilt",
+    "spec": "SHAMAN_1",
+    "phase": 4
+  },
+  {
+    "item": 51203,
+    "parent": 51236,
+    "name": "Sanctified Frost Witch's Kilt",
+    "spec": "SHAMAN_1",
+    "phase": 4
+  },
+  {
+    "item": 50062,
+    "parent": 50699,
+    "name": "Plague Scientist's Boots",
+    "spec": "SHAMAN_1",
+    "phase": 4
+  },
+  {
+    "item": 50008,
+    "parent": 50664,
+    "name": "Ring of Rapid Ascent",
+    "spec": "SHAMAN_1",
+    "phase": 4
+  },
+  {
+    "item": 54572,
+    "parent": 54588,
+    "name": "Charred Twilight Scale",
+    "spec": "SHAMAN_1",
+    "phase": 4
+  },
+  {
+    "item": 50360,
+    "parent": 50365,
+    "name": "Phylactery of the Nameless Lich",
+    "spec": "SHAMAN_1",
+    "phase": 4
+  },
+  {
+    "item": 48194,
+    "parent": 48201,
+    "name": "Runetotem's Headguard of Triumph",
+    "spec": "DRUID_2_CAT",
+    "phase": 3
+  },
+  {
+    "item": 48197,
+    "parent": 48198,
+    "name": "Runetotem's Shoulderpads of Triumph",
+    "spec": "DRUID_2_CAT",
+    "phase": 3
+  },
+  {
+    "item": 48196,
+    "parent": 48199,
+    "name": "Runetotem's Raiments of Triumph",
+    "spec": "DRUID_2_CAT",
+    "phase": 3
+  },
+  {
+    "item": 48195,
+    "parent": 48200,
+    "name": "Runetotem's Legguards of Triumph",
+    "spec": "DRUID_2_CAT",
+    "phase": 3
+  },
+  {
+    "item": 48211,
+    "parent": 48204,
+    "name": "Malfurion's Headguard of Triumph",
+    "spec": "DRUID_2_CAT",
+    "phase": 3
+  },
+  {
+    "item": 48208,
+    "parent": 48207,
+    "name": "Malfurion's Shoulderpads of Triumph",
+    "spec": "DRUID_2_CAT",
+    "phase": 3
+  },
+  {
+    "item": 48209,
+    "parent": 48206,
+    "name": "Malfurion's Raiments of Triumph",
+    "spec": "DRUID_2_CAT",
+    "phase": 3
+  },
+  {
+    "item": 48210,
+    "parent": 48205,
+    "name": "Malfurion's Legguards of Triumph",
+    "spec": "DRUID_2_CAT",
+    "phase": 3
+  },
+  {
+    "item": 50826,
+    "parent": 51296,
+    "name": "Lasherweave Headguard",
+    "spec": "DRUID_2_CAT",
+    "phase": 4
+  },
+  {
+    "item": 51143,
+    "parent": 51296,
+    "name": "Sanctified Lasherweave Headguard",
+    "spec": "DRUID_2_CAT",
+    "phase": 4
+  },
+  {
+    "item": 50421,
+    "parent": 50633,
+    "name": "Sindragosa's Cruel Claw",
+    "spec": "DRUID_2_CAT",
+    "phase": 4
+  },
+  {
+    "item": 50824,
+    "parent": 51299,
+    "name": "Lasherweave Shoulderpads",
+    "spec": "DRUID_2_CAT",
+    "phase": 4
+  },
+  {
+    "item": 51140,
+    "parent": 51299,
+    "name": "Sanctified Lasherweave Shoulderpads",
+    "spec": "DRUID_2_CAT",
+    "phase": 4
+  },
+  {
+    "item": 49998,
+    "parent": 50653,
+    "name": "Shadowvault Slayer's Cloak",
+    "spec": "DRUID_2_CAT",
+    "phase": 4
+  },
+  {
+    "item": 50828,
+    "parent": 51298,
+    "name": "Lasherweave Raiment",
+    "spec": "DRUID_2_CAT",
+    "phase": 4
+  },
+  {
+    "item": 51141,
+    "parent": 51298,
+    "name": "Sanctified Lasherweave Raiment",
+    "spec": "DRUID_2_CAT",
+    "phase": 4
+  },
+  {
+    "item": 53126,
+    "parent": 54580,
+    "name": "Umbrage Armbands",
+    "spec": "DRUID_2_CAT",
+    "phase": 4
+  },
+  {
+    "item": 50021,
+    "parent": 50675,
+    "name": "Aldriana's Gloves of Secrecy",
+    "spec": "DRUID_2_CAT",
+    "phase": 4
+  },
+  {
+    "item": 50067,
+    "parent": 50707,
+    "name": "Astrylian's Sutured Cinch",
+    "spec": "DRUID_2_CAT",
+    "phase": 4
+  },
+  {
+    "item": 51142,
+    "parent": 51297,
+    "name": "Sanctified Lasherweave Legguards",
+    "spec": "DRUID_2_CAT",
+    "phase": 4
+  },
+  {
+    "item": 50825,
+    "parent": 51297,
+    "name": "Lasherweave Legguards",
+    "spec": "DRUID_2_CAT",
+    "phase": 4
+  },
+  {
+    "item": 49950,
+    "parent": 50607,
+    "name": "Frostbitten Fur Boots",
+    "spec": "DRUID_2_CAT",
+    "phase": 4
+  },
+  {
+    "item": 53133,
+    "parent": 54576,
+    "name": "Signet of Twilight",
+    "spec": "DRUID_2_CAT",
+    "phase": 4
+  },
+  {
+    "item": 49949,
+    "parent": 50604,
+    "name": "Band of the Bone Colossus",
+    "spec": "DRUID_2_CAT",
+    "phase": 4
+  },
+  {
+    "item": 54569,
+    "parent": 54590,
+    "name": "Sharpened Twilight Scale",
+    "spec": "DRUID_2_CAT",
+    "phase": 4
+  },
+  {
+    "item": 50362,
+    "parent": 50363,
+    "name": "Deathbringer's Will",
+    "spec": "DRUID_2_CAT",
+    "phase": 4
+  },
+  {
+    "item": 50833,
+    "parent": 51241,
+    "name": "Frost Witch's War-Kilt",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 51198,
+    "parent": 51241,
+    "name": "Sanctified Frost Witch's War-Kilt",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 54569,
+    "parent": 54590,
+    "name": "Sharpened Twilight Scale",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 50834,
+    "parent": 51240,
+    "name": "Frost Witch's Shoulderguards",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 51199,
+    "parent": 51240,
+    "name": "Sanctified Frost Witch's Shoulderguards",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 50832,
+    "parent": 51242,
+    "name": "Frost Witch's Faceguard",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 51197,
+    "parent": 51242,
+    "name": "Sanctified Frost Witch's Faceguard",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 50421,
+    "parent": 50633,
+    "name": "Sindragosa's Cruel Claw",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 50005,
+    "parent": 50658,
+    "name": "Amulet of the Silent Eulogy",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 49998,
+    "parent": 50653,
+    "name": "Shadowvault Slayer's Cloak",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 53126,
+    "parent": 54580,
+    "name": "Umbrage Armbands",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 50830,
+    "parent": 51244,
+    "name": "Frost Witch's Chestguard",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 51195,
+    "parent": 51244,
+    "name": "Sanctified Frost Witch's Chestguard",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 50001,
+    "parent": 50656,
+    "name": "Ikfirus's Sack of Wonder",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 50188,
+    "parent": 50619,
+    "name": "Anub'ar Stalker's Gloves",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 50831,
+    "parent": 51243,
+    "name": "Frost Witch's Grips",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 51196,
+    "parent": 51243,
+    "name": "Sanctified Frost Witch's Grips",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 49949,
+    "parent": 50604,
+    "name": "Band of the Bone Colossus",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 50362,
+    "parent": 50363,
+    "name": "Deathbringer's Will",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 50413,
+    "parent": 50688,
+    "name": "Nerub'ar Stalker's Cord",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 50000,
+    "parent": 50655,
+    "name": "Scourge Hunter's Vambraces",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 53133,
+    "parent": 54576,
+    "name": "Signet of Twilight",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 53489,
+    "parent": 54583,
+    "name": "Cloak of Burning Dusk",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 53486,
+    "parent": 54582,
+    "name": "Bracers of Fiery Night",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 54572,
+    "parent": 54588,
+    "name": "Charred Twilight Scale",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 53488,
+    "parent": 54587,
+    "name": "Split Shape Belt",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 50071,
+    "parent": 50711,
+    "name": "Treads of the Wasteland",
+    "spec": "SHAMAN_2",
+    "phase": 4
+  },
+  {
+    "item": 50867,
+    "parent": 51272,
+    "name": "Lightsworn Headpiece",
+    "spec": "PALADIN_1",
+    "phase": 4
+  },
+  {
+    "item": 51167,
+    "parent": 51272,
+    "name": "Sanctified Lightsworn Headpiece",
+    "spec": "PALADIN_1",
+    "phase": 4
+  },
+  {
+    "item": 50865,
+    "parent": 51273,
+    "name": "Lightsworn Spaulders",
+    "spec": "PALADIN_1",
+    "phase": 4
+  },
+  {
+    "item": 51166,
+    "parent": 51273,
+    "name": "Sanctified Lightsworn Spaulders",
+    "spec": "PALADIN_1",
+    "phase": 4
+  },
+  {
+    "item": 53489,
+    "parent": 54583,
+    "name": "Cloak of Burning Dusk",
+    "spec": "PALADIN_1",
+    "phase": 4
+  },
+  {
+    "item": 53134,
+    "parent": 54584,
+    "name": "Phaseshifter's Bracers",
+    "spec": "PALADIN_1",
+    "phase": 4
+  },
+  {
+    "item": 53488,
+    "parent": 54587,
+    "name": "Split Shape Belt",
+    "spec": "PALADIN_1",
+    "phase": 4
+  },
+  {
+    "item": 53487,
+    "parent": 54586,
+    "name": "Foreshadow Steps",
+    "spec": "PALADIN_1",
+    "phase": 4
+  },
+  {
+    "item": 50008,
+    "parent": 50664,
+    "name": "Ring of Rapid Ascent",
+    "spec": "PALADIN_1",
+    "phase": 4
+  },
+  {
+    "item": 53489,
+    "parent": 54583,
+    "name": "Cloak of Burning Dusk",
+    "spec": "PRIEST_1",
+    "phase": 4
+  },
+  {
+    "item": 53486,
+    "parent": 54582,
+    "name": "Bracers of Fiery Night",
+    "spec": "PRIEST_1",
+    "phase": 4
+  },
+  {
+    "item": 50062,
+    "parent": 50699,
+    "name": "Plague Scientist's Boots",
+    "spec": "PRIEST_1",
+    "phase": 4
+  },
+  {
+    "item": 53490,
+    "parent": 54585,
+    "name": "Ring of Phased Regeneration",
+    "spec": "PRIEST_1",
+    "phase": 4
+  },
+  {
+    "item": 50173,
+    "parent": 50719,
+    "name": "Shadow Silk Spindle",
+    "spec": "PRIEST_1",
+    "phase": 4
+  },
+  {
+    "item": 50176,
+    "parent": 50722,
+    "name": "San'layn Ritualist Gloves",
+    "spec": "PRIEST_1",
+    "phase": 4
+  },
+  {
+    "item": 50063,
+    "parent": 50702,
+    "name": "Lingering Illness",
+    "spec": "PRIEST_1",
+    "phase": 4
+  },
+  {
+    "item": 49990,
+    "parent": 50644,
+    "name": "Ring of Maddening Whispers",
+    "spec": "PRIEST_1",
+    "phase": 4
+  },
+  {
+    "item": 50394,
+    "parent": 51259,
+    "name": "Crimson Acolyte Raiments",
+    "spec": "PRIEST_1",
+    "phase": 4
+  },
+  {
+    "item": 51180,
+    "parent": 51259,
+    "name": "Sanctified Crimson Acolyte Raiments",
+    "spec": "PRIEST_1",
+    "phase": 4
+  },
+  {
+    "item": 49978,
+    "parent": 50613,
+    "name": "Crushing Coldwraith Belt",
+    "spec": "PRIEST_1",
+    "phase": 4
+  },
+  {
+    "item": 50008,
+    "parent": 50664,
+    "name": "Ring of Rapid Ascent",
+    "spec": "PRIEST_1",
+    "phase": 4
+  },
+  {
+    "item": 50392,
+    "parent": 51255,
+    "name": "Crimson Acolyte Cowl",
+    "spec": "PRIEST_3",
+    "phase": 4
+  },
+  {
+    "item": 51184,
+    "parent": 51255,
+    "name": "Sanctified Crimson Acolyte Cowl",
+    "spec": "PRIEST_3",
+    "phase": 4
+  },
+  {
+    "item": 50005,
+    "parent": 50658,
+    "name": "Amulet of the Silent Eulogy",
+    "spec": "PRIEST_3",
+    "phase": 4
+  },
+  {
+    "item": 50396,
+    "parent": 51257,
+    "name": "Crimson Acolyte Mantle",
+    "spec": "PRIEST_3",
+    "phase": 4
+  },
+  {
+    "item": 51182,
+    "parent": 51257,
+    "name": "Sanctified Crimson Acolyte Mantle",
+    "spec": "PRIEST_3",
+    "phase": 4
+  },
+  {
+    "item": 53489,
+    "parent": 54583,
+    "name": "Cloak of Burning Dusk",
+    "spec": "PRIEST_3",
+    "phase": 4
+  },
+  {
+    "item": 50394,
+    "parent": 51259,
+    "name": "Crimson Acolyte Raiments",
+    "spec": "PRIEST_3",
+    "phase": 4
+  },
+  {
+    "item": 51180,
+    "parent": 51259,
+    "name": "Sanctified Crimson Acolyte Raiments",
+    "spec": "PRIEST_3",
+    "phase": 4
+  },
+  {
+    "item": 53486,
+    "parent": 54582,
+    "name": "Bracers of Fiery Night",
+    "spec": "PRIEST_3",
+    "phase": 4
+  },
+  {
+    "item": 50391,
+    "parent": 51256,
+    "name": "Crimson Acolyte Handwraps",
+    "spec": "PRIEST_3",
+    "phase": 4
+  },
+  {
+    "item": 51183,
+    "parent": 51256,
+    "name": "Sanctified Crimson Acolyte Handwraps",
+    "spec": "PRIEST_3",
+    "phase": 4
+  },
+  {
+    "item": 49978,
+    "parent": 50613,
+    "name": "Crushing Coldwraith Belt",
+    "spec": "PRIEST_3",
+    "phase": 4
+  },
+  {
+    "item": 50062,
+    "parent": 50699,
+    "name": "Plague Scientist's Boots",
+    "spec": "PRIEST_3",
+    "phase": 4
+  },
+  {
+    "item": 50008,
+    "parent": 50664,
+    "name": "Ring of Rapid Ascent",
+    "spec": "PRIEST_3",
+    "phase": 4
+  },
+  {
+    "item": 50360,
+    "parent": 50365,
+    "name": "Phylactery of the Nameless Lich",
+    "spec": "PRIEST_3",
+    "phase": 4
+  },
+  {
+    "item": 54572,
+    "parent": 54588,
+    "name": "Charred Twilight Scale",
+    "spec": "PRIEST_3",
+    "phase": 4
+  },
+  {
+    "item": 50173,
+    "parent": 50719,
+    "name": "Shadow Silk Spindle",
+    "spec": "PRIEST_3",
+    "phase": 4
+  },
+  {
+    "item": 50837,
+    "parent": 51247,
+    "name": "Frost Witch's Headpiece",
+    "spec": "SHAMAN_3",
+    "phase": 4
+  },
+  {
+    "item": 51192,
+    "parent": 51247,
+    "name": "Sanctified Frost Witch's Headpiece",
+    "spec": "SHAMAN_3",
+    "phase": 4
+  },
+  {
+    "item": 50839,
+    "parent": 51245,
+    "name": "Frost Witch's Spaulders",
+    "spec": "SHAMAN_3",
+    "phase": 4
+  },
+  {
+    "item": 51194,
+    "parent": 51245,
+    "name": "Sanctified Frost Witch's Spaulders",
+    "spec": "SHAMAN_3",
+    "phase": 4
+  },
+  {
+    "item": 53489,
+    "parent": 54583,
+    "name": "Cloak of Burning Dusk",
+    "spec": "SHAMAN_3",
+    "phase": 4
+  },
+  {
+    "item": 50835,
+    "parent": 51249,
+    "name": "Frost Witch's Tunic",
+    "spec": "SHAMAN_3",
+    "phase": 4
+  },
+  {
+    "item": 51190,
+    "parent": 51249,
+    "name": "Sanctified Frost Witch's Tunic",
+    "spec": "SHAMAN_3",
+    "phase": 4
+  },
+  {
+    "item": 53486,
+    "parent": 54582,
+    "name": "Bracers of Fiery Night",
+    "spec": "SHAMAN_3",
+    "phase": 4
+  },
+  {
+    "item": 53134,
+    "parent": 54584,
+    "name": "Phaseshifter's Bracers",
+    "spec": "SHAMAN_3",
+    "phase": 4
+  },
+  {
+    "item": 50836,
+    "parent": 51248,
+    "name": "Frost Witch's Handguards",
+    "spec": "SHAMAN_3",
+    "phase": 4
+  },
+  {
+    "item": 51191,
+    "parent": 51248,
+    "name": "Sanctified Frost Witch's Handguards",
+    "spec": "SHAMAN_3",
+    "phase": 4
+  },
+  {
+    "item": 50064,
+    "parent": 50703,
+    "name": "Unclean Surgical Gloves",
+    "spec": "SHAMAN_3",
+    "phase": 4
+  },
+  {
+    "item": 53488,
+    "parent": 54587,
+    "name": "Split Shape Belt",
+    "spec": "SHAMAN_3",
+    "phase": 4
+  },
+  {
+    "item": 50838,
+    "parent": 51246,
+    "name": "Frost Witch's Legguards",
+    "spec": "SHAMAN_3",
+    "phase": 4
+  },
+  {
+    "item": 51193,
+    "parent": 51246,
+    "name": "Sanctified Frost Witch's Legguards",
+    "spec": "SHAMAN_3",
+    "phase": 4
+  },
+  {
+    "item": 50062,
+    "parent": 50699,
+    "name": "Plague Scientist's Boots",
+    "spec": "SHAMAN_3",
+    "phase": 4
+  },
+  {
+    "item": 50008,
+    "parent": 50664,
+    "name": "Ring of Rapid Ascent",
+    "spec": "SHAMAN_3",
+    "phase": 4
+  },
+  {
+    "item": 47041,
+    "parent": 47059,
+    "name": "Solace of the Defeated",
+    "spec": "SHAMAN_3",
+    "phase": 4
+  },
+  {
+    "item": 50826,
+    "parent": 51296,
+    "name": "Lasherweave Headguard",
+    "spec": "DRUID_2_BEAR",
+    "phase": 4
+  },
+  {
+    "item": 51143,
+    "parent": 51296,
+    "name": "Sanctified Lasherweave Headguard",
+    "spec": "DRUID_2_BEAR",
+    "phase": 4
+  },
+  {
+    "item": 50023,
+    "parent": 50682,
+    "name": "Bile-Encrusted Medallion",
+    "spec": "DRUID_2_BEAR",
+    "phase": 4
+  },
+  {
+    "item": 50824,
+    "parent": 51299,
+    "name": "Lasherweave Shoulderpads",
+    "spec": "DRUID_2_BEAR",
+    "phase": 4
+  },
+  {
+    "item": 51140,
+    "parent": 51299,
+    "name": "Sanctified Lasherweave Shoulderpads",
+    "spec": "DRUID_2_BEAR",
+    "phase": 4
+  },
+  {
+    "item": 50001,
+    "parent": 50656,
+    "name": "Ikfirus's Sack of Wonder",
+    "spec": "DRUID_2_BEAR",
+    "phase": 4
+  },
+  {
+    "item": 53126,
+    "parent": 54580,
+    "name": "Umbrage Armbands",
+    "spec": "DRUID_2_BEAR",
+    "phase": 4
+  },
+  {
+    "item": 50827,
+    "parent": 51295,
+    "name": "Lasherweave Handgrips",
+    "spec": "DRUID_2_BEAR",
+    "phase": 4
+  },
+  {
+    "item": 51144,
+    "parent": 51295,
+    "name": "Sanctified Lasherweave Handgrips",
+    "spec": "DRUID_2_BEAR",
+    "phase": 4
+  },
+  {
+    "item": 50067,
+    "parent": 50707,
+    "name": "Astrylian's Sutured Cinch",
+    "spec": "DRUID_2_BEAR",
+    "phase": 4
+  },
+  {
+    "item": 51142,
+    "parent": 51297,
+    "name": "Sanctified Lasherweave Legguards",
+    "spec": "DRUID_2_BEAR",
+    "phase": 4
+  },
+  {
+    "item": 50825,
+    "parent": 51297,
+    "name": "Lasherweave Legguards",
+    "spec": "DRUID_2_BEAR",
+    "phase": 4
+  },
+  {
+    "item": 49950,
+    "parent": 50607,
+    "name": "Frostbitten Fur Boots",
+    "spec": "DRUID_2_BEAR",
+    "phase": 4
+  },
+  {
+    "item": 50185,
+    "parent": 50622,
+    "name": "Devium's Eternally Cold Ring",
+    "spec": "DRUID_2_BEAR",
+    "phase": 4
+  },
+  {
+    "item": 50361,
+    "parent": 50364,
+    "name": "Sindragosa's Flawless Fang",
+    "spec": "DRUID_2_BEAR",
+    "phase": 4
+  },
+  {
+    "item": 50341,
+    "parent": 50344,
+    "name": "Unidentifiable Organ",
+    "spec": "DRUID_2_BEAR",
+    "phase": 4
+  },
+  {
+    "item": 47080,
+    "parent": 47088,
+    "name": "Satrina's Impeding Scarab",
+    "spec": "DRUID_2_BEAR",
+    "phase": 4
+  },
+  {
+    "item": 47290,
+    "parent": 47451,
+    "name": "Juggernaut's Vitality",
+    "spec": "DRUID_2_BEAR",
+    "phase": 4
+  },
+  {
+    "item": 50848,
+    "parent": 51221,
+    "name": "Ymirjar Lord's Greathelm",
+    "spec": "WARRIOR_3",
+    "phase": 4
+  },
+  {
+    "item": 51774,
+    "parent": 51221,
+    "name": "Ymirjar Lord's Greathelm",
+    "spec": "WARRIOR_3",
+    "phase": 4
+  },
+  {
+    "item": 51218,
+    "parent": 51221,
+    "name": "Sanctified Ymirjar Lord's Greathelm",
+    "spec": "WARRIOR_3",
+    "phase": 4
+  },
+  {
+    "item": 50846,
+    "parent": 51224,
+    "name": "Ymirjar Lord's Pauldrons",
+    "spec": "WARRIOR_3",
+    "phase": 4
+  },
+  {
+    "item": 51215,
+    "parent": 51224,
+    "name": "Sanctified Ymirjar Lord's Pauldrons",
+    "spec": "WARRIOR_3",
+    "phase": 4
+  },
+  {
+    "item": 49960,
+    "parent": 50611,
+    "name": "Bracers of Dark Reckoning",
+    "spec": "WARRIOR_3",
+    "phase": 4
+  },
+  {
+    "item": 50849,
+    "parent": 51222,
+    "name": "Ymirjar Lord's Handguards",
+    "spec": "WARRIOR_3",
+    "phase": 4
+  },
+  {
+    "item": 51217,
+    "parent": 51222,
+    "name": "Sanctified Ymirjar Lord's Handguards",
+    "spec": "WARRIOR_3",
+    "phase": 4
+  },
+  {
+    "item": 50036,
+    "parent": 50691,
+    "name": "Belt of Broken Bones",
+    "spec": "WARRIOR_3",
+    "phase": 4
+  },
+  {
+    "item": 50847,
+    "parent": 51223,
+    "name": "Ymirjar Lord's Legguards",
+    "spec": "WARRIOR_3",
+    "phase": 4
+  },
+  {
+    "item": 51216,
+    "parent": 51223,
+    "name": "Sanctified Ymirjar Lord's Legguards",
+    "spec": "WARRIOR_3",
+    "phase": 4
+  },
+  {
+    "item": 53129,
+    "parent": 54579,
+    "name": "Treads of Impending Resurrection",
+    "spec": "WARRIOR_3",
+    "phase": 4
+  },
+  {
+    "item": 50185,
+    "parent": 50622,
+    "name": "Devium's Eternally Cold Ring",
+    "spec": "WARRIOR_3",
+    "phase": 4
+  },
+  {
+    "item": 50023,
+    "parent": 50682,
+    "name": "Bile-Encrusted Medallion",
+    "spec": "WARRIOR_3",
+    "phase": 4
+  },
+  {
+    "item": 50850,
+    "parent": 51220,
+    "name": "Ymirjar Lord's Breastplate",
+    "spec": "WARRIOR_3",
+    "phase": 4
+  },
+  {
+    "item": 51219,
+    "parent": 51220,
+    "name": "Sanctified Ymirjar Lord's Breastplate",
+    "spec": "WARRIOR_3",
+    "phase": 4
+  },
+  {
+    "item": 50802,
+    "parent": 51901,
+    "name": "Gargoyle Spit Bracers",
+    "spec": "WARRIOR_3",
+    "phase": 4
+  },
+  {
+    "item": 50190,
+    "parent": 50625,
+    "name": "Grinning Skull Greatboots",
+    "spec": "WARRIOR_3",
+    "phase": 4
+  },
+  {
+    "item": 50341,
+    "parent": 50344,
+    "name": "Unidentifiable Organ",
+    "spec": "WARRIOR_3",
+    "phase": 4
+  },
+  {
+    "item": 50080,
+    "parent": 51227,
+    "name": "Ymirjar Lord's Helmet",
+    "spec": "WARRIOR_1",
+    "phase": 4
+  },
+  {
+    "item": 51212,
+    "parent": 51227,
+    "name": "Sanctified Ymirjar Lord's Helmet",
+    "spec": "WARRIOR_1",
+    "phase": 4
+  },
+  {
+    "item": 50082,
+    "parent": 51229,
+    "name": "Ymirjar Lord's Shoulderplates",
+    "spec": "WARRIOR_1",
+    "phase": 4
+  },
+  {
+    "item": 51210,
+    "parent": 51229,
+    "name": "Sanctified Ymirjar Lord's Shoulderplates",
+    "spec": "WARRIOR_1",
+    "phase": 4
+  },
+  {
+    "item": 50078,
+    "parent": 51225,
+    "name": "Ymirjar Lord's Battleplate",
+    "spec": "WARRIOR_1",
+    "phase": 4
+  },
+  {
+    "item": 51214,
+    "parent": 51225,
+    "name": "Sanctified Ymirjar Lord's Battleplate",
+    "spec": "WARRIOR_1",
+    "phase": 4
+  },
+  {
+    "item": 50333,
+    "parent": 50670,
+    "name": "Toskk's Maximized Wristguards",
+    "spec": "WARRIOR_1",
+    "phase": 4
+  },
+  {
+    "item": 50079,
+    "parent": 51226,
+    "name": "Ymirjar Lord's Gauntlets",
+    "spec": "WARRIOR_1",
+    "phase": 4
+  },
+  {
+    "item": 51213,
+    "parent": 51226,
+    "name": "Sanctified Ymirjar Lord's Gauntlets",
+    "spec": "WARRIOR_1",
+    "phase": 4
+  },
+  {
+    "item": 50187,
+    "parent": 50620,
+    "name": "Coldwraith Links",
+    "spec": "WARRIOR_1",
+    "phase": 4
+  },
+  {
+    "item": 49988,
+    "parent": 50645,
+    "name": "Leggings of Northern Lights",
+    "spec": "WARRIOR_1",
+    "phase": 4
+  },
+  {
+    "item": 49949,
+    "parent": 50604,
+    "name": "Band of the Bone Colossus",
+    "spec": "WARRIOR_1",
+    "phase": 4
+  },
+  {
+    "item": 50362,
+    "parent": 50363,
+    "name": "Deathbringer's Will",
+    "spec": "WARRIOR_1",
+    "phase": 4
+  },
+  {
+    "item": 54569,
+    "parent": 54590,
+    "name": "Sharpened Twilight Scale",
+    "spec": "WARRIOR_1",
+    "phase": 4
+  },
+  {
+    "item": 51704,
+    "parent": 51290,
+    "name": "Lasherweave Cover",
+    "spec": "DRUID_1",
+    "phase": 4
+  },
+  {
+    "item": 51149,
+    "parent": 51290,
+    "name": "Sanctified Lasherweave Cover",
+    "spec": "DRUID_1",
+    "phase": 4
+  },
+  {
+    "item": 51706,
+    "parent": 51292,
+    "name": "Lasherweave Mantle",
+    "spec": "DRUID_1",
+    "phase": 4
+  },
+  {
+    "item": 51147,
+    "parent": 51292,
+    "name": "Sanctified Lasherweave Mantle",
+    "spec": "DRUID_1",
+    "phase": 4
+  },
+  {
+    "item": 50819,
+    "parent": 51292,
+    "name": "Lasherweave Mantle",
+    "spec": "DRUID_1",
+    "phase": 4
+  },
+  {
+    "item": 53489,
+    "parent": 54583,
+    "name": "Cloak of Burning Dusk",
+    "spec": "DRUID_1",
+    "phase": 4
+  },
+  {
+    "item": 51702,
+    "parent": 51294,
+    "name": "Lasherweave Vestment",
+    "spec": "DRUID_1",
+    "phase": 4
+  },
+  {
+    "item": 51145,
+    "parent": 51294,
+    "name": "Sanctified Lasherweave Vestment",
+    "spec": "DRUID_1",
+    "phase": 4
+  },
+  {
+    "item": 50823,
+    "parent": 51294,
+    "name": "Lasherweave Vestment",
+    "spec": "DRUID_1",
+    "phase": 4
+  },
+  {
+    "item": 53486,
+    "parent": 54582,
+    "name": "Bracers of Fiery Night",
+    "spec": "DRUID_1",
+    "phase": 4
+  },
+  {
+    "item": 51703,
+    "parent": 51291,
+    "name": "Lasherweave Gloves",
+    "spec": "DRUID_1",
+    "phase": 4
+  },
+  {
+    "item": 51148,
+    "parent": 51291,
+    "name": "Sanctified Lasherweave Gloves",
+    "spec": "DRUID_1",
+    "phase": 4
+  },
+  {
+    "item": 50822,
+    "parent": 51291,
+    "name": "Lasherweave Gloves",
+    "spec": "DRUID_1",
+    "phase": 4
+  },
+  {
+    "item": 49978,
+    "parent": 50613,
+    "name": "Crushing Coldwraith Belt",
+    "spec": "DRUID_1",
+    "phase": 4
+  },
+  {
+    "item": 50062,
+    "parent": 50699,
+    "name": "Plague Scientist's Boots",
+    "spec": "DRUID_1",
+    "phase": 4
+  },
+  {
+    "item": 50170,
+    "parent": 50714,
+    "name": "Valanar's Other Signet Ring",
+    "spec": "DRUID_1",
+    "phase": 4
+  },
+  {
+    "item": 54572,
+    "parent": 54588,
+    "name": "Charred Twilight Scale",
+    "spec": "DRUID_1",
+    "phase": 4
+  },
+  {
+    "item": 50360,
+    "parent": 50365,
+    "name": "Phylactery of the Nameless Lich",
+    "spec": "DRUID_1",
+    "phase": 4
+  },
+  {
+    "item": 50173,
+    "parent": 50719,
+    "name": "Shadow Silk Spindle",
+    "spec": "DRUID_1",
+    "phase": 4
+  },
+  {
+    "item": 49986,
+    "parent": 50640,
+    "name": "Broken Ram Skull Helm",
+    "spec": "PALADIN_2",
+    "phase": 4
+  },
+  {
+    "item": 50023,
+    "parent": 50682,
+    "name": "Bile-Encrusted Medallion",
+    "spec": "PALADIN_2",
+    "phase": 4
+  },
+  {
+    "item": 50860,
+    "parent": 51269,
+    "name": "Lightsworn Shoulderguards",
+    "spec": "PALADIN_2",
+    "phase": 4
+  },
+  {
+    "item": 51170,
+    "parent": 51269,
+    "name": "Sanctified Lightsworn Shoulderguards",
+    "spec": "PALADIN_2",
+    "phase": 4
+  },
+  {
+    "item": 50864,
+    "parent": 51265,
+    "name": "Lightsworn Chestguard",
+    "spec": "PALADIN_2",
+    "phase": 4
+  },
+  {
+    "item": 51174,
+    "parent": 51265,
+    "name": "Sanctified Lightsworn Chestguard",
+    "spec": "PALADIN_2",
+    "phase": 4
+  },
+  {
+    "item": 50802,
+    "parent": 51901,
+    "name": "Gargoyle Spit Bracers",
+    "spec": "PALADIN_2",
+    "phase": 4
+  },
+  {
+    "item": 50863,
+    "parent": 51267,
+    "name": "Lightsworn Handguards",
+    "spec": "PALADIN_2",
+    "phase": 4
+  },
+  {
+    "item": 51172,
+    "parent": 51267,
+    "name": "Sanctified Lightsworn Handguards",
+    "spec": "PALADIN_2",
+    "phase": 4
+  },
+  {
+    "item": 50861,
+    "parent": 51268,
+    "name": "Lightsworn Legguards",
+    "spec": "PALADIN_2",
+    "phase": 4
+  },
+  {
+    "item": 51171,
+    "parent": 51268,
+    "name": "Sanctified Lightsworn Legguards",
+    "spec": "PALADIN_2",
+    "phase": 4
+  },
+  {
+    "item": 53129,
+    "parent": 54579,
+    "name": "Treads of Impending Resurrection",
+    "spec": "PALADIN_2",
+    "phase": 4
+  },
+  {
+    "item": 50185,
+    "parent": 50622,
+    "name": "Devium's Eternally Cold Ring",
+    "spec": "PALADIN_2",
+    "phase": 4
+  },
+  {
+    "item": 50361,
+    "parent": 50364,
+    "name": "Sindragosa's Flawless Fang",
+    "spec": "PALADIN_2",
+    "phase": 4
+  },
+  {
+    "item": 50080,
+    "parent": 51227,
+    "name": "Ymirjar Lord's Helmet",
+    "spec": "WARRIOR_2",
+    "phase": 4
+  },
+  {
+    "item": 51212,
+    "parent": 51227,
+    "name": "Sanctified Ymirjar Lord's Helmet",
+    "spec": "WARRIOR_2",
+    "phase": 4
+  },
+  {
+    "item": 50082,
+    "parent": 51229,
+    "name": "Ymirjar Lord's Shoulderplates",
+    "spec": "WARRIOR_2",
+    "phase": 4
+  },
+  {
+    "item": 51210,
+    "parent": 51229,
+    "name": "Sanctified Ymirjar Lord's Shoulderplates",
+    "spec": "WARRIOR_2",
+    "phase": 4
+  },
+  {
+    "item": 50078,
+    "parent": 51225,
+    "name": "Ymirjar Lord's Battleplate",
+    "spec": "WARRIOR_2",
+    "phase": 4
+  },
+  {
+    "item": 51214,
+    "parent": 51225,
+    "name": "Sanctified Ymirjar Lord's Battleplate",
+    "spec": "WARRIOR_2",
+    "phase": 4
+  },
+  {
+    "item": 50021,
+    "parent": 50675,
+    "name": "Aldriana's Gloves of Secrecy",
+    "spec": "WARRIOR_2",
+    "phase": 4
+  },
+  {
+    "item": 50187,
+    "parent": 50620,
+    "name": "Coldwraith Links",
+    "spec": "WARRIOR_2",
+    "phase": 4
+  },
+  {
+    "item": 51211,
+    "parent": 51228,
+    "name": "Sanctified Ymirjar Lord's Legplates",
+    "spec": "WARRIOR_2",
+    "phase": 4
+  },
+  {
+    "item": 50081,
+    "parent": 51228,
+    "name": "Ymirjar Lord's Legplates",
+    "spec": "WARRIOR_2",
+    "phase": 4
+  },
+  {
+    "item": 49949,
+    "parent": 50604,
+    "name": "Band of the Bone Colossus",
+    "spec": "WARRIOR_2",
+    "phase": 4
+  },
+  {
+    "item": 54569,
+    "parent": 54590,
+    "name": "Sharpened Twilight Scale",
+    "spec": "WARRIOR_2",
+    "phase": 4
+  },
+  {
+    "item": 50362,
+    "parent": 50363,
+    "name": "Deathbringer's Will",
+    "spec": "WARRIOR_2",
+    "phase": 4
+  }
+]

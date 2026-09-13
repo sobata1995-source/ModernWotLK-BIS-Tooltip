@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: ModernWotLK BIS Tooltip
+## Notes: Warmane forum PvE gear reference. Partial curated beta database.
+## Author: ModernWotLK
+## Version: 0.3.3-beta
+## SavedVariablesPerCharacter: ModernWotLKBISSettings
+Core.lua
+Database.lua
+Profiles.lua
+Tooltip.lua
