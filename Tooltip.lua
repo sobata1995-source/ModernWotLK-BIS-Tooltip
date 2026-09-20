@@ -8,9 +8,39 @@ local colors = { WARRIOR = "ffc79c6e", PALADIN = "fff58cba",
 
 function A:DisplayLines(id)
     local lines, lastClass, groups = {}, nil, {}
-    if not self.items[id] then return lines end
+    if not self:HasAssessment(id) then return lines end
     lines[1] = HEADER
     lines[2] = "|cffaaaaaa" .. self:ProfileCaption() .. "|r"
+    local starter = self.preRaid and self.preRaid[id]
+    if starter then
+        local phases, seen = {}, {}
+        for _, entry in ipairs(starter) do
+            if not seen[entry.phase] then
+                seen[entry.phase] = true
+                phases[#phases + 1] = entry.phase
+            end
+        end
+        table.sort(phases)
+        lines[#lines + 1] = "|cff70cfffPRE RAID " .. table.concat(phases, ",") .. " - Starter gear|r"
+        seen = {}
+        for _, entry in ipairs(starter) do
+            if not seen[entry.source] then
+                seen[entry.source] = true
+                -- Wrap source names to preserve the existing compact tooltip.
+                local chunk = "From:"
+                for word in entry.source:gmatch("%S+") do
+                    if #chunk + #word + 1 > 38 then
+                        lines[#lines + 1] = "|cffaaaaaa" .. chunk .. "|r"
+                        chunk = word
+                    else
+                        chunk = chunk .. " " .. word
+                    end
+                end
+                lines[#lines + 1] = "|cffaaaaaa" .. chunk .. "|r"
+            end
+        end
+        lines[#lines + 1] = "|cffaaaaaaDetails: /mwbis item " .. id .. "|r"
+    end
     for _, row in ipairs(self:Rows(id, true)) do
         local class = string.match(row.key, "^([A-Z]+)_")
         if class ~= lastClass then
@@ -95,7 +125,7 @@ local function Attach(tip)
         if busy then return end
         local _, link = tip:GetItem()
         local id = A:ItemID(link)
-        if not id or not A.items[id] then return end
+        if not id or not A:HasAssessment(id) then return end
         local display = A:DisplayLines(id)
         local base, oldStart, count = {}, nil, tip:NumLines()
         if count == 0 then return end

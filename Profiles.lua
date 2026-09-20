@@ -32,7 +32,14 @@ function A:ProfileCaption()
 end
 function A:ShowItemSources(id)
     local item = self.items[id]
-    if not item then Say("No Warmane assessment for item " .. tostring(id) .. ". Missing is not a bad rating."); return end
+    if not self:HasAssessment(id) then Say("No assessment for item " .. tostring(id) .. ". Missing is not a bad rating."); return end
+    for _, entry in ipairs(self.preRaid and self.preRaid[id] or {}) do
+        Say("PRE RAID " .. entry.phase .. " (item " .. id .. "): " .. entry.source)
+        Say(entry.detail)
+    end
+    if self.preRaid and self.preRaid[id] then
+        Say("Starter acquisition option; not a per-spec BIS ranking. Match stats, armor, weapons and set bonuses to your build.")
+    end
     for _, row in ipairs(self:Rows(id,true)) do
         local rating = item.specs[row.key]
         Say(self.specNames[row.key] .. " - " .. rating.label .. " (item " .. id .. ")")
@@ -67,10 +74,23 @@ SlashCmdList.MODERNWOTLKBIS = function(message)
         local count = 0
         for _ in pairs(specs) do count = count + 1 end
         Say(items .. " items; " .. ratings .. " assessments; " .. count .. " covered specs. Partial beta database.")
+        local starterCount, phases = 0, { [1] = 0, [3] = 0, [4] = 0 }
+        for _, entries in pairs(A.preRaid or {}) do
+            starterCount = starterCount + 1
+            local seen = {}
+            for _, entry in ipairs(entries) do
+                if not seen[entry.phase] then
+                    seen[entry.phase] = true
+                    phases[entry.phase] = (phases[entry.phase] or 0) + 1
+                end
+            end
+        end
+        Say(starterCount .. " starter items: PRE RAID 1 = " .. phases[1] .. "; 3 = " .. phases[3] .. "; 4 = " .. phases[4] .. ". Acquisition pools, not spec rankings.")
         return
     end
     Say(A.version .. " | " .. A:ProfileCaption() .. " | realm: " .. A.realm)
     Say("Saved selection: " .. ModernWotLKBISSettings.profile .. ". Changes apply after /reload.")
     Say("Warmane forum snapshot; partial coverage. BIS/ALT are endgame references, not live progression or PvP ratings.")
+    Say("PRE RAID 1: Naxx starter; 3: ToC-era starter; 4: ICC/RS starter. Earlier gear keeps its original phase label.")
     Say("Commands: /mwbis profile NAME, /mwbis item ID, /mwbis coverage")
 end

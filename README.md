@@ -1,6 +1,28 @@
-# ModernWotLK BIS Tooltip 0.3.3-beta
+# ModernWotLK BIS Tooltip 0.3.4-beta
 
 Warmane forum PvE reference for the original WoW 3.3.5a client (Interface 30300).
+
+## 0.3.4-beta: Pre-Raid starter gear
+
+Adds 1,342 unique starter item IDs alongside the unchanged 599-item / 1,124-assessment BIS/ALT database:
+
+- **PRE RAID 1**: 616 Naxx-era starter items: dungeon gear, Heroism purchases (including T7 chest/gloves), Northrend reputation, crafting and Darkmoon cards.
+- **PRE RAID 3**: 386 ToC-era options: Trial of the Champion, Triumph gear, base T9 for both factions, tradeable Ulduar/ToC crafts and ToC BoEs.
+- **PRE RAID 4**: 340 ICC/RS starting options: normal/heroic FoS, PoS and HoR, Battered Hilt quest rewards, Frost gear, base T10, crafted items, ICC BoEs and Ashen Verdict rings.
+
+A PRE RAID label identifies a **starter acquisition pool**, not a per-spec BiS ranking or a complete optimized set. It appears once per item alongside existing class/spec BIS/ALT rows. Choose appropriate stats, armor, weapons, caps and set bonuses for your build. Earlier items retain their original phase label. The labels do not detect realm unlocks or guarantee raid readiness.
+
+Tooltips show the acquisition source. `/mwbis item ID` gives boss names, difficulty, emblem costs and conditions. `/mwbis coverage` reports starter counts separately from spec rankings. Source text wraps to preserve the compact layout.
+
+Only base T9 (232) and T10 (251) qualify through emblem purchases. Trophy/Mark upgrades and soulbound raid boss loot are excluded. Frost purchases take time through daily heroics. Ashen Verdict rings require ICC reputation/trash farming. Crafted items and BoEs may depend on other players supplying raid materials/recipes or drops. Profession requirements still apply.
+
+Coverage includes all classes' base T9/T10 sets and the selected acquisition tables, not every quest reward or every WotLK item. No Classic-only Titan Rune/Gamma/Scourgestone gear is imported. The original forum rankings in `Database.lua` are unchanged.
+
+`PRE-RAID-SOURCES.json` records every ID, exact AtlasLoot source commit/line and metadata checksum. Item identities and eligibility were checked against [AzerothCore's 3.3.5 data](https://github.com/azerothcore/azerothcore-wotlk/blob/master/data/sql/base/db_world/item_template.sql); this does not imply Warmane uses AzerothCore. Acquisition facts come from [AtlasLoot 3.3.5a](https://github.com/Gescht/AtlasLoot3.3.5a). The starter approach follows the [Warmane fresh-80 guide](https://forum.warmane.com/showthread.php?t=426653) and [ICC gearing guide](https://forum.warmane.com/showthread.php?t=462356).
+
+Run `lua test_preraid.lua` with Lua 5.1 from the source directory. Tests exercise every starter item in both standard tooltips, repeated callbacks, pricing, coin anchors, fonts, source commands, unknown IDs and tier exclusions. Original rankings/evidence were compared byte for byte to v0.3.3-beta. Live Warmane testing is still required.
+
+Quick checks: `37192` (PRE RAID 1), `47216` (PRE RAID 3), `50198` (PRE RAID 4), `50096` (base T10, PRE RAID 4). `49623` retains Arms/Fury BIS 4 without PRE RAID. Test bags, inspect, loot and chat links after `/reload`.
 
 ## Important: partial database
 
@@ -18,7 +40,7 @@ The original smaller font and narrow layout are retained.
 
 ## Phase labels
 
-This release is an endgame reference, not a progression filter.
+BIS/ALT labels are endgame references, not a progression filter. PRE RAID acquisition pools are described above.
 BIS 4 means listed in a curated endgame set (ICC/RS pool).
 ALT 1 or ALT 2 means an earlier-phase recommendation retained as a historical option;
 it is not proof that it competes with ICC gear. Early-phase evidence covers Assassination, Feral Cat, Arcane and Elemental, with different coverage per phase. Feral Cat has Phase 3 entries.

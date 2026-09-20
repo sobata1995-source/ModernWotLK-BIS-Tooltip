@@ -1,5 +1,5 @@
 -- WotLK 3.3.5a / Lua 5.1. No retail or Classic APIs.
-ModernWotLKBIS = { version = "0.3.3-beta", revision = 0 }
+ModernWotLKBIS = { version = "0.3.4-beta", revision = 0 }
 local A = ModernWotLKBIS
 local version = GetBuildInfo and GetBuildInfo()
 A.compatible = version == "3.3.5"
@@ -71,6 +71,9 @@ function A:Rows(id, all)
     end
     table.sort(rows, function(a, b) return a.key < b.key end)
     return rows
+end
+function A:HasAssessment(id)
+    return self.items[id] ~= nil or (self.preRaid and self.preRaid[id] ~= nil)
 end
 local events = CreateFrame("Frame")
 for _, event in ipairs({ "PLAYER_LOGIN", "PLAYER_ENTERING_WORLD",

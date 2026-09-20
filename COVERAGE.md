@@ -35,3 +35,9 @@ Includes explicitly derived lower-stat alternatives. Counts do not imply complet
 | DRUID_2_CAT | 17 | 17 | 36 | 38 |
 | DRUID_2_BEAR | 0 | 0 | 0 | 37 |
 | DRUID_3 | 0 | 0 | 0 | 35 |
+# Pre-Raid starter pools (0.3.4-beta)
+
+1,342 starter IDs: PRE RAID 1 = 616; PRE RAID 3 = 386; PRE RAID 4 = 340.
+Acquisition labels are independent of the spec/phase ranking matrix below.
+All classes have base T9/T10 coverage. See PRE-RAID-SOURCES.json for exact IDs and sources.
+These are starter options, not complete optimized sets for every spec.

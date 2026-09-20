@@ -2,5 +2,11 @@
   "items": 599,
   "assessments": 1124,
   "specs": 26,
-  "guides": 26
+  "guides": 26,
+  "preRaidItems": 1342,
+  "preRaidByPhase": {
+    "1": 616,
+    "3": 386,
+    "4": 340
+  }
 }
