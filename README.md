@@ -40,6 +40,10 @@ Only base T9 (232) and T10 (251) qualify through emblem purchases. Trophy/Mark u
 
 Coverage includes all classes' base T9/T10 sets and the selected acquisition tables, not every quest reward or every WotLK item. No Classic-only Titan Rune/Gamma/Scourgestone gear is imported. The original forum rankings in `Database.lua` are unchanged.
 
+[![Support / Donate via Revolut](https://img.shields.io/badge/Support%20%2F%20Donate-Revolut-0075EB?style=for-the-badge)](https://revolut.me/denisar2z)
+
+Enjoying the addon? You can leave an optional tip via Revolut: [@denisar2z](https://revolut.me/denisar2z). The addon remains free; donations are entirely voluntary. Thank you for your support!
+
 `PRE-RAID-SOURCES.json` records every ID, exact AtlasLoot source commit/line and metadata checksum. Item identities and eligibility were checked against [AzerothCore's 3.3.5 data](https://github.com/azerothcore/azerothcore-wotlk/blob/master/data/sql/base/db_world/item_template.sql); this does not imply Warmane uses AzerothCore. Acquisition facts come from [AtlasLoot 3.3.5a](https://github.com/Gescht/AtlasLoot3.3.5a). The starter approach follows the [Warmane fresh-80 guide](https://forum.warmane.com/showthread.php?t=426653) and [ICC gearing guide](https://forum.warmane.com/showthread.php?t=462356).
 
 Run `lua test_preraid.lua` with Lua 5.1 from the source directory. Tests exercise every starter item in both standard tooltips, repeated callbacks, pricing, coin anchors, fonts, source commands, unknown IDs and tier exclusions. Original rankings/evidence were compared byte for byte to v0.3.3-beta. Live Warmane testing is still required.
