@@ -1,5 +1,5 @@
 -- WotLK 3.3.5a / Lua 5.1. No retail or Classic APIs.
-ModernWotLKBIS = { version = "0.3.4-beta", revision = 0 }
+ModernWotLKBIS = { version = "0.4.0-beta", revision = 0 }
 local A = ModernWotLKBIS
 local version = GetBuildInfo and GetBuildInfo()
 A.compatible = version == "3.3.5"
@@ -63,13 +63,30 @@ end
 function A:Rows(id, all)
     local item = self.items[id]
     local rows = {}
-    if not item then return rows end
+    if item then
     for key, rating in pairs(item.specs) do
         if all or key == self.spec then
             rows[#rows + 1] = { key = key, label = rating.label, conditional = rating.conditional }
         end
     end
-    table.sort(rows, function(a, b) return a.key < b.key end)
+    end
+    local starter = self.preRaid and self.preRaid[id]
+    if starter then
+        local phases, seen = {}, {}
+        for _, entry in ipairs(starter) do
+            if not seen[entry.phase] then phases[#phases+1]=entry.phase; seen[entry.phase]=true end
+        end
+        table.sort(phases)
+        for _, key in ipairs(self.preRaidSpecs and self.preRaidSpecs[id] or {}) do
+            if all or key == self.spec then
+                rows[#rows+1] = {key=key, label="PRE RAID " .. table.concat(phases, ","), starter=true}
+            end
+        end
+    end
+    table.sort(rows, function(a,b)
+        if a.key==b.key then return a.label<b.label end
+        return a.key<b.key
+    end)
     return rows
 end
 function A:HasAssessment(id)

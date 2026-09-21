@@ -41,9 +41,13 @@ function A:ShowItemSources(id)
         Say("Starter acquisition option; not a per-spec BIS ranking. Match stats, armor, weapons and set bonuses to your build.")
     end
     for _, row in ipairs(self:Rows(id,true)) do
+        if row.starter then
+            Say(self.classNames[row.key:match("^([A-Z]+)_")] .. " / " .. self.specNames[row.key] .. " - " .. row.label .. " (suggested role; not BIS ranking)")
+        else
         local rating = item.specs[row.key]
         Say(self.specNames[row.key] .. " - " .. rating.label .. " (item " .. id .. ")")
         for _, index in ipairs(rating.sources) do Say(self.sources[index]) end
+        end
     end
 end
 SLASH_MODERNWOTLKBIS1 = "/mwbis"
@@ -86,6 +90,11 @@ SlashCmdList.MODERNWOTLKBIS = function(message)
             end
         end
         Say(starterCount .. " starter items: PRE RAID 1 = " .. phases[1] .. "; 3 = " .. phases[3] .. "; 4 = " .. phases[4] .. ". Acquisition pools, not spec rankings.")
+        local mapped, suggested = 0, 0
+        for _, keys in pairs(A.preRaidSpecs or {}) do
+            mapped = mapped + 1; suggested = suggested + #keys
+        end
+        Say(mapped .. " starter items with " .. suggested .. " spec suggestions; " .. (starterCount-mapped) .. " unreviewed.")
         return
     end
     Say(A.version .. " | " .. A:ProfileCaption() .. " | realm: " .. A.realm)

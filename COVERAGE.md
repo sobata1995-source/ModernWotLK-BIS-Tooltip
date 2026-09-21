@@ -41,3 +41,9 @@ Includes explicitly derived lower-stat alternatives. Counts do not imply complet
 Acquisition labels are independent of the spec/phase ranking matrix below.
 All classes have base T9/T10 coverage. See PRE-RAID-SOURCES.json for exact IDs and sources.
 These are starter options, not complete optimized sets for every spec.
+
+## PRE RAID spec suggestions (0.4.0-beta)
+
+1,223 of 1,342 starter items have 4,939 suggested class/spec associations across all ten classes.
+119 items retain acquisition hints with spec suitability unreviewed. See PRE-RAID-SPECS.json.
+Suggestions are stat/equipment archetypes, not per-spec BIS rankings.

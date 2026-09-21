@@ -21,7 +21,12 @@ function A:DisplayLines(id)
             end
         end
         table.sort(phases)
-        lines[#lines + 1] = "|cff70cfffPRE RAID " .. table.concat(phases, ",") .. " - Starter gear|r"
+        if not self.preRaidSpecs[id] then
+            lines[#lines + 1] = "|cff70cfffPRE RAID " .. table.concat(phases, ",") .. " - Starter gear|r"
+            lines[#lines + 1] = "|cffaaaaaaSpec suitability not reviewed|r"
+        else
+            lines[#lines + 1] = "|cffaaaaaaPRE RAID: suggested specs|r"
+        end
         seen = {}
         for _, entry in ipairs(starter) do
             if not seen[entry.source] then

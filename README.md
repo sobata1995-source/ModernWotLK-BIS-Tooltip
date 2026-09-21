@@ -1,6 +1,28 @@
-# ModernWotLK BIS Tooltip 0.3.4-beta
+# ModernWotLK BIS Tooltip 0.4.0-beta
 
 Warmane forum PvE reference for the original WoW 3.3.5a client (Interface 30300).
+
+## 0.4.0-beta: PRE RAID class/spec suggestions
+
+PRE RAID now shows class-colored class/spec rows, grouping matching specs with commas.
+All 1,342 existing starter items, their phase labels and acquisition sources are retained.
+**1223 items have 4939 class/spec suggestions.** The remaining items keep
+their source text and say `Spec suitability not reviewed`.
+
+These are conservative starter-role suggestions, not new Warmane BIS rankings:
+they use class restrictions, native armor type, weapon type and stat archetype.
+Spell hit excludes healer suggestions; mana-regeneration gear favors healers.
+Trinket procs and relic spells are not assigned blindly. Explicit Warmane recommendations
+are included where checked; off-armor alternatives are otherwise intentionally conservative.
+Weapon speed, stat caps, race, encounter, proc behavior and full-set optimization still matter.
+`PRE-RAID-SPECS.json` records each decision and the metadata checksum.
+The old `Database.lua` and `PreRaid.lua` are unchanged byte for byte.
+
+Examples: Tyrannical Beheader shows Fury PRE RAID 4; Mirror of Truth includes
+Frost PRE RAID 1; class-restricted base tier sets show the appropriate role.
+Source lines, compact fonts, price ordering and all existing BIS/ALT ratings remain.
+Run `/mwbis item ID` for acquisition details and the suggested classes/specs.
+Test bags, equipment, Inspect and opened chat links after replacing the folder and `/reload`.
 
 ## 0.3.4-beta: Pre-Raid starter gear
 
@@ -10,7 +32,7 @@ Adds 1,342 unique starter item IDs alongside the unchanged 599-item / 1,124-asse
 - **PRE RAID 3**: 386 ToC-era options: Trial of the Champion, Triumph gear, base T9 for both factions, tradeable Ulduar/ToC crafts and ToC BoEs.
 - **PRE RAID 4**: 340 ICC/RS starting options: normal/heroic FoS, PoS and HoR, Battered Hilt quest rewards, Frost gear, base T10, crafted items, ICC BoEs and Ashen Verdict rings.
 
-A PRE RAID label identifies a **starter acquisition pool**, not a per-spec BiS ranking or a complete optimized set. It appears once per item alongside existing class/spec BIS/ALT rows. Choose appropriate stats, armor, weapons, caps and set bonuses for your build. Earlier items retain their original phase label. The labels do not detect realm unlocks or guarantee raid readiness.
+A PRE RAID label identifies a **starter acquisition pool**, not a per-spec BiS ranking or a complete optimized set. It retains one acquisition block per item; version 0.4.0 adds suggested class/spec rows alongside BIS/ALT rows. Choose appropriate stats, armor, weapons, caps and set bonuses for your build. Earlier items retain their original phase label. The labels do not detect realm unlocks or guarantee raid readiness.
 
 Tooltips show the acquisition source. `/mwbis item ID` gives boss names, difficulty, emblem costs and conditions. `/mwbis coverage` reports starter counts separately from spec rankings. Source text wraps to preserve the compact layout.
 
