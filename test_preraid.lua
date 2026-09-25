@@ -46,6 +46,7 @@ GameTooltip=Tip('GameTooltip'); ItemRefTooltip=Tip('ItemRefTooltip')
 
 dofile("Core.lua")
 dofile("Database.lua")
+dofile("RaidItems.lua")
 dofile("PreRaid.lua")
 dofile("PreRaidSpecs.lua")
 dofile("Profiles.lua")

@@ -32,6 +32,12 @@ function A:ProfileCaption()
 end
 function A:ShowItemSources(id)
     local item = self.items[id]
+    local raid = self.raidItems and self.raidItems[id]
+    if raid then
+        Say(raid.source .. " (item " .. id .. ")")
+        Say(raid.url)
+        if not item then Say("BIS/ALT rating not yet reviewed. This does not mean the item is bad.") end
+    end
     if not self:HasAssessment(id) then Say("No assessment for item " .. tostring(id) .. ". Missing is not a bad rating."); return end
     for _, entry in ipairs(self.preRaid and self.preRaid[id] or {}) do
         Say("PRE RAID " .. entry.phase .. " (item " .. id .. "): " .. entry.source)

@@ -11,6 +11,14 @@ function A:DisplayLines(id)
     if not self:HasAssessment(id) then return lines end
     lines[1] = HEADER
     lines[2] = "|cffaaaaaa" .. self:ProfileCaption() .. "|r"
+    local raid = self.raidItems and self.raidItems[id]
+    if raid then
+        lines[#lines + 1] = "|cff70cfff" .. raid.source .. "|r"
+        if not self.items[id] then
+            lines[#lines + 1] = "|cffaaaaaaBIS/ALT: not yet reviewed|r"
+        end
+        lines[#lines + 1] = "|cffaaaaaaDetails: /mwbis item " .. id .. "|r"
+    end
     local starter = self.preRaid and self.preRaid[id]
     if starter then
         local phases, seen = {}, {}

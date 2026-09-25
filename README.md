@@ -160,3 +160,7 @@ VARIANT-AUDIT.json records each added item, its source item, specialization and 
 Matching requires the same name (allowing the Sanctified tier prefix), slot, class restriction, socket configuration and stat types, with strictly lower stats. Missing metadata, different names, faction equivalents and unmatched variants are not automatically filled. Proc strength, set composition and stat caps still require player judgement. This is not complete coverage of all items or specs.
 
 Tests verify every previous rating stays unchanged and every added assessment renders as conditional ALT. Live-client testing is still needed.
+
+## v0.4.1-beta: ICC and Sanctified recognition
+
+All ICC loot-table equipment and all 190 Sanctified T10 pieces (264/277) now show acquisition context. Items without a curated assessment explicitly say `BIS/ALT: not yet reviewed` instead of silently omitting the addon section. This fixes recognition, not missing per-spec rankings. Existing BIS/ALT and PRE RAID assessments are unchanged. Use `/mwbis item ID` for the source.

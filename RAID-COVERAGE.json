@@ -1,0 +1,3760 @@
+{
+  "note": "Acquisition recognition, not per-spec BIS ranking. Existing curated ratings are unchanged.",
+  "items": {
+    "50764": {
+      "name": "Shawl of Nerubian Silk",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6045"
+    },
+    "50773": {
+      "name": "Cord of the Patronizing Practitioner",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6046"
+    },
+    "50774": {
+      "name": "Coldwraith Bracers",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6047"
+    },
+    "50762": {
+      "name": "Linked Scourge Vertebrae",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6048"
+    },
+    "50775": {
+      "name": "Corrupted Silverplate Leggings",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6049"
+    },
+    "50772": {
+      "name": "Ancient Skeletal Boots",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6050"
+    },
+    "50763": {
+      "name": "Marrowgar's Scratching Choker",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6051"
+    },
+    "50339": {
+      "name": "Sliver of Pure Ice",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6052"
+    },
+    "50771": {
+      "name": "Frost Needle",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6053"
+    },
+    "50761": {
+      "name": "Citadel Enforcer's Claymore",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6054"
+    },
+    "50759": {
+      "name": "Bone Warden's Splitter",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6055"
+    },
+    "50760": {
+      "name": "Bonebreaker Scepter",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6056"
+    },
+    "49978": {
+      "name": "Crushing Coldwraith Belt",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6061"
+    },
+    "49979": {
+      "name": "Handguards of Winter's Respite",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6062"
+    },
+    "49950": {
+      "name": "Frostbitten Fur Boots",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6063"
+    },
+    "49952": {
+      "name": "Snowserpent Mail Helm",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6064"
+    },
+    "49980": {
+      "name": "Rusted Bonespike Pauldrons",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6065"
+    },
+    "49951": {
+      "name": "Gendarme's Cuirass",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6066"
+    },
+    "49960": {
+      "name": "Bracers of Dark Reckoning",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6067"
+    },
+    "49964": {
+      "name": "Legguards of Lost Hope",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6068"
+    },
+    "49975": {
+      "name": "Bone Sentinel's Amulet",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6069"
+    },
+    "49949": {
+      "name": "Band of the Bone Colossus",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6070"
+    },
+    "49977": {
+      "name": "Loop of the Endless Labyrinth",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6071"
+    },
+    "49967": {
+      "name": "Marrowgar's Frigid Eye",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6072"
+    },
+    "49968": {
+      "name": "Frozen Bonespike",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6073"
+    },
+    "50415": {
+      "name": "Bryntroll, the Bone Arbiter",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6074"
+    },
+    "49976": {
+      "name": "Bulwark of Smouldering Steel",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6075"
+    },
+    "50785": {
+      "name": "Bracers of Dark Blessings",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6082"
+    },
+    "50782": {
+      "name": "Sister's Handshrouds",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6083"
+    },
+    "50780": {
+      "name": "Chestguard of the Frigid Noose",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6084"
+    },
+    "50778": {
+      "name": "Soulthief's Braided Belt",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6085"
+    },
+    "50783": {
+      "name": "Boots of the Frozen Seed",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6086"
+    },
+    "50777": {
+      "name": "Handgrips of Frost and Sleet",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6087"
+    },
+    "50784": {
+      "name": "Deathspeaker Disciple's Belt",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6088"
+    },
+    "50779": {
+      "name": "Deathspeaker Zealot's Helm",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6089"
+    },
+    "50786": {
+      "name": "Ghoul Commander's Cuirass",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6090"
+    },
+    "50342": {
+      "name": "Whispering Fanged Skull",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6091"
+    },
+    "50781": {
+      "name": "Scourgelord's Baton",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6092"
+    },
+    "50776": {
+      "name": "Njorndar Bone Bow",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6093"
+    },
+    "49991": {
+      "name": "Shoulders of Mercy Killing",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6099"
+    },
+    "49994": {
+      "name": "The Lady's Brittle Bracers",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6100"
+    },
+    "49987": {
+      "name": "Cultist's Bloodsoaked Spaulders",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6101"
+    },
+    "49996": {
+      "name": "Deathwhisper Raiment",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6102"
+    },
+    "49988": {
+      "name": "Leggings of Northern Lights",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6103"
+    },
+    "49993": {
+      "name": "Necrophotic Greaves",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6104"
+    },
+    "49986": {
+      "name": "Broken Ram Skull Helm",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6105"
+    },
+    "49995": {
+      "name": "Fallen Lord's Handguards",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6106"
+    },
+    "49983": {
+      "name": "Blood-Soaked Saronite Stompers",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6107"
+    },
+    "49989": {
+      "name": "Ahn'kahar Onyx Neckguard",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6108"
+    },
+    "49985": {
+      "name": "Juggernaut Band",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6109"
+    },
+    "49990": {
+      "name": "Ring of Maddening Whispers",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6110"
+    },
+    "49982": {
+      "name": "Heartpierce",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6111"
+    },
+    "49992": {
+      "name": "Nibelung",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6112"
+    },
+    "50034": {
+      "name": "Zod's Repeating Longbow",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6113"
+    },
+    "50791": {
+      "name": "Saronite Gargoyle Cloak",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6121"
+    },
+    "50795": {
+      "name": "Cord of Dark Suffering",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6122"
+    },
+    "50797": {
+      "name": "Ice-Reinforced Vrykul Helm",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6123"
+    },
+    "50792": {
+      "name": "Pauldrons of Lost Hope",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6124"
+    },
+    "50789": {
+      "name": "Icecrown Rampart Bracers",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6125"
+    },
+    "50796": {
+      "name": "Bracers of Pale Illumination",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6126"
+    },
+    "50788": {
+      "name": "Bone Drake's Enameled Boots",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6127"
+    },
+    "50790": {
+      "name": "Abomination's Bloody Ring",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6128"
+    },
+    "50340": {
+      "name": "Muradin's Spyglass",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6129"
+    },
+    "50793": {
+      "name": "Midnight Sun",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6130"
+    },
+    "50787": {
+      "name": "Frost Giant's Cleaver",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6131"
+    },
+    "50794": {
+      "name": "Neverending Winter",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6132"
+    },
+    "49998": {
+      "name": "Shadowvault Slayer's Cloak",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6138"
+    },
+    "50006": {
+      "name": "Corp'rethar Ceremonial Crown",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6139"
+    },
+    "50011": {
+      "name": "Gunship Captain's Mittens",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6140"
+    },
+    "50001": {
+      "name": "Ikfirus's Sack of Wonder",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6141"
+    },
+    "50009": {
+      "name": "Boots of Unnatural Growth",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6142"
+    },
+    "50000": {
+      "name": "Scourge Hunter's Vambraces",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6143"
+    },
+    "50003": {
+      "name": "Boneguard Commander's Pauldrons",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6144"
+    },
+    "50002": {
+      "name": "Polar Bear Claw Bracers",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6145"
+    },
+    "50010": {
+      "name": "Waistband of Righteous Fury",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6146"
+    },
+    "50005": {
+      "name": "Amulet of the Silent Eulogy",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6149"
+    },
+    "50008": {
+      "name": "Ring of Rapid Ascent",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6150"
+    },
+    "49999": {
+      "name": "Skeleton Lord's Circle",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6151"
+    },
+    "50359": {
+      "name": "Althor's Abacus",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6152"
+    },
+    "50352": {
+      "name": "Corpse Tongue Coin",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6153"
+    },
+    "50411": {
+      "name": "Scourgeborne Waraxe",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6154"
+    },
+    "50807": {
+      "name": "Thaumaturge's Crackling Cowl",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6160"
+    },
+    "50804": {
+      "name": "Icecrown Spire Sandals",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6161"
+    },
+    "50799": {
+      "name": "Scourge Stranglers",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6162"
+    },
+    "50806": {
+      "name": "Leggings of Unrelenting Blood",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6163"
+    },
+    "50800": {
+      "name": "Hauberk of a Thousand Cuts",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6164"
+    },
+    "50801": {
+      "name": "Blade-Scored Carapace",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6165"
+    },
+    "50802": {
+      "name": "Gargoyle Spit Bracers",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6166"
+    },
+    "50808": {
+      "name": "Deathforged Legplates",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6167"
+    },
+    "50809": {
+      "name": "Soulcleave Pendant",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6168"
+    },
+    "50803": {
+      "name": "Saurfang's Cold-Forged Band",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6169"
+    },
+    "50798": {
+      "name": "Ramaladni's Blade of Culling",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6170"
+    },
+    "50805": {
+      "name": "Mag'hari Chieftain's Staff",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6171"
+    },
+    "50014": {
+      "name": "Greatcloak of the Turned Champion",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6177"
+    },
+    "50333": {
+      "name": "Toskk's Maximized Wristguards",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6178"
+    },
+    "50015": {
+      "name": "Belt of the Blood Nova",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6179"
+    },
+    "50362": {
+      "name": "Deathbringer's Will",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6180"
+    },
+    "50412": {
+      "name": "Bloodvenom Blade",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6181"
+    },
+    "50859": {
+      "name": "Cloak of Many Skins",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6196"
+    },
+    "50988": {
+      "name": "Bloodstained Surgeon's Shoulderguards",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6197"
+    },
+    "50990": {
+      "name": "Kilt of Untreated Wounds",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6198"
+    },
+    "50985": {
+      "name": "Wrists of Septic Shock",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6199"
+    },
+    "50858": {
+      "name": "Plague-Soaked Leather Leggings",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6200"
+    },
+    "50812": {
+      "name": "Taldron's Long Neglected Boots",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6201"
+    },
+    "50967": {
+      "name": "Festergut's Gaseous Gloves",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6202"
+    },
+    "50811": {
+      "name": "Festering Fingerguards",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6203"
+    },
+    "50852": {
+      "name": "Precious's Putrid Collar",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6204"
+    },
+    "50986": {
+      "name": "Signet of Putrefaction",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6205"
+    },
+    "50810": {
+      "name": "Gutbuster",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6206"
+    },
+    "50966": {
+      "name": "Abracadaver",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6207"
+    },
+    "50063": {
+      "name": "Lingering Illness",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6213"
+    },
+    "50056": {
+      "name": "Plaguebringer's Stained Pants",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6214"
+    },
+    "50062": {
+      "name": "Plague Scientist's Boots",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6215"
+    },
+    "50042": {
+      "name": "Gangrenous Leggings",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6216"
+    },
+    "50041": {
+      "name": "Leather of Stitched Scourge Parts",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6217"
+    },
+    "50059": {
+      "name": "Horrific Flesh Epaulets",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6218"
+    },
+    "50038": {
+      "name": "Carapace of Forgotten Kings",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6219"
+    },
+    "50064": {
+      "name": "Unclean Surgical Gloves",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6220"
+    },
+    "50413": {
+      "name": "Nerub'ar Stalker's Cord",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6221"
+    },
+    "50060": {
+      "name": "Faceplate of the Forgotten",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6222"
+    },
+    "50037": {
+      "name": "Fleshrending Gauntlets",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6223"
+    },
+    "50036": {
+      "name": "Belt of Broken Bones",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6224"
+    },
+    "50061": {
+      "name": "Holiday's Grace",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6225"
+    },
+    "50414": {
+      "name": "Might of Blight",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6226"
+    },
+    "50035": {
+      "name": "Black Bruise",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6227"
+    },
+    "50040": {
+      "name": "Distant Land",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6228"
+    },
+    "51007": {
+      "name": "Ether-Soaked Bracers",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6237"
+    },
+    "51005": {
+      "name": "Gloves of Broken Fingers",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6238"
+    },
+    "51009": {
+      "name": "Chestguard of the Failed Experiment",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6239"
+    },
+    "51002": {
+      "name": "Taldron's Short-Sighted Helm",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6240"
+    },
+    "51006": {
+      "name": "Shuffling Shoes",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6241"
+    },
+    "51000": {
+      "name": "Flesh-Shaper's Gurney Strap",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6242"
+    },
+    "51008": {
+      "name": "Choker of Filthy Diamonds",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6243"
+    },
+    "51001": {
+      "name": "Rotface's Rupturing Ring",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6244"
+    },
+    "51003": {
+      "name": "Abomination Knuckles",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6245"
+    },
+    "51004": {
+      "name": "Lockjaw",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6246"
+    },
+    "50998": {
+      "name": "Shaft of Glacial Ice",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6247"
+    },
+    "50999": {
+      "name": "Gluth's Fetching Knife",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6248"
+    },
+    "50019": {
+      "name": "Winding Sheet",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6254"
+    },
+    "50032": {
+      "name": "Death Surgeon's Sleeves",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6255"
+    },
+    "50026": {
+      "name": "Helm of the Elder Moon",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6256"
+    },
+    "50021": {
+      "name": "Aldriana's Gloves of Secrecy",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6257"
+    },
+    "50022": {
+      "name": "Dual-Bladed Pauldrons",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6258"
+    },
+    "50030": {
+      "name": "Bloodsunder's Bracers",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6259"
+    },
+    "50020": {
+      "name": "Raging Behemoth's Shoulderplates",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6260"
+    },
+    "50024": {
+      "name": "Blightborne Warplate",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6261"
+    },
+    "50027": {
+      "name": "Rot-Resistant Breastplate",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6262"
+    },
+    "50023": {
+      "name": "Bile-Encrusted Medallion",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6263"
+    },
+    "50025": {
+      "name": "Seal of Many Mouths",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6264"
+    },
+    "50353": {
+      "name": "Dislodged Foreign Object",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6265"
+    },
+    "50028": {
+      "name": "Trauma",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6266"
+    },
+    "50016": {
+      "name": "Rib Spreader",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6267"
+    },
+    "50033": {
+      "name": "Corpse-Impaling Spike",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6268"
+    },
+    "51020": {
+      "name": "Shoulders of Ruinous Senility",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6277"
+    },
+    "51017": {
+      "name": "Cauterized Cord",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6278"
+    },
+    "51013": {
+      "name": "Discarded Bag of Entrails",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6279"
+    },
+    "51015": {
+      "name": "Shoulderpads of the Morbid Ritual",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6280"
+    },
+    "51019": {
+      "name": "Rippling Flesh Kilt",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6281"
+    },
+    "51014": {
+      "name": "Scalpel-Sharpening Shoulderguards",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6282"
+    },
+    "51018": {
+      "name": "Chestplate of Septic Stitches",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6283"
+    },
+    "51012": {
+      "name": "Infected Choker",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6284"
+    },
+    "51016": {
+      "name": "Pendant of Split Veins",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6285"
+    },
+    "50341": {
+      "name": "Unidentifiable Organ",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6286"
+    },
+    "51011": {
+      "name": "Flesh-Carving Scalpel",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6287"
+    },
+    "51010": {
+      "name": "The Facelifter",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6288"
+    },
+    "50067": {
+      "name": "Astrylian's Sutured Cinch",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6294"
+    },
+    "50069": {
+      "name": "Professor's Bloodied Smock",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6295"
+    },
+    "50351": {
+      "name": "Tiny Abomination in a Jar",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6296"
+    },
+    "50179": {
+      "name": "Last Word",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6297"
+    },
+    "50068": {
+      "name": "Rigormortis",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6298"
+    },
+    "51382": {
+      "name": "Heartsick Mender's Cape",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6313"
+    },
+    "51379": {
+      "name": "Bloodsoul Raiment",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6314"
+    },
+    "51380": {
+      "name": "Pale Corpse Boots",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6315"
+    },
+    "51023": {
+      "name": "Taldaram's Soft Slippers",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6316"
+    },
+    "51325": {
+      "name": "Blood-Drinker's Girdle",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6317"
+    },
+    "51383": {
+      "name": "Spaulders of the Blood Princes",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6318"
+    },
+    "51025": {
+      "name": "Battle-Maiden's Legguards",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6319"
+    },
+    "51381": {
+      "name": "Cerise Coiled Ring",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6320"
+    },
+    "51024": {
+      "name": "Thrice Fanged Signet",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6321"
+    },
+    "51021": {
+      "name": "Soulbreaker",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6322"
+    },
+    "51022": {
+      "name": "Hersir's Greatspear",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6323"
+    },
+    "51326": {
+      "name": "Wand of Ruby Claret",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6324"
+    },
+    "50074": {
+      "name": "Royal Crimson Cloak",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6330"
+    },
+    "50172": {
+      "name": "Sanguine Silk Robes",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6331"
+    },
+    "50176": {
+      "name": "San'layn Ritualist Gloves",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6332"
+    },
+    "50073": {
+      "name": "Geistlord's Punishment Sack",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6333"
+    },
+    "50171": {
+      "name": "Shoulders of Frost-Tipped Thorns",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6334"
+    },
+    "50177": {
+      "name": "Mail of Crimson Coins",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6335"
+    },
+    "50071": {
+      "name": "Treads of the Wasteland",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6336"
+    },
+    "50072": {
+      "name": "Landsoul's Horned Greathelm",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6337"
+    },
+    "50175": {
+      "name": "Crypt Keeper's Bracers",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6338"
+    },
+    "50075": {
+      "name": "Taldaram's Plated Fists",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6339"
+    },
+    "50174": {
+      "name": "Incarnadine Band of Mending",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6340"
+    },
+    "50170": {
+      "name": "Valanar's Other Signet Ring",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6341"
+    },
+    "50173": {
+      "name": "Shadow Silk Spindle",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6342"
+    },
+    "50184": {
+      "name": "Keleseth's Seducer",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6343"
+    },
+    "49919": {
+      "name": "Cryptmaker",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6344"
+    },
+    "51554": {
+      "name": "Cowl of Malefic Repose",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6352"
+    },
+    "51552": {
+      "name": "Shoulderpads of the Searing Kiss",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6353"
+    },
+    "51550": {
+      "name": "Ivory-Inlaid Leggings",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6354"
+    },
+    "51551": {
+      "name": "Chestguard of Siphoned Elements",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6355"
+    },
+    "51386": {
+      "name": "Throatrender Handguards",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6356"
+    },
+    "51556": {
+      "name": "Veincrusher Gauntlets",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6357"
+    },
+    "51555": {
+      "name": "Tightening Waistband",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6358"
+    },
+    "51548": {
+      "name": "Collar of Haughty Disdain",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6359"
+    },
+    "51387": {
+      "name": "Seal of the Twilight Queen",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6360"
+    },
+    "51384": {
+      "name": "Bloodsipper",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6361"
+    },
+    "51385": {
+      "name": "Stakethrower",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6362"
+    },
+    "51553": {
+      "name": "Lana'thel's Bloody Nail",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6363"
+    },
+    "50182": {
+      "name": "Blood Queen's Crimson Choker",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6369"
+    },
+    "50180": {
+      "name": "Lana'thel's Chain of Flagellation",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6370"
+    },
+    "50354": {
+      "name": "Bauble of True Blood",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6371"
+    },
+    "50178": {
+      "name": "Bloodfall",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6372"
+    },
+    "50181": {
+      "name": "Dying Light",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6373"
+    },
+    "50065": {
+      "name": "Icecrown Glacial Wall",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6374"
+    },
+    "51584": {
+      "name": "Lich Wrappings",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6389"
+    },
+    "51777": {
+      "name": "Leggings of the Refracted Mind",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6390"
+    },
+    "51585": {
+      "name": "Sister Svalna's Spangenhelm",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6391"
+    },
+    "51565": {
+      "name": "Skinned Whelp Shoulders",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6392"
+    },
+    "51583": {
+      "name": "Stormbringer Gloves",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6393"
+    },
+    "51566": {
+      "name": "Legguards of the Twisted Dream",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6394"
+    },
+    "51586": {
+      "name": "Emerald Saint's Spaulders",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6395"
+    },
+    "51563": {
+      "name": "Taiga Bindings",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6396"
+    },
+    "51564": {
+      "name": "Ironrope Belt of Ymirjar",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6397"
+    },
+    "51562": {
+      "name": "Oxheart",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6398"
+    },
+    "51582": {
+      "name": "Sister Svalna's Aether Staff",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6399"
+    },
+    "51561": {
+      "name": "Dreamhunter's Carbine",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6400"
+    },
+    "50205": {
+      "name": "Frostbinder's Shredded Cape",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6406"
+    },
+    "50418": {
+      "name": "Robe of the Waking Nightmare",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6407"
+    },
+    "50417": {
+      "name": "Bracers of Eternal Dreaming",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6408"
+    },
+    "50202": {
+      "name": "Snowstorm Helm",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6409"
+    },
+    "50188": {
+      "name": "Anub'ar Stalker's Gloves",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6410"
+    },
+    "50187": {
+      "name": "Coldwraith Links",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6411"
+    },
+    "50199": {
+      "name": "Leggings of Dying Candles",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6412"
+    },
+    "50192": {
+      "name": "Scourge Reaver's Legplates",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6413"
+    },
+    "50416": {
+      "name": "Boots of the Funeral March",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6414"
+    },
+    "50190": {
+      "name": "Grinning Skull Greatboots",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6415"
+    },
+    "50195": {
+      "name": "Noose of Malachite",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6416"
+    },
+    "50185": {
+      "name": "Devium's Eternally Cold Ring",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6417"
+    },
+    "50186": {
+      "name": "Frostbrood Sapphire Ring",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6418"
+    },
+    "50183": {
+      "name": "Lungbreaker",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6419"
+    },
+    "50472": {
+      "name": "Nightmare Ender",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6420"
+    },
+    "51790": {
+      "name": "Robes of Azure Downfall",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6428"
+    },
+    "51783": {
+      "name": "Vambraces of the Frost Wyrm Queen",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6429"
+    },
+    "51789": {
+      "name": "Icicle Shapers",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6430"
+    },
+    "51792": {
+      "name": "Shoulderguards of Crystalline Bone",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6431"
+    },
+    "51785": {
+      "name": "Wyrmwing Treads",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6432"
+    },
+    "51782": {
+      "name": "Etched Dragonbone Girdle",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6433"
+    },
+    "51786": {
+      "name": "Legplates of Aetheric Strife",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6434"
+    },
+    "51787": {
+      "name": "Scourge Fanged Stompers",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6435"
+    },
+    "51779": {
+      "name": "Rimetooth Pendant",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6437"
+    },
+    "51784": {
+      "name": "Splintershard",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6438"
+    },
+    "51788": {
+      "name": "Bleak Coldarra Carver",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6439"
+    },
+    "51791": {
+      "name": "Lost Pavise of the Blue Flight",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6440"
+    },
+    "50421": {
+      "name": "Sindragosa's Cruel Claw",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6446"
+    },
+    "50424": {
+      "name": "Memory of Malygos",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6447"
+    },
+    "50360": {
+      "name": "Phylactery of the Nameless Lich",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6448"
+    },
+    "50361": {
+      "name": "Sindragosa's Flawless Fang",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6449"
+    },
+    "50423": {
+      "name": "Sundial of Eternal Dusk",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6450"
+    },
+    "51801": {
+      "name": "Pugius, Fist of Defiance",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6466"
+    },
+    "51803": {
+      "name": "Tel'thas, Dagger of the Blood King",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6467"
+    },
+    "51800": {
+      "name": "Stormfury, Black Blade of the Betrayer",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6468"
+    },
+    "51795": {
+      "name": "Troggbane, Axe of the Frostborne King",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6469"
+    },
+    "51798": {
+      "name": "Valius, Gavel of the Lightbringer",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6470"
+    },
+    "51796": {
+      "name": "Warmace of Menethil",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6471"
+    },
+    "51799": {
+      "name": "Halion, Staff of Forgotten Love",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6472"
+    },
+    "51797": {
+      "name": "Tainted Twig of Nordrassil",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6473"
+    },
+    "51802": {
+      "name": "Windrunner's Heartseeker",
+      "source": "ICC 10 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6474"
+    },
+    "50426": {
+      "name": "Heaven's Fall, Kryss of a Thousand Lies",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6480"
+    },
+    "50427": {
+      "name": "Bloodsurge, Kel'Thuzad's Blade of Agony",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6481"
+    },
+    "50070": {
+      "name": "Glorenzelg, High-Blade of the Silver Hand",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6482"
+    },
+    "50012": {
+      "name": "Havoc's Call, Blade of Lordaeron Kings",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6483"
+    },
+    "50428": {
+      "name": "Royal Scepter of Terenas II",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6484"
+    },
+    "49997": {
+      "name": "Mithrios, Bronzebeard's Legacy",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6485"
+    },
+    "50425": {
+      "name": "Oathbinder, Charge of the Ranger-General",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6486"
+    },
+    "50429": {
+      "name": "Archus, Greatstaff of Antonidas",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6487"
+    },
+    "49981": {
+      "name": "Fal'inrush, Defender of Quel'thalas",
+      "source": "ICC 25 Normal",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6488"
+    },
+    "50449": {
+      "name": "Stiffened Corpse Shoulderpads",
+      "source": "ICC trash",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6499"
+    },
+    "50450": {
+      "name": "Leggings of Dubious Charms",
+      "source": "ICC trash",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6500"
+    },
+    "50451": {
+      "name": "Belt of the Lonely Noble",
+      "source": "ICC trash",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6501"
+    },
+    "50452": {
+      "name": "Wodin's Lucky Necklace",
+      "source": "ICC trash",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6502"
+    },
+    "50447": {
+      "name": "Harbinger's Bone Band",
+      "source": "ICC trash",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6503"
+    },
+    "50453": {
+      "name": "Ring of Rotting Sinew",
+      "source": "ICC trash",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6504"
+    },
+    "50444": {
+      "name": "Rowan's Rifle of Silver Bullets",
+      "source": "ICC trash",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6505"
+    },
+    "51933": {
+      "name": "Shawl of Nerubian Silk",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6518"
+    },
+    "51930": {
+      "name": "Cord of the Patronizing Practitioner",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6519"
+    },
+    "51929": {
+      "name": "Coldwraith Bracers",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6520"
+    },
+    "51935": {
+      "name": "Linked Scourge Vertebrae",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6521"
+    },
+    "51928": {
+      "name": "Corrupted Silverplate Leggings",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6522"
+    },
+    "51931": {
+      "name": "Ancient Skeletal Boots",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6523"
+    },
+    "51934": {
+      "name": "Marrowgar's Scratching Choker",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6524"
+    },
+    "50346": {
+      "name": "Sliver of Pure Ice",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6525"
+    },
+    "51932": {
+      "name": "Frost Needle",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6526"
+    },
+    "51936": {
+      "name": "Citadel Enforcer's Claymore",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6527"
+    },
+    "51938": {
+      "name": "Bone Warden's Splitter",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6528"
+    },
+    "51937": {
+      "name": "Bonebreaker Scepter",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6529"
+    },
+    "50613": {
+      "name": "Crushing Coldwraith Belt",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6534"
+    },
+    "50615": {
+      "name": "Handguards of Winter's Respite",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6535"
+    },
+    "50607": {
+      "name": "Frostbitten Fur Boots",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6536"
+    },
+    "50605": {
+      "name": "Snowserpent Mail Helm",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6537"
+    },
+    "50617": {
+      "name": "Rusted Bonespike Pauldrons",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6538"
+    },
+    "50606": {
+      "name": "Gendarme's Cuirass",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6539"
+    },
+    "50611": {
+      "name": "Bracers of Dark Reckoning",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6540"
+    },
+    "50612": {
+      "name": "Legguards of Lost Hope",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6541"
+    },
+    "50609": {
+      "name": "Bone Sentinel's Amulet",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6542"
+    },
+    "50604": {
+      "name": "Band of the Bone Colossus",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6543"
+    },
+    "50614": {
+      "name": "Loop of the Endless Labyrinth",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6544"
+    },
+    "50610": {
+      "name": "Marrowgar's Frigid Eye",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6545"
+    },
+    "50608": {
+      "name": "Frozen Bonespike",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6546"
+    },
+    "50709": {
+      "name": "Bryntroll, the Bone Arbiter",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6547"
+    },
+    "50616": {
+      "name": "Bulwark of Smouldering Steel",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6548"
+    },
+    "51918": {
+      "name": "Bracers of Dark Blessings",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6555"
+    },
+    "51921": {
+      "name": "Sister's Handshrouds",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6556"
+    },
+    "51923": {
+      "name": "Chestguard of the Frigid Noose",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6557"
+    },
+    "51925": {
+      "name": "Soulthief's Braided Belt",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6558"
+    },
+    "51920": {
+      "name": "Boots of the Frozen Seed",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6559"
+    },
+    "51926": {
+      "name": "Handgrips of Frost and Sleet",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6560"
+    },
+    "51919": {
+      "name": "Deathspeaker Disciple's Belt",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6561"
+    },
+    "51924": {
+      "name": "Deathspeaker Zealot's Helm",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6562"
+    },
+    "51917": {
+      "name": "Ghoul Commander's Cuirass",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6563"
+    },
+    "50343": {
+      "name": "Whispering Fanged Skull",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6564"
+    },
+    "51922": {
+      "name": "Scourgelord's Baton",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6565"
+    },
+    "51927": {
+      "name": "Njorndar Bone Bow",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6566"
+    },
+    "50643": {
+      "name": "Shoulders of Mercy Killing",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6572"
+    },
+    "50651": {
+      "name": "The Lady's Brittle Bracers",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6573"
+    },
+    "50646": {
+      "name": "Cultist's Bloodsoaked Spaulders",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6574"
+    },
+    "50649": {
+      "name": "Deathwhisper Raiment",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6575"
+    },
+    "50645": {
+      "name": "Leggings of Northern Lights",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6576"
+    },
+    "50652": {
+      "name": "Necrophotic Greaves",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6577"
+    },
+    "50640": {
+      "name": "Broken Ram Skull Helm",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6578"
+    },
+    "50650": {
+      "name": "Fallen Lord's Handguards",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6579"
+    },
+    "50639": {
+      "name": "Blood-Soaked Saronite Stompers",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6580"
+    },
+    "50647": {
+      "name": "Ahn'kahar Onyx Neckguard",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6581"
+    },
+    "50642": {
+      "name": "Juggernaut Band",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6582"
+    },
+    "50644": {
+      "name": "Ring of Maddening Whispers",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6583"
+    },
+    "50641": {
+      "name": "Heartpierce",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6584"
+    },
+    "50648": {
+      "name": "Nibelung",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6585"
+    },
+    "50638": {
+      "name": "Zod's Repeating Longbow",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6586"
+    },
+    "51912": {
+      "name": "Saronite Gargoyle Cloak",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6594"
+    },
+    "51908": {
+      "name": "Cord of Dark Suffering",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6595"
+    },
+    "51906": {
+      "name": "Ice-Reinforced Vrykul Helm",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6596"
+    },
+    "51911": {
+      "name": "Pauldrons of Lost Hope",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6597"
+    },
+    "51914": {
+      "name": "Icecrown Rampart Bracers",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6598"
+    },
+    "51907": {
+      "name": "Bracers of Pale Illumination",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6599"
+    },
+    "51915": {
+      "name": "Bone Drake's Enameled Boots",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6600"
+    },
+    "51913": {
+      "name": "Abomination's Bloody Ring",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6601"
+    },
+    "50345": {
+      "name": "Muradin's Spyglass",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6602"
+    },
+    "51910": {
+      "name": "Midnight Sun",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6603"
+    },
+    "51916": {
+      "name": "Frost Giant's Cleaver",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6604"
+    },
+    "51909": {
+      "name": "Neverending Winter",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6605"
+    },
+    "50653": {
+      "name": "Shadowvault Slayer's Cloak",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6611"
+    },
+    "50661": {
+      "name": "Corp'rethar Ceremonial Crown",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6612"
+    },
+    "50663": {
+      "name": "Gunship Captain's Mittens",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6613"
+    },
+    "50656": {
+      "name": "Ikfirus's Sack of Wonder",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6614"
+    },
+    "50665": {
+      "name": "Boots of Unnatural Growth",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6615"
+    },
+    "50655": {
+      "name": "Scourge Hunter's Vambraces",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6616"
+    },
+    "50660": {
+      "name": "Boneguard Commander's Pauldrons",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6617"
+    },
+    "50659": {
+      "name": "Polar Bear Claw Bracers",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6618"
+    },
+    "50667": {
+      "name": "Waistband of Righteous Fury",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6619"
+    },
+    "50658": {
+      "name": "Amulet of the Silent Eulogy",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6622"
+    },
+    "50664": {
+      "name": "Ring of Rapid Ascent",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6623"
+    },
+    "50657": {
+      "name": "Skeleton Lord's Circle",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6624"
+    },
+    "50366": {
+      "name": "Althor's Abacus",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6625"
+    },
+    "50349": {
+      "name": "Corpse Tongue Coin",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6626"
+    },
+    "50654": {
+      "name": "Scourgeborne Waraxe",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6627"
+    },
+    "51896": {
+      "name": "Thaumaturge's Crackling Cowl",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6633"
+    },
+    "51899": {
+      "name": "Icecrown Spire Sandals",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6634"
+    },
+    "51904": {
+      "name": "Scourge Stranglers",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6635"
+    },
+    "51897": {
+      "name": "Leggings of Unrelenting Blood",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6636"
+    },
+    "51903": {
+      "name": "Hauberk of a Thousand Cuts",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6637"
+    },
+    "51902": {
+      "name": "Blade-Scored Carapace",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6638"
+    },
+    "51901": {
+      "name": "Gargoyle Spit Bracers",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6639"
+    },
+    "51895": {
+      "name": "Deathforged Legplates",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6640"
+    },
+    "51894": {
+      "name": "Soulcleave Pendant",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6641"
+    },
+    "51900": {
+      "name": "Saurfang's Cold-Forged Band",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6642"
+    },
+    "51905": {
+      "name": "Ramaladni's Blade of Culling",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6646"
+    },
+    "51898": {
+      "name": "Mag'hari Chieftain's Staff",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6647"
+    },
+    "50668": {
+      "name": "Greatcloak of the Turned Champion",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6653"
+    },
+    "50670": {
+      "name": "Toskk's Maximized Wristguards",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6654"
+    },
+    "50671": {
+      "name": "Belt of the Blood Nova",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6655"
+    },
+    "50363": {
+      "name": "Deathbringer's Will",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6656"
+    },
+    "50672": {
+      "name": "Bloodvenom Blade",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6657"
+    },
+    "51888": {
+      "name": "Cloak of Many Skins",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6675"
+    },
+    "51883": {
+      "name": "Bloodstained Surgeon's Shoulderguards",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6676"
+    },
+    "51882": {
+      "name": "Kilt of Untreated Wounds",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6677"
+    },
+    "51885": {
+      "name": "Wrists of Septic Shock",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6678"
+    },
+    "51889": {
+      "name": "Plague-Soaked Leather Leggings",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6679"
+    },
+    "51891": {
+      "name": "Taldron's Long Neglected Boots",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6680"
+    },
+    "51886": {
+      "name": "Festergut's Gaseous Gloves",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6681"
+    },
+    "51892": {
+      "name": "Festering Fingerguards",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6682"
+    },
+    "51890": {
+      "name": "Precious's Putrid Collar",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6683"
+    },
+    "51884": {
+      "name": "Signet of Putrefaction",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6684"
+    },
+    "51893": {
+      "name": "Gutbuster",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6685"
+    },
+    "51887": {
+      "name": "Abracadaver",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6686"
+    },
+    "50702": {
+      "name": "Lingering Illness",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6692"
+    },
+    "50694": {
+      "name": "Plaguebringer's Stained Pants",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6693"
+    },
+    "50699": {
+      "name": "Plague Scientist's Boots",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6694"
+    },
+    "50697": {
+      "name": "Gangrenous Leggings",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6695"
+    },
+    "50696": {
+      "name": "Leather of Stitched Scourge Parts",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6696"
+    },
+    "50698": {
+      "name": "Horrific Flesh Epaulets",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6697"
+    },
+    "50689": {
+      "name": "Carapace of Forgotten Kings",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6698"
+    },
+    "50703": {
+      "name": "Unclean Surgical Gloves",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6699"
+    },
+    "50688": {
+      "name": "Nerub'ar Stalker's Cord",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6700"
+    },
+    "50701": {
+      "name": "Faceplate of the Forgotten",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6701"
+    },
+    "50690": {
+      "name": "Fleshrending Gauntlets",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6702"
+    },
+    "50691": {
+      "name": "Belt of Broken Bones",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6703"
+    },
+    "50700": {
+      "name": "Holiday's Grace",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6704"
+    },
+    "50693": {
+      "name": "Might of Blight",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6705"
+    },
+    "50692": {
+      "name": "Black Bruise",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6706"
+    },
+    "50695": {
+      "name": "Distant Land",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6707"
+    },
+    "51872": {
+      "name": "Ether-Soaked Bracers",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6715"
+    },
+    "51874": {
+      "name": "Gloves of Broken Fingers",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6716"
+    },
+    "51870": {
+      "name": "Chestguard of the Failed Experiment",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6717"
+    },
+    "51877": {
+      "name": "Taldron's Short-Sighted Helm",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6718"
+    },
+    "51873": {
+      "name": "Shuffling Shoes",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6719"
+    },
+    "51879": {
+      "name": "Flesh-Shaper's Gurney Strap",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6720"
+    },
+    "51871": {
+      "name": "Choker of Filthy Diamonds",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6721"
+    },
+    "51878": {
+      "name": "Rotface's Rupturing Ring",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6722"
+    },
+    "51876": {
+      "name": "Abomination Knuckles",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6723"
+    },
+    "51875": {
+      "name": "Lockjaw",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6724"
+    },
+    "51881": {
+      "name": "Shaft of Glacial Ice",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6725"
+    },
+    "51880": {
+      "name": "Gluth's Fetching Knife",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6726"
+    },
+    "50677": {
+      "name": "Winding Sheet",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6732"
+    },
+    "50686": {
+      "name": "Death Surgeon's Sleeves",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6733"
+    },
+    "50679": {
+      "name": "Helm of the Elder Moon",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6734"
+    },
+    "50675": {
+      "name": "Aldriana's Gloves of Secrecy",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6735"
+    },
+    "50673": {
+      "name": "Dual-Bladed Pauldrons",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6736"
+    },
+    "50687": {
+      "name": "Bloodsunder's Bracers",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6737"
+    },
+    "50674": {
+      "name": "Raging Behemoth's Shoulderplates",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6738"
+    },
+    "50681": {
+      "name": "Blightborne Warplate",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6739"
+    },
+    "50680": {
+      "name": "Rot-Resistant Breastplate",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6740"
+    },
+    "50682": {
+      "name": "Bile-Encrusted Medallion",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6741"
+    },
+    "50678": {
+      "name": "Seal of Many Mouths",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6742"
+    },
+    "50348": {
+      "name": "Dislodged Foreign Object",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6743"
+    },
+    "50685": {
+      "name": "Trauma",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6744"
+    },
+    "50676": {
+      "name": "Rib Spreader",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6745"
+    },
+    "50684": {
+      "name": "Corpse-Impaling Spike",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6746"
+    },
+    "51859": {
+      "name": "Shoulders of Ruinous Senility",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6755"
+    },
+    "51862": {
+      "name": "Cauterized Cord",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6756"
+    },
+    "51866": {
+      "name": "Discarded Bag of Entrails",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6757"
+    },
+    "51864": {
+      "name": "Shoulderpads of the Morbid Ritual",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6758"
+    },
+    "51860": {
+      "name": "Rippling Flesh Kilt",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6759"
+    },
+    "51865": {
+      "name": "Scalpel-Sharpening Shoulderguards",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6760"
+    },
+    "51861": {
+      "name": "Chestplate of Septic Stitches",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6761"
+    },
+    "51867": {
+      "name": "Infected Choker",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6762"
+    },
+    "51863": {
+      "name": "Pendant of Split Veins",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6763"
+    },
+    "50344": {
+      "name": "Unidentifiable Organ",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6764"
+    },
+    "51868": {
+      "name": "Flesh-Carving Scalpel",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6768"
+    },
+    "51869": {
+      "name": "The Facelifter",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6769"
+    },
+    "50707": {
+      "name": "Astrylian's Sutured Cinch",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6775"
+    },
+    "50705": {
+      "name": "Professor's Bloodied Smock",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6776"
+    },
+    "50706": {
+      "name": "Tiny Abomination in a Jar",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6777"
+    },
+    "50708": {
+      "name": "Last Word",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6778"
+    },
+    "50704": {
+      "name": "Rigormortis",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6779"
+    },
+    "51848": {
+      "name": "Heartsick Mender's Cape",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6797"
+    },
+    "51851": {
+      "name": "Bloodsoul Raiment",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6798"
+    },
+    "51850": {
+      "name": "Pale Corpse Boots",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6799"
+    },
+    "51856": {
+      "name": "Taldaram's Soft Slippers",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6800"
+    },
+    "51853": {
+      "name": "Blood-Drinker's Girdle",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6801"
+    },
+    "51847": {
+      "name": "Spaulders of the Blood Princes",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6802"
+    },
+    "51854": {
+      "name": "Battle-Maiden's Legguards",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6803"
+    },
+    "51849": {
+      "name": "Cerise Coiled Ring",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6804"
+    },
+    "51855": {
+      "name": "Thrice Fanged Signet",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6805"
+    },
+    "51858": {
+      "name": "Soulbreaker",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6806"
+    },
+    "51857": {
+      "name": "Hersir's Greatspear",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6807"
+    },
+    "51852": {
+      "name": "Wand of Ruby Claret",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6808"
+    },
+    "50718": {
+      "name": "Royal Crimson Cloak",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6814"
+    },
+    "50717": {
+      "name": "Sanguine Silk Robes",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6815"
+    },
+    "50722": {
+      "name": "San'layn Ritualist Gloves",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6816"
+    },
+    "50713": {
+      "name": "Geistlord's Punishment Sack",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6817"
+    },
+    "50715": {
+      "name": "Shoulders of Frost-Tipped Thorns",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6818"
+    },
+    "50723": {
+      "name": "Mail of Crimson Coins",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6819"
+    },
+    "50711": {
+      "name": "Treads of the Wasteland",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6820"
+    },
+    "50712": {
+      "name": "Landsoul's Horned Greathelm",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6821"
+    },
+    "50716": {
+      "name": "Taldaram's Plated Fists",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6822"
+    },
+    "50721": {
+      "name": "Crypt Keeper's Bracers",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6823"
+    },
+    "50720": {
+      "name": "Incarnadine Band of Mending",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6824"
+    },
+    "50714": {
+      "name": "Valanar's Other Signet Ring",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6825"
+    },
+    "50719": {
+      "name": "Shadow Silk Spindle",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6826"
+    },
+    "50710": {
+      "name": "Keleseth's Seducer",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6827"
+    },
+    "50603": {
+      "name": "Cryptmaker",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6828"
+    },
+    "51837": {
+      "name": "Cowl of Malefic Repose",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6836"
+    },
+    "51839": {
+      "name": "Shoulderpads of the Searing Kiss",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6837"
+    },
+    "51841": {
+      "name": "Ivory-Inlaid Leggings",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6838"
+    },
+    "51840": {
+      "name": "Chestguard of Siphoned Elements",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6839"
+    },
+    "51844": {
+      "name": "Throatrender Handguards",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6840"
+    },
+    "51835": {
+      "name": "Veincrusher Gauntlets",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6841"
+    },
+    "51836": {
+      "name": "Tightening Waistband",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6842"
+    },
+    "51842": {
+      "name": "Collar of Haughty Disdain",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6843"
+    },
+    "51843": {
+      "name": "Seal of the Twilight Queen",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6844"
+    },
+    "51846": {
+      "name": "Bloodsipper",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6848"
+    },
+    "51845": {
+      "name": "Stakethrower",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6849"
+    },
+    "51838": {
+      "name": "Lana'thel's Bloody Nail",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6850"
+    },
+    "50724": {
+      "name": "Blood Queen's Crimson Choker",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6856"
+    },
+    "50728": {
+      "name": "Lana'thel's Chain of Flagellation",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6857"
+    },
+    "50726": {
+      "name": "Bauble of True Blood",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6858"
+    },
+    "50727": {
+      "name": "Bloodfall",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6859"
+    },
+    "50725": {
+      "name": "Dying Light",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6860"
+    },
+    "50729": {
+      "name": "Icecrown Glacial Wall",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6861"
+    },
+    "51826": {
+      "name": "Lich Wrappings",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6879"
+    },
+    "51823": {
+      "name": "Leggings of the Refracted Mind",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6880"
+    },
+    "51825": {
+      "name": "Sister Svalna's Spangenhelm",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6881"
+    },
+    "51830": {
+      "name": "Skinned Whelp Shoulders",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6882"
+    },
+    "51827": {
+      "name": "Stormbringer Gloves",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6883"
+    },
+    "51829": {
+      "name": "Legguards of the Twisted Dream",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6884"
+    },
+    "51824": {
+      "name": "Emerald Saint's Spaulders",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6885"
+    },
+    "51832": {
+      "name": "Taiga Bindings",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6886"
+    },
+    "51831": {
+      "name": "Ironrope Belt of Ymirjar",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6887"
+    },
+    "51833": {
+      "name": "Oxheart",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6888"
+    },
+    "51828": {
+      "name": "Sister Svalna's Aether Staff",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6889"
+    },
+    "51834": {
+      "name": "Dreamhunter's Carbine",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6890"
+    },
+    "50628": {
+      "name": "Frostbinder's Shredded Cape",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6896"
+    },
+    "50629": {
+      "name": "Robe of the Waking Nightmare",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6897"
+    },
+    "50630": {
+      "name": "Bracers of Eternal Dreaming",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6898"
+    },
+    "50626": {
+      "name": "Snowstorm Helm",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6899"
+    },
+    "50619": {
+      "name": "Anub'ar Stalker's Gloves",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6900"
+    },
+    "50620": {
+      "name": "Coldwraith Links",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6901"
+    },
+    "50623": {
+      "name": "Leggings of Dying Candles",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6902"
+    },
+    "50624": {
+      "name": "Scourge Reaver's Legplates",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6903"
+    },
+    "50632": {
+      "name": "Boots of the Funeral March",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6904"
+    },
+    "50625": {
+      "name": "Grinning Skull Greatboots",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6905"
+    },
+    "50627": {
+      "name": "Noose of Malachite",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6906"
+    },
+    "50622": {
+      "name": "Devium's Eternally Cold Ring",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6907"
+    },
+    "50618": {
+      "name": "Frostbrood Sapphire Ring",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6908"
+    },
+    "50621": {
+      "name": "Lungbreaker",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6909"
+    },
+    "50631": {
+      "name": "Nightmare Ender",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6910"
+    },
+    "51813": {
+      "name": "Robes of Azure Downfall",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6918"
+    },
+    "51820": {
+      "name": "Vambraces of the Frost Wyrm Queen",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6919"
+    },
+    "51814": {
+      "name": "Icicle Shapers",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6920"
+    },
+    "51811": {
+      "name": "Shoulderguards of Crystalline Bone",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6921"
+    },
+    "51818": {
+      "name": "Wyrmwing Treads",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6922"
+    },
+    "51821": {
+      "name": "Etched Dragonbone Girdle",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6923"
+    },
+    "51817": {
+      "name": "Legplates of Aetheric Strife",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6924"
+    },
+    "51816": {
+      "name": "Scourge Fanged Stompers",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6925"
+    },
+    "51822": {
+      "name": "Rimetooth Pendant",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6926"
+    },
+    "51819": {
+      "name": "Splintershard",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6930"
+    },
+    "51815": {
+      "name": "Bleak Coldarra Carver",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6931"
+    },
+    "51812": {
+      "name": "Lost Pavise of the Blue Flight",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6932"
+    },
+    "50633": {
+      "name": "Sindragosa's Cruel Claw",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6938"
+    },
+    "50636": {
+      "name": "Memory of Malygos",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6939"
+    },
+    "50365": {
+      "name": "Phylactery of the Nameless Lich",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6940"
+    },
+    "50364": {
+      "name": "Sindragosa's Flawless Fang",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6941"
+    },
+    "50635": {
+      "name": "Sundial of Eternal Dusk",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6942"
+    },
+    "51941": {
+      "name": "Pugius, Fist of Defiance",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6961"
+    },
+    "51939": {
+      "name": "Tel'thas, Dagger of the Blood King",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6962"
+    },
+    "51942": {
+      "name": "Stormfury, Black Blade of the Betrayer",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6963"
+    },
+    "51947": {
+      "name": "Troggbane, Axe of the Frostborne King",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6964"
+    },
+    "51944": {
+      "name": "Valius, Gavel of the Lightbringer",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6965"
+    },
+    "51946": {
+      "name": "Warmace of Menethil",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6966"
+    },
+    "51943": {
+      "name": "Halion, Staff of Forgotten Love",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6967"
+    },
+    "51945": {
+      "name": "Tainted Twig of Nordrassil",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6968"
+    },
+    "51940": {
+      "name": "Windrunner's Heartseeker",
+      "source": "ICC 10 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6969"
+    },
+    "50736": {
+      "name": "Heaven's Fall, Kryss of a Thousand Lies",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6979"
+    },
+    "50732": {
+      "name": "Bloodsurge, Kel'Thuzad's Blade of Agony",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6980"
+    },
+    "50730": {
+      "name": "Glorenzelg, High-Blade of the Silver Hand",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6981"
+    },
+    "50737": {
+      "name": "Havoc's Call, Blade of Lordaeron Kings",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6982"
+    },
+    "50734": {
+      "name": "Royal Scepter of Terenas II",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6983"
+    },
+    "50738": {
+      "name": "Mithrios, Bronzebeard's Legacy",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6984"
+    },
+    "50735": {
+      "name": "Oathbinder, Charge of the Ranger-General",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6985"
+    },
+    "50731": {
+      "name": "Archus, Greatstaff of Antonidas",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6986"
+    },
+    "50733": {
+      "name": "Fal'inrush, Defender of Quel'thalas",
+      "source": "ICC 25 Heroic",
+      "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L6987"
+    },
+    "51125": {
+      "name": "Sanctified Scourgelord Shoulderplates",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51125"
+    },
+    "51126": {
+      "name": "Sanctified Scourgelord Legplates",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51126"
+    },
+    "51127": {
+      "name": "Sanctified Scourgelord Helmet",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51127"
+    },
+    "51128": {
+      "name": "Sanctified Scourgelord Gauntlets",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51128"
+    },
+    "51129": {
+      "name": "Sanctified Scourgelord Battleplate",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51129"
+    },
+    "51130": {
+      "name": "Sanctified Scourgelord Pauldrons",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51130"
+    },
+    "51131": {
+      "name": "Sanctified Scourgelord Legguards",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51131"
+    },
+    "51132": {
+      "name": "Sanctified Scourgelord Handguards",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51132"
+    },
+    "51133": {
+      "name": "Sanctified Scourgelord Faceguard",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51133"
+    },
+    "51134": {
+      "name": "Sanctified Scourgelord Chestguard",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51134"
+    },
+    "51135": {
+      "name": "Sanctified Lasherweave Pauldrons",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51135"
+    },
+    "51136": {
+      "name": "Sanctified Lasherweave Legplates",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51136"
+    },
+    "51137": {
+      "name": "Sanctified Lasherweave Helmet",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51137"
+    },
+    "51138": {
+      "name": "Sanctified Lasherweave Gauntlets",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51138"
+    },
+    "51139": {
+      "name": "Sanctified Lasherweave Robes",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51139"
+    },
+    "51140": {
+      "name": "Sanctified Lasherweave Shoulderpads",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51140"
+    },
+    "51141": {
+      "name": "Sanctified Lasherweave Raiment",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51141"
+    },
+    "51142": {
+      "name": "Sanctified Lasherweave Legguards",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51142"
+    },
+    "51143": {
+      "name": "Sanctified Lasherweave Headguard",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51143"
+    },
+    "51144": {
+      "name": "Sanctified Lasherweave Handgrips",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51144"
+    },
+    "51145": {
+      "name": "Sanctified Lasherweave Vestment",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51145"
+    },
+    "51146": {
+      "name": "Sanctified Lasherweave Trousers",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51146"
+    },
+    "51147": {
+      "name": "Sanctified Lasherweave Mantle",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51147"
+    },
+    "51148": {
+      "name": "Sanctified Lasherweave Gloves",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51148"
+    },
+    "51149": {
+      "name": "Sanctified Lasherweave Cover",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51149"
+    },
+    "51150": {
+      "name": "Sanctified Ahn'Kahar Blood Hunter's Tunic",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51150"
+    },
+    "51151": {
+      "name": "Sanctified Ahn'Kahar Blood Hunter's Spaulders",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51151"
+    },
+    "51152": {
+      "name": "Sanctified Ahn'Kahar Blood Hunter's Legguards",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51152"
+    },
+    "51153": {
+      "name": "Sanctified Ahn'Kahar Blood Hunter's Headpiece",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51153"
+    },
+    "51154": {
+      "name": "Sanctified Ahn'Kahar Blood Hunter's Handguards",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51154"
+    },
+    "51155": {
+      "name": "Sanctified Bloodmage Shoulderpads",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51155"
+    },
+    "51156": {
+      "name": "Sanctified Bloodmage Robe",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51156"
+    },
+    "51157": {
+      "name": "Sanctified Bloodmage Leggings",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51157"
+    },
+    "51158": {
+      "name": "Sanctified Bloodmage Hood",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51158"
+    },
+    "51159": {
+      "name": "Sanctified Bloodmage Gloves",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51159"
+    },
+    "51160": {
+      "name": "Sanctified Lightsworn Shoulderplates",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51160"
+    },
+    "51161": {
+      "name": "Sanctified Lightsworn Legplates",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51161"
+    },
+    "51162": {
+      "name": "Sanctified Lightsworn Helmet",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51162"
+    },
+    "51163": {
+      "name": "Sanctified Lightsworn Gauntlets",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51163"
+    },
+    "51164": {
+      "name": "Sanctified Lightsworn Battleplate",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51164"
+    },
+    "51165": {
+      "name": "Sanctified Lightsworn Tunic",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51165"
+    },
+    "51166": {
+      "name": "Sanctified Lightsworn Spaulders",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51166"
+    },
+    "51167": {
+      "name": "Sanctified Lightsworn Headpiece",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51167"
+    },
+    "51168": {
+      "name": "Sanctified Lightsworn Greaves",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51168"
+    },
+    "51169": {
+      "name": "Sanctified Lightsworn Gloves",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51169"
+    },
+    "51170": {
+      "name": "Sanctified Lightsworn Shoulderguards",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51170"
+    },
+    "51171": {
+      "name": "Sanctified Lightsworn Legguards",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51171"
+    },
+    "51172": {
+      "name": "Sanctified Lightsworn Handguards",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51172"
+    },
+    "51173": {
+      "name": "Sanctified Lightsworn Faceguard",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51173"
+    },
+    "51174": {
+      "name": "Sanctified Lightsworn Chestguard",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51174"
+    },
+    "51175": {
+      "name": "Sanctified Crimson Acolyte Shoulderpads",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51175"
+    },
+    "51176": {
+      "name": "Sanctified Crimson Acolyte Robe",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51176"
+    },
+    "51177": {
+      "name": "Sanctified Crimson Acolyte Leggings",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51177"
+    },
+    "51178": {
+      "name": "Sanctified Crimson Acolyte Hood",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51178"
+    },
+    "51179": {
+      "name": "Sanctified Crimson Acolyte Gloves",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51179"
+    },
+    "51180": {
+      "name": "Sanctified Crimson Acolyte Raiments",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51180"
+    },
+    "51181": {
+      "name": "Sanctified Crimson Acolyte Pants",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51181"
+    },
+    "51182": {
+      "name": "Sanctified Crimson Acolyte Mantle",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51182"
+    },
+    "51183": {
+      "name": "Sanctified Crimson Acolyte Handwraps",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51183"
+    },
+    "51184": {
+      "name": "Sanctified Crimson Acolyte Cowl",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51184"
+    },
+    "51185": {
+      "name": "Sanctified Shadowblade Pauldrons",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51185"
+    },
+    "51186": {
+      "name": "Sanctified Shadowblade Legplates",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51186"
+    },
+    "51187": {
+      "name": "Sanctified Shadowblade Helmet",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51187"
+    },
+    "51188": {
+      "name": "Sanctified Shadowblade Gauntlets",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51188"
+    },
+    "51189": {
+      "name": "Sanctified Shadowblade Breastplate",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51189"
+    },
+    "51190": {
+      "name": "Sanctified Frost Witch's Tunic",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51190"
+    },
+    "51191": {
+      "name": "Sanctified Frost Witch's Handguards",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51191"
+    },
+    "51192": {
+      "name": "Sanctified Frost Witch's Headpiece",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51192"
+    },
+    "51193": {
+      "name": "Sanctified Frost Witch's Legguards",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51193"
+    },
+    "51194": {
+      "name": "Sanctified Frost Witch's Spaulders",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51194"
+    },
+    "51195": {
+      "name": "Sanctified Frost Witch's Chestguard",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51195"
+    },
+    "51196": {
+      "name": "Sanctified Frost Witch's Grips",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51196"
+    },
+    "51197": {
+      "name": "Sanctified Frost Witch's Faceguard",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51197"
+    },
+    "51198": {
+      "name": "Sanctified Frost Witch's War-Kilt",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51198"
+    },
+    "51199": {
+      "name": "Sanctified Frost Witch's Shoulderguards",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51199"
+    },
+    "51200": {
+      "name": "Sanctified Frost Witch's Hauberk",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51200"
+    },
+    "51201": {
+      "name": "Sanctified Frost Witch's Gloves",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51201"
+    },
+    "51202": {
+      "name": "Sanctified Frost Witch's Helm",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51202"
+    },
+    "51203": {
+      "name": "Sanctified Frost Witch's Kilt",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51203"
+    },
+    "51204": {
+      "name": "Sanctified Frost Witch's Shoulderpads",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51204"
+    },
+    "51205": {
+      "name": "Sanctified Dark Coven Shoulderpads",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51205"
+    },
+    "51206": {
+      "name": "Sanctified Dark Coven Robe",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51206"
+    },
+    "51207": {
+      "name": "Sanctified Dark Coven Leggings",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51207"
+    },
+    "51208": {
+      "name": "Sanctified Dark Coven Hood",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51208"
+    },
+    "51209": {
+      "name": "Sanctified Dark Coven Gloves",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51209"
+    },
+    "51210": {
+      "name": "Sanctified Ymirjar Lord's Shoulderplates",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51210"
+    },
+    "51211": {
+      "name": "Sanctified Ymirjar Lord's Legplates",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51211"
+    },
+    "51212": {
+      "name": "Sanctified Ymirjar Lord's Helmet",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51212"
+    },
+    "51213": {
+      "name": "Sanctified Ymirjar Lord's Gauntlets",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51213"
+    },
+    "51214": {
+      "name": "Sanctified Ymirjar Lord's Battleplate",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51214"
+    },
+    "51215": {
+      "name": "Sanctified Ymirjar Lord's Pauldrons",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51215"
+    },
+    "51216": {
+      "name": "Sanctified Ymirjar Lord's Legguards",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51216"
+    },
+    "51217": {
+      "name": "Sanctified Ymirjar Lord's Handguards",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51217"
+    },
+    "51218": {
+      "name": "Sanctified Ymirjar Lord's Greathelm",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51218"
+    },
+    "51219": {
+      "name": "Sanctified Ymirjar Lord's Breastplate",
+      "source": "Sanctified T10 - ilvl 264",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51219"
+    },
+    "51220": {
+      "name": "Sanctified Ymirjar Lord's Breastplate",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51220"
+    },
+    "51221": {
+      "name": "Sanctified Ymirjar Lord's Greathelm",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51221"
+    },
+    "51222": {
+      "name": "Sanctified Ymirjar Lord's Handguards",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51222"
+    },
+    "51223": {
+      "name": "Sanctified Ymirjar Lord's Legguards",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51223"
+    },
+    "51224": {
+      "name": "Sanctified Ymirjar Lord's Pauldrons",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51224"
+    },
+    "51225": {
+      "name": "Sanctified Ymirjar Lord's Battleplate",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51225"
+    },
+    "51226": {
+      "name": "Sanctified Ymirjar Lord's Gauntlets",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51226"
+    },
+    "51227": {
+      "name": "Sanctified Ymirjar Lord's Helmet",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51227"
+    },
+    "51228": {
+      "name": "Sanctified Ymirjar Lord's Legplates",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51228"
+    },
+    "51229": {
+      "name": "Sanctified Ymirjar Lord's Shoulderplates",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51229"
+    },
+    "51230": {
+      "name": "Sanctified Dark Coven Gloves",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51230"
+    },
+    "51231": {
+      "name": "Sanctified Dark Coven Hood",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51231"
+    },
+    "51232": {
+      "name": "Sanctified Dark Coven Leggings",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51232"
+    },
+    "51233": {
+      "name": "Sanctified Dark Coven Robe",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51233"
+    },
+    "51234": {
+      "name": "Sanctified Dark Coven Shoulderpads",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51234"
+    },
+    "51235": {
+      "name": "Sanctified Frost Witch's Shoulderpads",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51235"
+    },
+    "51236": {
+      "name": "Sanctified Frost Witch's Kilt",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51236"
+    },
+    "51237": {
+      "name": "Sanctified Frost Witch's Helm",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51237"
+    },
+    "51238": {
+      "name": "Sanctified Frost Witch's Gloves",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51238"
+    },
+    "51239": {
+      "name": "Sanctified Frost Witch's Hauberk",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51239"
+    },
+    "51240": {
+      "name": "Sanctified Frost Witch's Shoulderguards",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51240"
+    },
+    "51241": {
+      "name": "Sanctified Frost Witch's War-Kilt",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51241"
+    },
+    "51242": {
+      "name": "Sanctified Frost Witch's Faceguard",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51242"
+    },
+    "51243": {
+      "name": "Sanctified Frost Witch's Grips",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51243"
+    },
+    "51244": {
+      "name": "Sanctified Frost Witch's Chestguard",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51244"
+    },
+    "51245": {
+      "name": "Sanctified Frost Witch's Spaulders",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51245"
+    },
+    "51246": {
+      "name": "Sanctified Frost Witch's Legguards",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51246"
+    },
+    "51247": {
+      "name": "Sanctified Frost Witch's Headpiece",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51247"
+    },
+    "51248": {
+      "name": "Sanctified Frost Witch's Handguards",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51248"
+    },
+    "51249": {
+      "name": "Sanctified Frost Witch's Tunic",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51249"
+    },
+    "51250": {
+      "name": "Sanctified Shadowblade Breastplate",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51250"
+    },
+    "51251": {
+      "name": "Sanctified Shadowblade Gauntlets",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51251"
+    },
+    "51252": {
+      "name": "Sanctified Shadowblade Helmet",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51252"
+    },
+    "51253": {
+      "name": "Sanctified Shadowblade Legplates",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51253"
+    },
+    "51254": {
+      "name": "Sanctified Shadowblade Pauldrons",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51254"
+    },
+    "51255": {
+      "name": "Sanctified Crimson Acolyte Cowl",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51255"
+    },
+    "51256": {
+      "name": "Sanctified Crimson Acolyte Handwraps",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51256"
+    },
+    "51257": {
+      "name": "Sanctified Crimson Acolyte Mantle",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51257"
+    },
+    "51258": {
+      "name": "Sanctified Crimson Acolyte Pants",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51258"
+    },
+    "51259": {
+      "name": "Sanctified Crimson Acolyte Raiments",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51259"
+    },
+    "51260": {
+      "name": "Sanctified Crimson Acolyte Gloves",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51260"
+    },
+    "51261": {
+      "name": "Sanctified Crimson Acolyte Hood",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51261"
+    },
+    "51262": {
+      "name": "Sanctified Crimson Acolyte Leggings",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51262"
+    },
+    "51263": {
+      "name": "Sanctified Crimson Acolyte Robe",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51263"
+    },
+    "51264": {
+      "name": "Sanctified Crimson Acolyte Shoulderpads",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51264"
+    },
+    "51265": {
+      "name": "Sanctified Lightsworn Chestguard",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51265"
+    },
+    "51266": {
+      "name": "Sanctified Lightsworn Faceguard",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51266"
+    },
+    "51267": {
+      "name": "Sanctified Lightsworn Handguards",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51267"
+    },
+    "51268": {
+      "name": "Sanctified Lightsworn Legguards",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51268"
+    },
+    "51269": {
+      "name": "Sanctified Lightsworn Shoulderguards",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51269"
+    },
+    "51270": {
+      "name": "Sanctified Lightsworn Gloves",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51270"
+    },
+    "51271": {
+      "name": "Sanctified Lightsworn Greaves",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51271"
+    },
+    "51272": {
+      "name": "Sanctified Lightsworn Headpiece",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51272"
+    },
+    "51273": {
+      "name": "Sanctified Lightsworn Spaulders",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51273"
+    },
+    "51274": {
+      "name": "Sanctified Lightsworn Tunic",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51274"
+    },
+    "51275": {
+      "name": "Sanctified Lightsworn Battleplate",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51275"
+    },
+    "51276": {
+      "name": "Sanctified Lightsworn Gauntlets",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51276"
+    },
+    "51277": {
+      "name": "Sanctified Lightsworn Helmet",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51277"
+    },
+    "51278": {
+      "name": "Sanctified Lightsworn Legplates",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51278"
+    },
+    "51279": {
+      "name": "Sanctified Lightsworn Shoulderplates",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51279"
+    },
+    "51280": {
+      "name": "Sanctified Bloodmage Gloves",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51280"
+    },
+    "51281": {
+      "name": "Sanctified Bloodmage Hood",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51281"
+    },
+    "51282": {
+      "name": "Sanctified Bloodmage Leggings",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51282"
+    },
+    "51283": {
+      "name": "Sanctified Bloodmage Robe",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51283"
+    },
+    "51284": {
+      "name": "Sanctified Bloodmage Shoulderpads",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51284"
+    },
+    "51285": {
+      "name": "Sanctified Ahn'Kahar Blood Hunter's Handguards",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51285"
+    },
+    "51286": {
+      "name": "Sanctified Ahn'Kahar Blood Hunter's Headpiece",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51286"
+    },
+    "51287": {
+      "name": "Sanctified Ahn'Kahar Blood Hunter's Legguards",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51287"
+    },
+    "51288": {
+      "name": "Sanctified Ahn'Kahar Blood Hunter's Spaulders",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51288"
+    },
+    "51289": {
+      "name": "Sanctified Ahn'Kahar Blood Hunter's Tunic",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51289"
+    },
+    "51290": {
+      "name": "Sanctified Lasherweave Cover",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51290"
+    },
+    "51291": {
+      "name": "Sanctified Lasherweave Gloves",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51291"
+    },
+    "51292": {
+      "name": "Sanctified Lasherweave Mantle",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51292"
+    },
+    "51293": {
+      "name": "Sanctified Lasherweave Trousers",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51293"
+    },
+    "51294": {
+      "name": "Sanctified Lasherweave Vestment",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51294"
+    },
+    "51295": {
+      "name": "Sanctified Lasherweave Handgrips",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51295"
+    },
+    "51296": {
+      "name": "Sanctified Lasherweave Headguard",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51296"
+    },
+    "51297": {
+      "name": "Sanctified Lasherweave Legguards",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51297"
+    },
+    "51298": {
+      "name": "Sanctified Lasherweave Raiment",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51298"
+    },
+    "51299": {
+      "name": "Sanctified Lasherweave Shoulderpads",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51299"
+    },
+    "51300": {
+      "name": "Sanctified Lasherweave Robes",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51300"
+    },
+    "51301": {
+      "name": "Sanctified Lasherweave Gauntlets",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51301"
+    },
+    "51302": {
+      "name": "Sanctified Lasherweave Helmet",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51302"
+    },
+    "51303": {
+      "name": "Sanctified Lasherweave Legplates",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51303"
+    },
+    "51304": {
+      "name": "Sanctified Lasherweave Pauldrons",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51304"
+    },
+    "51305": {
+      "name": "Sanctified Scourgelord Chestguard",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51305"
+    },
+    "51306": {
+      "name": "Sanctified Scourgelord Faceguard",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51306"
+    },
+    "51307": {
+      "name": "Sanctified Scourgelord Handguards",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51307"
+    },
+    "51308": {
+      "name": "Sanctified Scourgelord Legguards",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51308"
+    },
+    "51309": {
+      "name": "Sanctified Scourgelord Pauldrons",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51309"
+    },
+    "51310": {
+      "name": "Sanctified Scourgelord Battleplate",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51310"
+    },
+    "51311": {
+      "name": "Sanctified Scourgelord Gauntlets",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51311"
+    },
+    "51312": {
+      "name": "Sanctified Scourgelord Helmet",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51312"
+    },
+    "51313": {
+      "name": "Sanctified Scourgelord Legplates",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51313"
+    },
+    "51314": {
+      "name": "Sanctified Scourgelord Shoulderplates",
+      "source": "Sanctified T10 - ilvl 277",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51314"
+    }
+  }
+}
