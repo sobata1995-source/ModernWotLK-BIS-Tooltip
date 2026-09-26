@@ -164,3 +164,9 @@ Tests verify every previous rating stays unchanged and every added assessment re
 ## v0.4.1-beta: ICC and Sanctified recognition
 
 All ICC loot-table equipment and all 190 Sanctified T10 pieces (264/277) now show acquisition context. Items without a curated assessment explicitly say `BIS/ALT: not yet reviewed` instead of silently omitting the addon section. This fixes recognition, not missing per-spec rankings. Existing BIS/ALT and PRE RAID assessments are unchanged. Use `/mwbis item ID` for the source.
+
+## v0.4.2-beta: class/spec alternatives
+
+Added conditional ALT 4 assessments for missing item/spec pairs using exact item IDs from 31 specialization guides, plus individually reviewed progression options. All ICC 10 Heroic and Sanctified 264/277 pieces now have at least one class/spec assessment. ALT means a conditional gearing alternative, not an optimal set or a guaranteed upgrade. Existing curated BIS/ALT rankings remain authoritative and unchanged.
+
+The supplemental guides target WotLK Classic; these entries are conservative alternatives, not new Warmane BIS claims. Spellhance spell-power main-hand entries are excluded. Manually reviewed options use original 3.3.5a stats and role restrictions and are explicitly identified in `/mwbis item ID`. `RAID-ASSESSMENTS.json` records each added item/spec pair, method, source and caveat.

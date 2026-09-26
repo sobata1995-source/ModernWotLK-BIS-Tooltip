@@ -1,5 +1,5 @@
 -- WotLK 3.3.5a / Lua 5.1. No retail or Classic APIs.
-ModernWotLKBIS = { version = "0.4.1-beta", revision = 0 }
+ModernWotLKBIS = { version = "0.4.2-beta", revision = 0 }
 local A = ModernWotLKBIS
 local version = GetBuildInfo and GetBuildInfo()
 A.compatible = version == "3.3.5"

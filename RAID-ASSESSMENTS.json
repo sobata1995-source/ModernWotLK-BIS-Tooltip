@@ -1,0 +1,4522 @@
+{
+  "method": "Only missing item/spec pairs are added as conditional ALT 4. Existing curated rankings win. Explicit guide rows and reviewed progression options are distinguished per entry. Classic spellhance SP main-hand entries excluded.",
+  "items": {
+    "51877": {
+      "WARRIOR_1": 1,
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4
+    },
+    "51830": {
+      "WARRIOR_1": 1,
+      "WARRIOR_2": 5,
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8,
+      "DRUID_2_CAT": 9
+    },
+    "50653": {
+      "WARRIOR_1": 1,
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "ROGUE_1": 10,
+      "ROGUE_3": 8,
+      "DRUID_2_BEAR": 11
+    },
+    "51923": {
+      "WARRIOR_1": 1,
+      "WARRIOR_2": 5,
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8,
+      "DRUID_2_CAT": 12
+    },
+    "50670": {
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 13,
+      "ROGUE_1": 6,
+      "ROGUE_3": 8,
+      "DRUID_2_BEAR": 14
+    },
+    "50659": {
+      "WARRIOR_1": 15,
+      "WARRIOR_2": 16,
+      "DEATHKNIGHT_2": 17,
+      "DEATHKNIGHT_3": 18
+    },
+    "50655": {
+      "WARRIOR_1": 1,
+      "WARRIOR_2": 5,
+      "HUNTER_1": 19,
+      "HUNTER_3": 20
+    },
+    "50675": {
+      "WARRIOR_1": 21,
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "ROGUE_1": 6,
+      "ROGUE_3": 22,
+      "DRUID_2_BEAR": 23
+    },
+    "50707": {
+      "WARRIOR_1": 24,
+      "WARRIOR_2": 25,
+      "HUNTER_1": 19,
+      "HUNTER_2": 26,
+      "HUNTER_3": 13,
+      "ROGUE_1": 10,
+      "ROGUE_3": 22
+    },
+    "50688": {
+      "WARRIOR_1": 1,
+      "WARRIOR_2": 5,
+      "PALADIN_3": 27,
+      "HUNTER_1": 28,
+      "HUNTER_3": 20
+    },
+    "50645": {
+      "WARRIOR_2": 29,
+      "HUNTER_1": 28,
+      "HUNTER_3": 20
+    },
+    "51841": {
+      "WARRIOR_1": 1,
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "51228": {
+      "WARRIOR_1": 1
+    },
+    "50639": {
+      "WARRIOR_1": 24,
+      "PALADIN_3": 30,
+      "DEATHKNIGHT_2": 17,
+      "DEATHKNIGHT_3": 18
+    },
+    "50607": {
+      "WARRIOR_1": 1,
+      "WARRIOR_2": 5,
+      "PALADIN_3": 30,
+      "HUNTER_1": 19,
+      "HUNTER_2": 26,
+      "HUNTER_3": 13,
+      "ROGUE_1": 10,
+      "ROGUE_3": 22
+    },
+    "51856": {
+      "WARRIOR_1": 1,
+      "WARRIOR_2": 5,
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8,
+      "DRUID_2_CAT": 31
+    },
+    "50728": {
+      "WARRIOR_1": 24,
+      "WARRIOR_2": 32,
+      "DEATHKNIGHT_3": 33,
+      "DRUID_2_BEAR": 14
+    },
+    "51822": {
+      "WARRIOR_1": 1,
+      "WARRIOR_2": 5,
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8,
+      "DRUID_2_CAT": 34
+    },
+    "50633": {
+      "WARRIOR_1": 1,
+      "WARRIOR_2": 5,
+      "PALADIN_3": 35,
+      "HUNTER_1": 28,
+      "HUNTER_3": 20,
+      "ROGUE_1": 10,
+      "ROGUE_3": 22,
+      "DRUID_2_BEAR": 36
+    },
+    "50618": {
+      "WARRIOR_1": 24,
+      "WARRIOR_2": 25,
+      "PALADIN_3": 37,
+      "HUNTER_1": 28,
+      "HUNTER_3": 20,
+      "ROGUE_1": 6,
+      "ROGUE_3": 8,
+      "DRUID_2_CAT": 38
+    },
+    "50693": {
+      "WARRIOR_1": 1,
+      "WARRIOR_2": 5
+    },
+    "51900": {
+      "WARRIOR_1": 1,
+      "WARRIOR_2": 5,
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8,
+      "DRUID_2_CAT": 39
+    },
+    "50363": {
+      "HUNTER_1": 28,
+      "HUNTER_3": 20,
+      "ROGUE_1": 10,
+      "ROGUE_3": 22
+    },
+    "50362": {
+      "HUNTER_1": 2,
+      "HUNTER_3": 4,
+      "ROGUE_1": 6,
+      "ROGUE_3": 8
+    },
+    "50343": {
+      "WARRIOR_1": 24,
+      "WARRIOR_2": 40,
+      "HUNTER_1": 19,
+      "HUNTER_2": 26,
+      "HUNTER_3": 4,
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8,
+      "DEATHKNIGHT_2": 41,
+      "DEATHKNIGHT_3": 33,
+      "SHAMAN_2": 42
+    },
+    "50735": {
+      "HUNTER_1": 28,
+      "HUNTER_3": 20,
+      "DEATHKNIGHT_1": 43
+    },
+    "50730": {
+      "WARRIOR_1": 1,
+      "DEATHKNIGHT_1": 43
+    },
+    "50727": {
+      "WARRIOR_1": 1,
+      "PALADIN_3": 44,
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "DEATHKNIGHT_1": 45,
+      "DRUID_2_CAT": 9,
+      "DRUID_2_BEAR": 11
+    },
+    "50709": {
+      "WARRIOR_1": 1,
+      "WARRIOR_2": 5,
+      "PALADIN_3": 46
+    },
+    "51857": {
+      "WARRIOR_1": 1,
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "DRUID_2_CAT": 9
+    },
+    "50733": {
+      "HUNTER_1": 28,
+      "HUNTER_3": 20,
+      "ROGUE_1": 10,
+      "ROGUE_3": 22
+    },
+    "51940": {
+      "WARRIOR_1": 24,
+      "WARRIOR_2": 25,
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "51845": {
+      "WARRIOR_1": 24,
+      "WARRIOR_2": 25,
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "51927": {
+      "WARRIOR_1": 1,
+      "WARRIOR_2": 5,
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "51866": {
+      "WARRIOR_2": 5,
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8,
+      "DRUID_2_CAT": 9
+    },
+    "50690": {
+      "WARRIOR_2": 5,
+      "DEATHKNIGHT_2": 41,
+      "DEATHKNIGHT_3": 47
+    },
+    "51904": {
+      "WARRIOR_2": 25,
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8,
+      "DRUID_2_CAT": 9
+    },
+    "51946": {
+      "WARRIOR_2": 5,
+      "DRUID_2_CAT": 9
+    },
+    "50603": {
+      "DEATHKNIGHT_1": 45,
+      "DRUID_2_CAT": 9,
+      "DRUID_2_BEAR": 11
+    },
+    "50640": {
+      "DEATHKNIGHT_1": 43
+    },
+    "49986": {
+      "WARRIOR_3": 48,
+      "DEATHKNIGHT_1": 45
+    },
+    "50660": {
+      "WARRIOR_3": 49,
+      "PALADIN_2": 50,
+      "DEATHKNIGHT_1": 45
+    },
+    "50003": {
+      "WARRIOR_3": 51,
+      "PALADIN_2": 52,
+      "DEATHKNIGHT_1": 45
+    },
+    "51847": {
+      "WARRIOR_3": 53,
+      "PALADIN_2": 54,
+      "DEATHKNIGHT_1": 45
+    },
+    "50718": {
+      "WARRIOR_3": 55,
+      "PALADIN_2": 56,
+      "DEATHKNIGHT_1": 43,
+      "DRUID_2_BEAR": 11
+    },
+    "51888": {
+      "PALADIN_2": 57
+    },
+    "50074": {
+      "WARRIOR_3": 58,
+      "PALADIN_2": 59,
+      "DEATHKNIGHT_1": 45,
+      "DRUID_2_BEAR": 11
+    },
+    "50681": {
+      "PALADIN_2": 56,
+      "DEATHKNIGHT_1": 45
+    },
+    "51917": {
+      "WARRIOR_3": 53,
+      "PALADIN_2": 60
+    },
+    "50024": {
+      "WARRIOR_3": 58,
+      "PALADIN_2": 59,
+      "DEATHKNIGHT_1": 45
+    },
+    "50611": {
+      "PALADIN_2": 61,
+      "DEATHKNIGHT_1": 43
+    },
+    "51901": {
+      "DEATHKNIGHT_1": 43
+    },
+    "49960": {
+      "PALADIN_2": 52,
+      "DEATHKNIGHT_1": 45
+    },
+    "50802": {
+      "DEATHKNIGHT_1": 45
+    },
+    "50716": {
+      "PALADIN_2": 62,
+      "DEATHKNIGHT_1": 45
+    },
+    "51835": {
+      "WARRIOR_3": 53,
+      "PALADIN_2": 63,
+      "DEATHKNIGHT_1": 45
+    },
+    "50075": {
+      "WARRIOR_3": 64,
+      "PALADIN_2": 63
+    },
+    "50691": {
+      "PALADIN_2": 62,
+      "DEATHKNIGHT_1": 43
+    },
+    "51831": {
+      "WARRIOR_3": 58,
+      "PALADIN_2": 65,
+      "DEATHKNIGHT_1": 45
+    },
+    "50036": {
+      "PALADIN_2": 62,
+      "DEATHKNIGHT_1": 45
+    },
+    "50612": {
+      "WARRIOR_3": 58,
+      "PALADIN_2": 65,
+      "DEATHKNIGHT_1": 43
+    },
+    "51895": {
+      "WARRIOR_3": 53,
+      "PALADIN_2": 66,
+      "DEATHKNIGHT_1": 45
+    },
+    "49964": {
+      "WARRIOR_3": 58,
+      "PALADIN_2": 67
+    },
+    "50625": {
+      "PALADIN_2": 50,
+      "DEATHKNIGHT_1": 45
+    },
+    "51816": {
+      "WARRIOR_3": 53,
+      "PALADIN_2": 68,
+      "DEATHKNIGHT_1": 45
+    },
+    "50190": {
+      "PALADIN_2": 69,
+      "DEATHKNIGHT_1": 45
+    },
+    "50682": {
+      "DEATHKNIGHT_1": 43
+    },
+    "50023": {
+      "DEATHKNIGHT_1": 45
+    },
+    "50627": {
+      "WARRIOR_3": 58,
+      "PALADIN_2": 65,
+      "DEATHKNIGHT_1": 45,
+      "DRUID_2_BEAR": 11
+    },
+    "51934": {
+      "PALADIN_2": 63,
+      "DEATHKNIGHT_1": 45
+    },
+    "50195": {
+      "WARRIOR_3": 58,
+      "PALADIN_2": 67,
+      "DEATHKNIGHT_1": 45
+    },
+    "50622": {
+      "DEATHKNIGHT_1": 43
+    },
+    "50185": {
+      "DEATHKNIGHT_1": 45
+    },
+    "50642": {
+      "WARRIOR_3": 70,
+      "PALADIN_2": 62,
+      "DEATHKNIGHT_1": 45,
+      "DRUID_2_BEAR": 11
+    },
+    "51913": {
+      "WARRIOR_3": 53,
+      "PALADIN_2": 67,
+      "DEATHKNIGHT_1": 45
+    },
+    "49985": {
+      "WARRIOR_3": 64,
+      "PALADIN_2": 63,
+      "DEATHKNIGHT_1": 45
+    },
+    "50447": {
+      "WARRIOR_3": 58,
+      "PALADIN_2": 71,
+      "DEATHKNIGHT_1": 45
+    },
+    "50364": {
+      "DEATHKNIGHT_1": 43
+    },
+    "50344": {
+      "PALADIN_2": 72,
+      "DEATHKNIGHT_1": 43
+    },
+    "50738": {
+      "DEATHKNIGHT_3": 33
+    },
+    "51947": {
+      "WARRIOR_3": 73
+    },
+    "49997": {
+      "WARRIOR_3": 74
+    },
+    "50708": {
+      "WARRIOR_3": 75,
+      "DEATHKNIGHT_3": 33
+    },
+    "51869": {
+      "WARRIOR_3": 74
+    },
+    "51937": {
+      "WARRIOR_3": 74
+    },
+    "50065": {
+      "WARRIOR_3": 74,
+      "PALADIN_2": 76
+    },
+    "51909": {
+      "WARRIOR_3": 74,
+      "PALADIN_2": 77
+    },
+    "50444": {
+      "WARRIOR_3": 58
+    },
+    "51561": {
+      "WARRIOR_3": 74
+    },
+    "50628": {
+      "PALADIN_1": 78,
+      "PRIEST_1": 79,
+      "PRIEST_2": 80,
+      "PRIEST_3": 81,
+      "SHAMAN_1": 82,
+      "SHAMAN_2": 42,
+      "SHAMAN_3": 83,
+      "MAGE_1": 84,
+      "MAGE_2": 85,
+      "MAGE_3": 86,
+      "WARLOCK_1": 87,
+      "WARLOCK_2": 88,
+      "WARLOCK_3": 89,
+      "DRUID_1": 90,
+      "DRUID_3": 91
+    },
+    "50668": {
+      "PALADIN_1": 92,
+      "PRIEST_1": 93,
+      "PRIEST_3": 81,
+      "MAGE_1": 94,
+      "MAGE_2": 95,
+      "MAGE_3": 86,
+      "WARLOCK_1": 87,
+      "WARLOCK_2": 88,
+      "WARLOCK_3": 89,
+      "DRUID_1": 96
+    },
+    "51826": {
+      "PALADIN_1": 97,
+      "PRIEST_3": 81,
+      "MAGE_1": 98,
+      "MAGE_2": 99,
+      "MAGE_3": 100,
+      "WARLOCK_1": 101,
+      "WARLOCK_2": 102,
+      "WARLOCK_3": 103
+    },
+    "51848": {
+      "PALADIN_1": 104,
+      "DRUID_3": 91
+    },
+    "50723": {
+      "PALADIN_1": 105
+    },
+    "50721": {
+      "PALADIN_1": 106
+    },
+    "50687": {
+      "PALADIN_1": 107,
+      "SHAMAN_1": 82,
+      "SHAMAN_2": 42,
+      "SHAMAN_3": 83
+    },
+    "50175": {
+      "PALADIN_1": 108
+    },
+    "50030": {
+      "PALADIN_1": 108
+    },
+    "51872": {
+      "PALADIN_1": 109,
+      "PRIEST_2": 110,
+      "PRIEST_3": 81,
+      "MAGE_1": 94,
+      "MAGE_2": 95,
+      "MAGE_3": 111,
+      "WARLOCK_1": 87,
+      "WARLOCK_2": 88,
+      "WARLOCK_3": 89,
+      "DRUID_1": 96
+    },
+    "51929": {
+      "PALADIN_1": 112
+    },
+    "50703": {
+      "PALADIN_1": 113
+    },
+    "50064": {
+      "PALADIN_1": 114
+    },
+    "50613": {
+      "PALADIN_1": 115,
+      "SHAMAN_1": 82,
+      "SHAMAN_2": 42,
+      "SHAMAN_3": 83,
+      "MAGE_3": 116,
+      "DRUID_3": 91
+    },
+    "50671": {
+      "PALADIN_1": 117,
+      "SHAMAN_3": 83
+    },
+    "50705": {
+      "PALADIN_1": 108,
+      "DRUID_1": 90
+    },
+    "50451": {
+      "PALADIN_1": 118
+    },
+    "50694": {
+      "PALADIN_1": 119,
+      "SHAMAN_1": 82,
+      "MAGE_2": 120,
+      "MAGE_3": 121,
+      "WARLOCK_3": 122
+    },
+    "50699": {
+      "PALADIN_1": 115,
+      "MAGE_3": 116,
+      "DRUID_3": 91
+    },
+    "51920": {
+      "PALADIN_1": 108,
+      "SHAMAN_3": 83,
+      "DRUID_1": 96,
+      "DRUID_3": 91
+    },
+    "50724": {
+      "PRIEST_2": 123,
+      "PRIEST_3": 124,
+      "MAGE_3": 116,
+      "DRUID_3": 91
+    },
+    "51871": {
+      "PALADIN_1": 125,
+      "PRIEST_1": 93,
+      "PRIEST_2": 126,
+      "SHAMAN_3": 83,
+      "DRUID_3": 91
+    },
+    "50182": {
+      "PALADIN_1": 127,
+      "MAGE_1": 94,
+      "MAGE_2": 95,
+      "MAGE_3": 111,
+      "WARLOCK_1": 101,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 103,
+      "DRUID_1": 129,
+      "DRUID_3": 91
+    },
+    "51894": {
+      "PALADIN_1": 117,
+      "PRIEST_1": 93,
+      "PRIEST_2": 130,
+      "PRIEST_3": 81,
+      "SHAMAN_1": 82,
+      "SHAMAN_2": 42,
+      "SHAMAN_3": 83,
+      "MAGE_1": 94,
+      "MAGE_2": 85,
+      "MAGE_3": 86,
+      "WARLOCK_1": 101,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 103,
+      "DRUID_1": 129,
+      "DRUID_3": 91
+    },
+    "50664": {
+      "PRIEST_2": 123,
+      "MAGE_3": 116,
+      "DRUID_1": 131,
+      "DRUID_3": 91
+    },
+    "50610": {
+      "PALADIN_1": 113,
+      "PRIEST_1": 93,
+      "PRIEST_2": 132,
+      "SHAMAN_3": 83,
+      "DRUID_3": 91
+    },
+    "49967": {
+      "PALADIN_1": 133,
+      "DRUID_3": 91
+    },
+    "51884": {
+      "PALADIN_1": 125,
+      "PRIEST_2": 110,
+      "DRUID_3": 91
+    },
+    "50734": {
+      "PALADIN_1": 134
+    },
+    "50685": {
+      "PALADIN_1": 117,
+      "PRIEST_1": 93,
+      "PRIEST_2": 110,
+      "SHAMAN_3": 83,
+      "DRUID_1": 129
+    },
+    "50428": {
+      "PALADIN_1": 135,
+      "PRIEST_1": 93,
+      "PRIEST_2": 110,
+      "DRUID_1": 129,
+      "DRUID_3": 91
+    },
+    "51875": {
+      "PALADIN_1": 136,
+      "PRIEST_1": 137,
+      "PRIEST_2": 110,
+      "SHAMAN_3": 83,
+      "DRUID_1": 129,
+      "DRUID_3": 91
+    },
+    "51812": {
+      "PALADIN_1": 138,
+      "SHAMAN_3": 83
+    },
+    "49976": {
+      "PALADIN_1": 135
+    },
+    "51266": {
+      "PALADIN_2": 139
+    },
+    "51173": {
+      "PALADIN_2": 140
+    },
+    "50706": {
+      "PALADIN_2": 141,
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "50737": {
+      "PALADIN_2": 142,
+      "HUNTER_1": 28,
+      "HUNTER_2": 143,
+      "HUNTER_3": 20,
+      "DEATHKNIGHT_3": 47
+    },
+    "50672": {
+      "PALADIN_2": 144,
+      "DEATHKNIGHT_2": 41,
+      "DEATHKNIGHT_3": 33
+    },
+    "50012": {
+      "PALADIN_2": 145,
+      "ROGUE_2": 7
+    },
+    "51893": {
+      "PALADIN_2": 146,
+      "ROGUE_2": 7,
+      "DEATHKNIGHT_2": 41,
+      "DEATHKNIGHT_3": 33
+    },
+    "50412": {
+      "PALADIN_2": 77,
+      "ROGUE_2": 7
+    },
+    "50712": {
+      "PALADIN_3": 147,
+      "DEATHKNIGHT_2": 41,
+      "DEATHKNIGHT_3": 47
+    },
+    "50072": {
+      "PALADIN_3": 147,
+      "DEATHKNIGHT_2": 41,
+      "DEATHKNIGHT_3": 33
+    },
+    "51924": {
+      "PALADIN_3": 147
+    },
+    "50674": {
+      "PALADIN_3": 147,
+      "DEATHKNIGHT_2": 41,
+      "DEATHKNIGHT_3": 47
+    },
+    "50020": {
+      "PALADIN_3": 147,
+      "DEATHKNIGHT_2": 41,
+      "DEATHKNIGHT_3": 33
+    },
+    "49998": {
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "ROGUE_1": 6,
+      "ROGUE_3": 8
+    },
+    "50677": {
+      "DEATHKNIGHT_2": 17
+    },
+    "50019": {
+      "DEATHKNIGHT_2": 41
+    },
+    "51933": {
+      "PALADIN_3": 147,
+      "HUNTER_1": 148,
+      "HUNTER_2": 149,
+      "HUNTER_3": 150,
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 22,
+      "DRUID_2_CAT": 9
+    },
+    "50606": {
+      "PALADIN_3": 147,
+      "DEATHKNIGHT_2": 17,
+      "DEATHKNIGHT_3": 47
+    },
+    "50002": {
+      "DEATHKNIGHT_2": 41,
+      "DEATHKNIGHT_3": 33
+    },
+    "51832": {
+      "PALADIN_3": 27,
+      "DEATHKNIGHT_2": 41,
+      "DEATHKNIGHT_3": 47
+    },
+    "50037": {
+      "DEATHKNIGHT_2": 41,
+      "DEATHKNIGHT_3": 33
+    },
+    "50619": {
+      "PALADIN_3": 27,
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4
+    },
+    "50188": {
+      "PALADIN_3": 27
+    },
+    "51276": {
+      "PALADIN_3": 151
+    },
+    "51163": {
+      "PALADIN_3": 151
+    },
+    "50067": {
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "ROGUE_1": 6,
+      "ROGUE_3": 8
+    },
+    "50413": {
+      "PALADIN_3": 27,
+      "HUNTER_1": 2,
+      "HUNTER_3": 4
+    },
+    "51854": {
+      "PALADIN_3": 147,
+      "DEATHKNIGHT_2": 41,
+      "DEATHKNIGHT_3": 33
+    },
+    "49950": {
+      "ROGUE_1": 152,
+      "ROGUE_3": 153
+    },
+    "49983": {
+      "DEATHKNIGHT_2": 41,
+      "DEATHKNIGHT_3": 33
+    },
+    "50711": {
+      "PALADIN_3": 154,
+      "HUNTER_1": 155,
+      "HUNTER_2": 156,
+      "HUNTER_3": 157
+    },
+    "50071": {
+      "PALADIN_3": 154
+    },
+    "50647": {
+      "PALADIN_3": 158,
+      "DEATHKNIGHT_2": 41,
+      "DEATHKNIGHT_3": 18
+    },
+    "51890": {
+      "PALADIN_3": 159,
+      "HUNTER_1": 148,
+      "HUNTER_2": 149,
+      "HUNTER_3": 150,
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8,
+      "DRUID_2_CAT": 160
+    },
+    "51867": {
+      "PALADIN_3": 147
+    },
+    "50678": {
+      "PALADIN_3": 37,
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8,
+      "DRUID_2_CAT": 9,
+      "DRUID_2_BEAR": 161
+    },
+    "50657": {
+      "PALADIN_3": 37,
+      "DEATHKNIGHT_2": 41
+    },
+    "49919": {
+      "PALADIN_3": 162
+    },
+    "51286": {
+      "HUNTER_1": 28,
+      "HUNTER_3": 20
+    },
+    "51153": {
+      "HUNTER_1": 19,
+      "HUNTER_3": 13
+    },
+    "50605": {
+      "HUNTER_1": 148,
+      "HUNTER_2": 149,
+      "HUNTER_3": 150
+    },
+    "51288": {
+      "HUNTER_1": 28,
+      "HUNTER_3": 20
+    },
+    "51151": {
+      "HUNTER_1": 19,
+      "HUNTER_3": 13
+    },
+    "50673": {
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4
+    },
+    "50646": {
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8,
+      "DRUID_2_CAT": 9,
+      "DRUID_2_BEAR": 23
+    },
+    "51864": {
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4
+    },
+    "51911": {
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4
+    },
+    "51289": {
+      "HUNTER_1": 28,
+      "HUNTER_3": 20
+    },
+    "51150": {
+      "HUNTER_1": 19,
+      "HUNTER_3": 13
+    },
+    "50689": {
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4
+    },
+    "50038": {
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4
+    },
+    "50000": {
+      "HUNTER_1": 2,
+      "HUNTER_3": 4
+    },
+    "50333": {
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "ROGUE_1": 6,
+      "ROGUE_3": 8,
+      "DRUID_2_CAT": 9,
+      "DRUID_2_BEAR": 11
+    },
+    "51914": {
+      "HUNTER_1": 148,
+      "HUNTER_2": 149,
+      "HUNTER_3": 150,
+      "SHAMAN_2": 42
+    },
+    "51820": {
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8,
+      "DRUID_2_BEAR": 11
+    },
+    "51285": {
+      "HUNTER_1": 28,
+      "HUNTER_3": 20
+    },
+    "51154": {
+      "HUNTER_1": 19,
+      "HUNTER_3": 13
+    },
+    "51853": {
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4
+    },
+    "49988": {
+      "HUNTER_1": 2,
+      "HUNTER_3": 4
+    },
+    "51287": {
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4
+    },
+    "50697": {
+      "HUNTER_1": 148,
+      "HUNTER_2": 149,
+      "HUNTER_3": 150,
+      "ROGUE_1": 6,
+      "ROGUE_3": 8,
+      "DRUID_2_CAT": 9,
+      "DRUID_2_BEAR": 23
+    },
+    "51891": {
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4
+    },
+    "50421": {
+      "HUNTER_1": 19,
+      "HUNTER_3": 13,
+      "ROGUE_1": 6,
+      "ROGUE_3": 8
+    },
+    "50452": {
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "50186": {
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "50604": {
+      "HUNTER_1": 148,
+      "HUNTER_2": 149,
+      "HUNTER_3": 150,
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8,
+      "DRUID_2_BEAR": 163
+    },
+    "51843": {
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "49949": {
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "50654": {
+      "HUNTER_1": 19,
+      "HUNTER_2": 26,
+      "HUNTER_3": 13,
+      "ROGUE_3": 8,
+      "DEATHKNIGHT_3": 33
+    },
+    "50676": {
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "ROGUE_1": 6,
+      "ROGUE_3": 8
+    },
+    "51945": {
+      "HUNTER_1": 19,
+      "HUNTER_2": 26,
+      "HUNTER_3": 13,
+      "DRUID_2_CAT": 9,
+      "DRUID_2_BEAR": 11
+    },
+    "50425": {
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "DRUID_2_CAT": 9
+    },
+    "50695": {
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "DRUID_2_CAT": 164
+    },
+    "50638": {
+      "HUNTER_1": 19,
+      "HUNTER_2": 26,
+      "HUNTER_3": 13
+    },
+    "49981": {
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4,
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "50034": {
+      "HUNTER_1": 2,
+      "HUNTER_2": 3,
+      "HUNTER_3": 4
+    },
+    "51252": {
+      "ROGUE_1": 10,
+      "ROGUE_3": 22
+    },
+    "50713": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8,
+      "DRUID_2_CAT": 9,
+      "DRUID_2_BEAR": 11
+    },
+    "51187": {
+      "ROGUE_1": 6,
+      "ROGUE_3": 8
+    },
+    "50073": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "51013": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "51254": {
+      "ROGUE_1": 10,
+      "ROGUE_3": 22
+    },
+    "51185": {
+      "ROGUE_1": 6,
+      "ROGUE_3": 8
+    },
+    "49987": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8,
+      "DRUID_2_BEAR": 11
+    },
+    "51565": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8,
+      "DRUID_2_CAT": 9
+    },
+    "50764": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "50656": {
+      "ROGUE_1": 10,
+      "ROGUE_3": 8,
+      "DRUID_2_CAT": 9
+    },
+    "50001": {
+      "ROGUE_1": 6,
+      "ROGUE_3": 8
+    },
+    "51250": {
+      "ROGUE_1": 6,
+      "ROGUE_3": 22
+    },
+    "51189": {
+      "ROGUE_1": 6,
+      "ROGUE_3": 8
+    },
+    "50780": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "51783": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "51251": {
+      "ROGUE_1": 10,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "51188": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "50021": {
+      "ROGUE_1": 6,
+      "ROGUE_3": 8,
+      "DRUID_2_BEAR": 11
+    },
+    "50799": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "51925": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8,
+      "DRUID_2_CAT": 9
+    },
+    "50778": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "51253": {
+      "ROGUE_1": 10,
+      "ROGUE_3": 22
+    },
+    "51186": {
+      "ROGUE_1": 6,
+      "ROGUE_3": 8
+    },
+    "51889": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "50042": {
+      "ROGUE_1": 6,
+      "ROGUE_3": 8
+    },
+    "50858": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "51550": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "51023": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8,
+      "DRUID_2_CAT": 9
+    },
+    "51779": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "51387": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "50803": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "50351": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "50342": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8,
+      "DRUID_2_CAT": 9
+    },
+    "50621": {
+      "ROGUE_1": 10,
+      "ROGUE_3": 22
+    },
+    "50736": {
+      "ROGUE_1": 10,
+      "ROGUE_3": 8
+    },
+    "50641": {
+      "ROGUE_1": 6,
+      "ROGUE_3": 22
+    },
+    "51868": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "50183": {
+      "ROGUE_1": 6,
+      "ROGUE_3": 8
+    },
+    "49982": {
+      "ROGUE_1": 6,
+      "ROGUE_3": 8
+    },
+    "50426": {
+      "ROGUE_1": 6,
+      "ROGUE_3": 8
+    },
+    "51846": {
+      "ROGUE_1": 6,
+      "ROGUE_3": 8
+    },
+    "51942": {
+      "ROGUE_1": 6,
+      "ROGUE_3": 8
+    },
+    "51880": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "51802": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "50999": {
+      "ROGUE_1": 6
+    },
+    "51385": {
+      "ROGUE_1": 6,
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "50692": {
+      "SHAMAN_2": 165
+    },
+    "51916": {
+      "ROGUE_2": 7,
+      "DEATHKNIGHT_2": 41,
+      "DEATHKNIGHT_3": 33
+    },
+    "51858": {
+      "ROGUE_2": 7
+    },
+    "51938": {
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "50411": {
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "50759": {
+      "ROGUE_2": 7,
+      "ROGUE_3": 8
+    },
+    "51800": {
+      "ROGUE_3": 8
+    },
+    "51384": {
+      "ROGUE_3": 8
+    },
+    "51011": {
+      "ROGUE_3": 8
+    },
+    "51261": {
+      "PRIEST_2": 166
+    },
+    "51178": {
+      "PRIEST_2": 167
+    },
+    "51264": {
+      "PRIEST_2": 166
+    },
+    "51175": {
+      "PRIEST_2": 167
+    },
+    "51263": {
+      "PRIEST_2": 166
+    },
+    "51176": {
+      "PRIEST_2": 167
+    },
+    "50629": {
+      "PRIEST_1": 168,
+      "PRIEST_3": 81,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 103
+    },
+    "50686": {
+      "PRIEST_1": 79,
+      "PRIEST_2": 110,
+      "PRIEST_3": 81,
+      "MAGE_1": 84,
+      "MAGE_2": 85,
+      "MAGE_3": 86,
+      "WARLOCK_1": 87,
+      "WARLOCK_2": 88,
+      "WARLOCK_3": 103,
+      "DRUID_1": 90
+    },
+    "51918": {
+      "PRIEST_1": 93,
+      "MAGE_1": 94,
+      "MAGE_2": 99,
+      "MAGE_3": 100,
+      "WARLOCK_1": 101,
+      "WARLOCK_2": 102,
+      "WARLOCK_3": 170
+    },
+    "50032": {
+      "PRIEST_1": 93,
+      "WARLOCK_1": 101,
+      "WARLOCK_2": 88,
+      "WARLOCK_3": 170
+    },
+    "50785": {
+      "PRIEST_1": 137,
+      "WARLOCK_2": 128
+    },
+    "50722": {
+      "PRIEST_2": 171,
+      "PRIEST_3": 124,
+      "MAGE_1": 172,
+      "WARLOCK_1": 87,
+      "WARLOCK_2": 102,
+      "WARLOCK_3": 103,
+      "DRUID_1": 173,
+      "DRUID_3": 91
+    },
+    "50702": {
+      "PRIEST_2": 110,
+      "PRIEST_3": 81,
+      "MAGE_1": 84,
+      "MAGE_3": 86,
+      "WARLOCK_1": 101,
+      "WARLOCK_2": 174,
+      "WARLOCK_3": 103
+    },
+    "51862": {
+      "PRIEST_1": 93,
+      "PRIEST_2": 110,
+      "PRIEST_3": 81,
+      "MAGE_1": 94,
+      "MAGE_2": 95,
+      "MAGE_3": 111,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 103
+    },
+    "50063": {
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170
+    },
+    "51823": {
+      "PRIEST_1": 175,
+      "PRIEST_3": 81,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170
+    },
+    "51850": {
+      "PRIEST_1": 93,
+      "PRIEST_2": 176,
+      "PRIEST_3": 81,
+      "MAGE_1": 84,
+      "MAGE_2": 85,
+      "MAGE_3": 86,
+      "WARLOCK_2": 102,
+      "WARLOCK_3": 170
+    },
+    "50062": {
+      "DRUID_3": 91
+    },
+    "51899": {
+      "PRIEST_1": 137,
+      "PRIEST_3": 81,
+      "MAGE_1": 84,
+      "MAGE_2": 85,
+      "MAGE_3": 86,
+      "WARLOCK_2": 102,
+      "WARLOCK_3": 170
+    },
+    "50700": {
+      "PRIEST_1": 79
+    },
+    "50720": {
+      "PRIEST_1": 79
+    },
+    "50644": {
+      "PRIEST_3": 81,
+      "MAGE_1": 84,
+      "MAGE_2": 85,
+      "MAGE_3": 111,
+      "WARLOCK_1": 101,
+      "WARLOCK_2": 88,
+      "WARLOCK_3": 103,
+      "DRUID_1": 129
+    },
+    "51849": {
+      "PRIEST_1": 93,
+      "PRIEST_2": 110,
+      "MAGE_1": 84,
+      "MAGE_2": 95,
+      "MAGE_3": 111,
+      "WARLOCK_1": 101,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 103,
+      "DRUID_1": 129
+    },
+    "50346": {
+      "PRIEST_1": 177,
+      "PRIEST_2": 178,
+      "DRUID_3": 179
+    },
+    "50608": {
+      "PRIEST_1": 93,
+      "PRIEST_2": 110,
+      "SHAMAN_1": 82,
+      "MAGE_1": 84,
+      "MAGE_2": 85,
+      "MAGE_3": 86,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170,
+      "DRUID_1": 96,
+      "DRUID_3": 91
+    },
+    "51944": {
+      "PRIEST_1": 93,
+      "PRIEST_2": 110,
+      "DRUID_1": 129
+    },
+    "51910": {
+      "PRIEST_1": 137,
+      "SHAMAN_3": 83,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "DRUID_3": 91
+    },
+    "51922": {
+      "PRIEST_1": 79,
+      "PRIEST_2": 110,
+      "PRIEST_3": 81,
+      "MAGE_1": 94,
+      "MAGE_2": 95,
+      "MAGE_3": 111,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 102,
+      "WARLOCK_3": 103,
+      "DRUID_1": 180
+    },
+    "50719": {
+      "PRIEST_2": 123,
+      "MAGE_3": 116,
+      "DRUID_3": 91
+    },
+    "50635": {
+      "PRIEST_1": 93,
+      "PRIEST_3": 81,
+      "MAGE_1": 84,
+      "MAGE_2": 85,
+      "MAGE_3": 86,
+      "WARLOCK_1": 101,
+      "WARLOCK_2": 174,
+      "WARLOCK_3": 89,
+      "DRUID_1": 90
+    },
+    "50631": {
+      "PRIEST_2": 132,
+      "PRIEST_3": 81,
+      "MAGE_1": 84,
+      "MAGE_3": 121,
+      "WARLOCK_1": 87,
+      "WARLOCK_2": 174,
+      "WARLOCK_3": 89
+    },
+    "50684": {
+      "MAGE_3": 116
+    },
+    "51838": {
+      "PRIEST_1": 93,
+      "PRIEST_2": 110,
+      "MAGE_1": 94,
+      "MAGE_2": 95,
+      "MAGE_3": 111,
+      "WARLOCK_1": 101,
+      "WARLOCK_2": 102,
+      "WARLOCK_3": 103
+    },
+    "51837": {
+      "PRIEST_2": 181,
+      "PRIEST_3": 81,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170,
+      "DRUID_3": 91
+    },
+    "50717": {
+      "PRIEST_3": 81,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 174,
+      "WARLOCK_3": 103
+    },
+    "51851": {
+      "PRIEST_2": 171,
+      "PRIEST_3": 81,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170,
+      "DRUID_3": 91
+    },
+    "51930": {
+      "PRIEST_2": 110,
+      "PRIEST_3": 81,
+      "MAGE_1": 94,
+      "MAGE_2": 95,
+      "MAGE_3": 111,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170,
+      "DRUID_3": 91
+    },
+    "50609": {
+      "PRIEST_3": 81,
+      "MAGE_1": 84,
+      "MAGE_2": 85,
+      "MAGE_3": 86,
+      "WARLOCK_1": 87,
+      "WARLOCK_2": 88,
+      "WARLOCK_3": 103,
+      "DRUID_1": 90
+    },
+    "50636": {
+      "PRIEST_3": 81,
+      "MAGE_1": 172,
+      "MAGE_2": 95,
+      "MAGE_3": 86,
+      "WARLOCK_1": 87,
+      "WARLOCK_2": 174,
+      "WARLOCK_3": 89
+    },
+    "51939": {
+      "PRIEST_2": 110,
+      "PRIEST_3": 81,
+      "SHAMAN_1": 82,
+      "MAGE_1": 84,
+      "MAGE_2": 85,
+      "MAGE_3": 86,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170,
+      "DRUID_1": 96,
+      "DRUID_3": 91,
+      "SHAMAN_3": 182
+    },
+    "49968": {
+      "PRIEST_2": 110
+    },
+    "51852": {
+      "PRIEST_2": 110,
+      "PRIEST_3": 81,
+      "MAGE_1": 94,
+      "MAGE_2": 95,
+      "MAGE_3": 111,
+      "WARLOCK_1": 101,
+      "WARLOCK_2": 88,
+      "WARLOCK_3": 103
+    },
+    "50006": {
+      "PRIEST_3": 81,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170
+    },
+    "51896": {
+      "PRIEST_3": 81,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170,
+      "DRUID_3": 91
+    },
+    "50643": {
+      "PRIEST_3": 81,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 88,
+      "WARLOCK_3": 89
+    },
+    "51859": {
+      "PRIEST_3": 81,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170
+    },
+    "51883": {
+      "PRIEST_3": 81
+    },
+    "51813": {
+      "PRIEST_3": 81,
+      "WARLOCK_1": 169,
+      "WARLOCK_3": 170
+    },
+    "50651": {
+      "PRIEST_3": 81,
+      "MAGE_1": 84,
+      "MAGE_2": 85,
+      "MAGE_3": 86,
+      "WARLOCK_1": 87,
+      "WARLOCK_2": 88,
+      "WARLOCK_3": 89,
+      "DRUID_1": 180
+    },
+    "50663": {
+      "PRIEST_3": 81,
+      "MAGE_1": 183,
+      "MAGE_2": 120,
+      "MAGE_3": 116,
+      "WARLOCK_1": 87,
+      "WARLOCK_2": 102,
+      "WARLOCK_3": 89,
+      "DRUID_1": 184
+    },
+    "51921": {
+      "PRIEST_3": 81,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 103
+    },
+    "51882": {
+      "PRIEST_3": 81,
+      "WARLOCK_1": 101,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170
+    },
+    "51258": {
+      "PRIEST_3": 81
+    },
+    "51181": {
+      "PRIEST_3": 81
+    },
+    "51863": {
+      "PRIEST_3": 81,
+      "MAGE_1": 94,
+      "MAGE_2": 85,
+      "MAGE_3": 86,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 103
+    },
+    "50714": {
+      "PRIEST_3": 81,
+      "MAGE_1": 94,
+      "MAGE_2": 95,
+      "MAGE_3": 86
+    },
+    "50365": {
+      "SHAMAN_2": 185,
+      "MAGE_1": 172,
+      "MAGE_3": 86,
+      "WARLOCK_1": 186
+    },
+    "50348": {
+      "SHAMAN_1": 187,
+      "MAGE_2": 85,
+      "MAGE_3": 116,
+      "WARLOCK_2": 88,
+      "WARLOCK_3": 89,
+      "DRUID_1": 131
+    },
+    "50345": {
+      "PRIEST_3": 81,
+      "SHAMAN_1": 82,
+      "MAGE_1": 94,
+      "MAGE_3": 111,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170,
+      "DRUID_1": 96
+    },
+    "50731": {
+      "PRIEST_3": 81,
+      "MAGE_1": 84,
+      "MAGE_2": 85,
+      "MAGE_3": 86,
+      "WARLOCK_1": 101,
+      "WARLOCK_2": 174,
+      "WARLOCK_3": 103,
+      "DRUID_1": 90
+    },
+    "50725": {
+      "PRIEST_3": 81,
+      "MAGE_1": 94,
+      "MAGE_2": 95,
+      "MAGE_3": 111,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170,
+      "DRUID_3": 91
+    },
+    "50648": {
+      "PRIEST_3": 81,
+      "MAGE_1": 94,
+      "MAGE_2": 99,
+      "MAGE_3": 111,
+      "DRUID_1": 129
+    },
+    "51306": {
+      "DEATHKNIGHT_1": 43
+    },
+    "51133": {
+      "DEATHKNIGHT_1": 45
+    },
+    "51309": {
+      "DEATHKNIGHT_1": 43
+    },
+    "51130": {
+      "DEATHKNIGHT_1": 45
+    },
+    "51305": {
+      "DEATHKNIGHT_1": 43
+    },
+    "51134": {
+      "DEATHKNIGHT_1": 45
+    },
+    "51307": {
+      "DEATHKNIGHT_1": 43
+    },
+    "51132": {
+      "DEATHKNIGHT_1": 43
+    },
+    "51308": {
+      "DEATHKNIGHT_1": 43
+    },
+    "51131": {
+      "DEATHKNIGHT_1": 45
+    },
+    "51912": {
+      "DEATHKNIGHT_2": 41,
+      "DEATHKNIGHT_3": 33
+    },
+    "51902": {
+      "DEATHKNIGHT_2": 41,
+      "DEATHKNIGHT_3": 33
+    },
+    "51311": {
+      "DEATHKNIGHT_2": 188
+    },
+    "51128": {
+      "DEATHKNIGHT_2": 41
+    },
+    "51821": {
+      "DEATHKNIGHT_2": 41,
+      "DEATHKNIGHT_3": 33
+    },
+    "51879": {
+      "DEATHKNIGHT_2": 41,
+      "DEATHKNIGHT_3": 33
+    },
+    "51817": {
+      "DEATHKNIGHT_2": 188
+    },
+    "50624": {
+      "DEATHKNIGHT_2": 41
+    },
+    "50192": {
+      "DEATHKNIGHT_2": 41,
+      "DEATHKNIGHT_3": 33
+    },
+    "51915": {
+      "DEATHKNIGHT_2": 41,
+      "DEATHKNIGHT_3": 33
+    },
+    "51842": {
+      "DEATHKNIGHT_2": 41,
+      "DEATHKNIGHT_3": 47
+    },
+    "51855": {
+      "DEATHKNIGHT_2": 41,
+      "DEATHKNIGHT_3": 33
+    },
+    "50453": {
+      "DEATHKNIGHT_2": 41,
+      "DEATHKNIGHT_3": 33
+    },
+    "51827": {
+      "SHAMAN_1": 82,
+      "SHAMAN_3": 83
+    },
+    "50658": {
+      "MAGE_1": 189,
+      "MAGE_2": 120,
+      "MAGE_3": 116,
+      "DRUID_1": 190
+    },
+    "51941": {
+      "SHAMAN_2": 165
+    },
+    "50710": {
+      "SHAMAN_2": 191
+    },
+    "51281": {
+      "MAGE_3": 116
+    },
+    "51158": {
+      "MAGE_3": 86
+    },
+    "51284": {
+      "MAGE_3": 116
+    },
+    "51155": {
+      "MAGE_3": 86
+    },
+    "51283": {
+      "MAGE_3": 116
+    },
+    "51156": {
+      "MAGE_3": 86
+    },
+    "49994": {
+      "MAGE_1": 94,
+      "MAGE_2": 95,
+      "MAGE_3": 111,
+      "WARLOCK_1": 101,
+      "WARLOCK_2": 102
+    },
+    "51280": {
+      "MAGE_3": 86
+    },
+    "51159": {
+      "MAGE_3": 111
+    },
+    "51282": {
+      "MAGE_1": 183,
+      "MAGE_3": 116
+    },
+    "51157": {
+      "MAGE_1": 84,
+      "MAGE_3": 86
+    },
+    "50614": {
+      "MAGE_1": 94,
+      "MAGE_3": 111,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 102,
+      "WARLOCK_3": 89,
+      "DRUID_1": 192
+    },
+    "50732": {
+      "MAGE_3": 116
+    },
+    "50704": {
+      "MAGE_1": 84,
+      "MAGE_2": 85,
+      "MAGE_3": 86,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170
+    },
+    "51943": {
+      "MAGE_1": 94,
+      "MAGE_2": 85,
+      "MAGE_3": 111,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170,
+      "DRUID_1": 129,
+      "DRUID_3": 91
+    },
+    "51932": {
+      "MAGE_1": 94,
+      "MAGE_2": 95,
+      "MAGE_3": 111,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170
+    },
+    "51815": {
+      "MAGE_1": 94,
+      "MAGE_2": 95,
+      "MAGE_3": 111,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170,
+      "DRUID_1": 129
+    },
+    "51898": {
+      "MAGE_1": 98,
+      "MAGE_2": 99,
+      "MAGE_3": 100,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170,
+      "DRUID_3": 91
+    },
+    "50472": {
+      "MAGE_1": 193,
+      "MAGE_2": 95,
+      "MAGE_3": 111,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 102,
+      "WARLOCK_3": 170
+    },
+    "50661": {
+      "MAGE_2": 120,
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 88,
+      "WARLOCK_3": 170
+    },
+    "49991": {
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170
+    },
+    "50205": {
+      "WARLOCK_1": 101,
+      "WARLOCK_2": 102,
+      "WARLOCK_3": 103,
+      "DRUID_1": 96
+    },
+    "50014": {
+      "WARLOCK_1": 101,
+      "WARLOCK_2": 88,
+      "WARLOCK_3": 170
+    },
+    "50172": {
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128
+    },
+    "50176": {
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128
+    },
+    "50011": {
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170
+    },
+    "51874": {
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128
+    },
+    "51232": {
+      "WARLOCK_1": 87,
+      "WARLOCK_2": 174
+    },
+    "50056": {
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170
+    },
+    "51207": {
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128
+    },
+    "49975": {
+      "WARLOCK_1": 101,
+      "WARLOCK_2": 102,
+      "WARLOCK_3": 170
+    },
+    "50424": {
+      "WARLOCK_1": 101,
+      "WARLOCK_2": 102
+    },
+    "50360": {
+      "WARLOCK_1": 101
+    },
+    "50353": {
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 103,
+      "DRUID_1": 96
+    },
+    "50429": {
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170,
+      "DRUID_3": 91
+    },
+    "51887": {
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170
+    },
+    "50427": {
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170
+    },
+    "50068": {
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128
+    },
+    "50173": {
+      "DRUID_3": 91
+    },
+    "50423": {
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 102,
+      "WARLOCK_3": 170,
+      "DRUID_1": 129
+    },
+    "50781": {
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170
+    },
+    "50033": {
+      "WARLOCK_1": 101,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 103
+    },
+    "51326": {
+      "WARLOCK_1": 169,
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170
+    },
+    "50449": {
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170
+    },
+    "50418": {
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170
+    },
+    "50782": {
+      "WARLOCK_2": 128
+    },
+    "49990": {
+      "WARLOCK_2": 128
+    },
+    "51828": {
+      "WARLOCK_2": 128,
+      "WARLOCK_3": 170
+    },
+    "51554": {
+      "WARLOCK_3": 170
+    },
+    "51020": {
+      "WARLOCK_3": 170
+    },
+    "51790": {
+      "WARLOCK_3": 170
+    },
+    "51007": {
+      "WARLOCK_3": 170
+    },
+    "51017": {
+      "WARLOCK_3": 170
+    },
+    "50809": {
+      "WARLOCK_3": 170
+    },
+    "51294": {
+      "DRUID_3": 91
+    },
+    "50630": {
+      "DRUID_1": 96,
+      "DRUID_3": 91
+    },
+    "50417": {
+      "DRUID_1": 96
+    },
+    "50069": {
+      "DRUID_1": 96,
+      "DRUID_3": 91
+    },
+    "51293": {
+      "DRUID_1": 194
+    },
+    "51146": {
+      "DRUID_1": 90
+    },
+    "50665": {
+      "DRUID_1": 129
+    },
+    "51298": {
+      "DRUID_2_BEAR": 11
+    },
+    "51295": {
+      "DRUID_2_CAT": 195
+    },
+    "51144": {
+      "DRUID_2_CAT": 196
+    },
+    "50715": {
+      "DRUID_3": 91
+    },
+    "50171": {
+      "DRUID_3": 91
+    },
+    "51839": {
+      "DRUID_3": 91
+    },
+    "50615": {
+      "DRUID_3": 91
+    },
+    "50696": {
+      "DRUID_3": 91
+    },
+    "50041": {
+      "DRUID_3": 91
+    },
+    "51897": {
+      "DRUID_3": 91
+    },
+    "51008": {
+      "DRUID_3": 91
+    },
+    "50339": {
+      "DRUID_3": 179
+    },
+    "50028": {
+      "DRUID_3": 91
+    },
+    "51833": {
+      "DRUID_2_BEAR": 197
+    },
+    "51935": {
+      "HUNTER_1": 198,
+      "HUNTER_2": 198,
+      "HUNTER_3": 198,
+      "SHAMAN_2": 199
+    },
+    "51931": {
+      "PALADIN_1": 200
+    },
+    "51936": {
+      "WARRIOR_1": 201,
+      "WARRIOR_2": 201,
+      "PALADIN_3": 201,
+      "DEATHKNIGHT_3": 201
+    },
+    "51926": {
+      "HUNTER_1": 202,
+      "HUNTER_2": 202,
+      "HUNTER_3": 202,
+      "SHAMAN_2": 203
+    },
+    "51919": {
+      "SHAMAN_3": 204
+    },
+    "51908": {
+      "DRUID_1": 205,
+      "DRUID_3": 205
+    },
+    "51906": {
+      "SHAMAN_3": 206
+    },
+    "51907": {
+      "PALADIN_1": 207
+    },
+    "51903": {
+      "HUNTER_1": 208,
+      "HUNTER_2": 208,
+      "HUNTER_3": 208,
+      "SHAMAN_2": 209
+    },
+    "51905": {
+      "WARRIOR_1": 210,
+      "WARRIOR_2": 210,
+      "PALADIN_3": 210,
+      "DEATHKNIGHT_3": 210
+    },
+    "51885": {
+      "DRUID_1": 211,
+      "DRUID_3": 211
+    },
+    "51886": {
+      "PALADIN_1": 212
+    },
+    "51892": {
+      "WARRIOR_1": 213,
+      "WARRIOR_2": 213,
+      "PALADIN_3": 213,
+      "DEATHKNIGHT_2": 213,
+      "DEATHKNIGHT_3": 213
+    },
+    "51870": {
+      "DRUID_1": 214,
+      "DRUID_3": 214
+    },
+    "51873": {
+      "SHAMAN_3": 215
+    },
+    "51878": {
+      "WARRIOR_1": 216,
+      "WARRIOR_2": 216,
+      "DEATHKNIGHT_2": 216,
+      "DEATHKNIGHT_3": 216
+    },
+    "51876": {
+      "ROGUE_2": 217,
+      "SHAMAN_2": 218
+    },
+    "51881": {
+      "HUNTER_1": 219,
+      "HUNTER_2": 219,
+      "HUNTER_3": 219,
+      "DRUID_2_CAT": 219
+    },
+    "51865": {
+      "WARRIOR_1": 220,
+      "WARRIOR_2": 220,
+      "DEATHKNIGHT_2": 220,
+      "DEATHKNIGHT_3": 220
+    },
+    "51861": {
+      "PALADIN_1": 221
+    },
+    "51840": {
+      "SHAMAN_3": 222
+    },
+    "51844": {
+      "WARRIOR_1": 223,
+      "WARRIOR_2": 223,
+      "PALADIN_3": 223,
+      "DEATHKNIGHT_2": 223,
+      "DEATHKNIGHT_3": 223
+    },
+    "51836": {
+      "PALADIN_1": 224
+    },
+    "51825": {
+      "DRUID_1": 225,
+      "DRUID_3": 225
+    },
+    "51829": {
+      "HUNTER_1": 226,
+      "HUNTER_2": 226,
+      "HUNTER_3": 226,
+      "SHAMAN_2": 227
+    },
+    "51824": {
+      "PALADIN_1": 228
+    },
+    "51814": {
+      "DRUID_1": 229,
+      "DRUID_3": 229
+    },
+    "51811": {
+      "SHAMAN_1": 230,
+      "SHAMAN_3": 230
+    },
+    "51818": {
+      "HUNTER_1": 231,
+      "HUNTER_2": 231,
+      "HUNTER_3": 231,
+      "SHAMAN_2": 232
+    },
+    "51819": {
+      "ROGUE_2": 233
+    },
+    "51126": {
+      "DEATHKNIGHT_2": 234,
+      "DEATHKNIGHT_3": 234
+    },
+    "51139": {
+      "DRUID_3": 235
+    },
+    "51300": {
+      "DRUID_3": 236
+    },
+    "51152": {
+      "HUNTER_1": 237,
+      "HUNTER_2": 237,
+      "HUNTER_3": 237
+    },
+    "51165": {
+      "PALADIN_1": 238
+    },
+    "51168": {
+      "PALADIN_1": 239
+    },
+    "51169": {
+      "PALADIN_1": 240
+    },
+    "51270": {
+      "PALADIN_1": 241
+    },
+    "51271": {
+      "PALADIN_1": 242
+    },
+    "51274": {
+      "PALADIN_1": 243
+    }
+  },
+  "counts": {
+    "items": 459,
+    "assessments": 1481,
+    "preservedPairs": 528
+  },
+  "originalDatabaseSHA256": "d571504b76d999991e14be08535ccad8aaecd6145bbe7a4eaf3bf8450f370725",
+  "guides": [
+    {
+      "spec": "WARRIOR_1",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/arms/dps-bis-gear-pve-phase-4",
+      "length": 34334,
+      "snapshotSHA256": "4c1b0501483ce50940eca12a7f2b077308f76d409dce6bc3c874e9ffad6a961d"
+    },
+    {
+      "spec": "WARRIOR_2",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/fury/dps-bis-gear-pve-phase-4",
+      "length": 35214,
+      "snapshotSHA256": "9d8c3fee7927973d76ded2b0b15ed97358da2ca37f718e87689f3df5caf264fc"
+    },
+    {
+      "spec": "WARRIOR_3",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/protection/tank-bis-gear-pve-phase-4",
+      "length": 65523,
+      "snapshotSHA256": "784d51d9b25886f9066a1b374999428a031ada5a921a2e424dc51fed7dac0d9a"
+    },
+    {
+      "spec": "PALADIN_1",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+      "length": 46522,
+      "snapshotSHA256": "6d2af73612945c8651ffd4c2237bb5180a49d1e60fbebe53a299fd72b56b3bfd"
+    },
+    {
+      "spec": "PALADIN_2",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "length": 61211,
+      "snapshotSHA256": "5eb9a374d4b49467e2109ae679d930204d1ce4e8f0a1c12d667942bded1c82ec"
+    },
+    {
+      "spec": "PALADIN_3",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/retribution/dps-bis-gear-pve-phase-4",
+      "length": 56988,
+      "snapshotSHA256": "b9cf1a61b2dba320ab61aefd233567685d1a56df0ccc30b55a31771f22aa06f1"
+    },
+    {
+      "spec": "HUNTER_1",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/beast-mastery/dps-bis-gear-pve-phase-4",
+      "length": 43106,
+      "snapshotSHA256": "4fa81f99a054006dbc0d5b223495dc62f0c94d50ff3d540649fba71565350f74"
+    },
+    {
+      "spec": "HUNTER_2",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/marksmanship/dps-bis-gear-pve-phase-4",
+      "length": 44387,
+      "snapshotSHA256": "5c1114ea1f41a48465ac2b7faa31530d79bcc2117f509902051ad550139d8fc8"
+    },
+    {
+      "spec": "HUNTER_3",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/survival/dps-bis-gear-pve-phase-4",
+      "length": 43107,
+      "snapshotSHA256": "eca3ca1c848739e0af5e7551a15e961f5d6605937536a707534f7891410ed64f"
+    },
+    {
+      "spec": "ROGUE_1",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/rogue/assassination/dps-bis-gear-pve-phase-4",
+      "length": 66755,
+      "snapshotSHA256": "abd3a51d180437c126f5ed890563bac5d091c209b67793dc9f8806886e37b118"
+    },
+    {
+      "spec": "ROGUE_2",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/rogue/combat/dps-bis-gear-pve-phase-4",
+      "length": 69255,
+      "snapshotSHA256": "e172970a54fe83db079bdcae347feb462513ad8f0d53d3ce338ae22f84782719"
+    },
+    {
+      "spec": "ROGUE_3",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/rogue/subtlety/dps-bis-gear-pve-phase-4",
+      "length": 66346,
+      "snapshotSHA256": "544d93284c5f222ae099faa790df8d0026e0b340236b09ab1e1c4d1c087ff5e9"
+    },
+    {
+      "spec": "PRIEST_1",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/priest/discipline/healer-bis-gear-pve-phase-4",
+      "length": 56840,
+      "snapshotSHA256": "a3569297d83101103050467ae6a88d1b672356674021f160fcb42cc37775ab48"
+    },
+    {
+      "spec": "PRIEST_2",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/priest/holy/healer-bis-gear-pve-phase-4",
+      "length": 51027,
+      "snapshotSHA256": "7f5cf148cbc7337a239812c269db11036e13e30957a247e63aa32cf8d3bf88b9"
+    },
+    {
+      "spec": "PRIEST_3",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/priest/shadow/dps-bis-gear-pve-phase-4",
+      "length": 53454,
+      "snapshotSHA256": "a718329fa0b99921f5825c641bc9fa6a25bf4579b0c77000b288e330a8f5b129"
+    },
+    {
+      "spec": "DEATHKNIGHT_1",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/death-knight/blood/tank-bis-gear-pve-phase-4",
+      "length": 42262,
+      "snapshotSHA256": "7168f50a34a226fcb0a1dc9718c8670d6d2baf526aaeb6dbe2a4b5e52b74ef01"
+    },
+    {
+      "spec": "DEATHKNIGHT_2",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/death-knight/frost/dps-bis-gear-pve-phase-4",
+      "length": 36659,
+      "snapshotSHA256": "8001967bcd9fe3d32d014be8d5f0bf229b05cd0dcfd9f6bc93c452a4761b8392"
+    },
+    {
+      "spec": "DEATHKNIGHT_3",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/death-knight/unholy/dps-bis-gear-pve-phase-4",
+      "length": 39557,
+      "snapshotSHA256": "361e717055b2dd5a66771805ae59c8cfd742dacdb3506e26ec52cee7f75c0291"
+    },
+    {
+      "spec": "SHAMAN_1",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/shaman/elemental/dps-bis-gear-pve-phase-4",
+      "length": 42703,
+      "snapshotSHA256": "6d1c1157e93a42659061a7fc2da2cd12a164ad17e948caf3551c67c7a9ae8dc7"
+    },
+    {
+      "spec": "SHAMAN_2",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/shaman/enhancement/dps-bis-gear-pve-phase-4",
+      "length": 48234,
+      "snapshotSHA256": "365c5a8008c0d2db4336e1c0417133248a14b957415d84906a623374e6f217c8"
+    },
+    {
+      "spec": "SHAMAN_3",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/shaman/restoration/healer-bis-gear-pve-phase-4",
+      "length": 47168,
+      "snapshotSHA256": "d779f81202b217d39d7508084ca48389ddbc7fab79e59f5b9acffa0032d97869"
+    },
+    {
+      "spec": "MAGE_1",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/mage/arcane/dps-bis-gear-pve-phase-4",
+      "length": 58028,
+      "snapshotSHA256": "723156527edcfb0aba03b441c5ce9022f2e3572cae7e89c0a5e1238675b72ead"
+    },
+    {
+      "spec": "MAGE_2",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/mage/fire/dps-bis-gear-pve-phase-4",
+      "length": 59355,
+      "snapshotSHA256": "3058eeb2822154e0f3eb5e10a67402f96fd7f0983dc4b41316a81b64223b13de"
+    },
+    {
+      "spec": "MAGE_3",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/mage/frost/dps-bis-gear-pve-phase-4",
+      "length": 46655,
+      "snapshotSHA256": "ed947ed76cdb259324b73cb65e6ab3948e4b281a296aeddb10e61e957c549ea6"
+    },
+    {
+      "spec": "WARLOCK_1",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/affliction/dps-bis-gear-pve-phase-4",
+      "length": 72712,
+      "snapshotSHA256": "76859e10c16c1bf934de3c77352f6fa5a99488176b0a6606d626bb758c2dd2ee"
+    },
+    {
+      "spec": "WARLOCK_2",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/demonology/dps-bis-gear-pve-phase-4",
+      "length": 81400,
+      "snapshotSHA256": "86fb3e1360df4db6cc29c7b49861a04eedaf34ee319ec22ec428eb2785632fff"
+    },
+    {
+      "spec": "WARLOCK_3",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/destruction/dps-bis-gear-pve-phase-4",
+      "length": 78958,
+      "snapshotSHA256": "94c1f980aacf876adec8aa142898cf82532898858ee2c177321030671503f15a"
+    },
+    {
+      "spec": "DRUID_1",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/balance/dps-bis-gear-pve-phase-4",
+      "length": 35281,
+      "snapshotSHA256": "3ed46de6631cf3b60a2b2042833e5e254253323560bf0ef9df0aa44a9fe3e5ec"
+    },
+    {
+      "spec": "DRUID_2_CAT",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/feral/dps-bis-gear-pve-phase-4",
+      "length": 55654,
+      "snapshotSHA256": "664c428b14ea547496538929b4ba463a41a48bf803e32cd5ebf06b2443ca3060"
+    },
+    {
+      "spec": "DRUID_3",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/restoration/healer-bis-gear-pve-phase-4",
+      "length": 51142,
+      "snapshotSHA256": "4efb18435087bfb822f6b3fcce44271de9516faf7a479f0a76e0bb0dbebbc9db"
+    },
+    {
+      "spec": "DRUID_2_BEAR",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/feral/tank-bis-gear-pve-phase-4",
+      "length": 60390,
+      "snapshotSHA256": "44000be69275ca6fbbf71fe9d85e461d97432f2c1c2ec88cd71558ca3c2c97be"
+    }
+  ],
+  "sources": [
+    {
+      "grade": "Optional",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/arms/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Optional."
+    },
+    {
+      "grade": "Alternative",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/beast-mastery/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Alternative."
+    },
+    {
+      "grade": "Alternative",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/marksmanship/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Alternative."
+    },
+    {
+      "grade": "Alternative",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/survival/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Alternative."
+    },
+    {
+      "grade": "Optional",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/fury/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Optional."
+    },
+    {
+      "grade": "Optional",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/rogue/assassination/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Optional."
+    },
+    {
+      "grade": "Optional",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/rogue/combat/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Optional."
+    },
+    {
+      "grade": "Optional",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/rogue/subtlety/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Optional."
+    },
+    {
+      "grade": "Alternative",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/feral/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Alternative."
+    },
+    {
+      "grade": "Best",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/rogue/assassination/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best."
+    },
+    {
+      "grade": "Alternative",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/feral/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Alternative."
+    },
+    {
+      "grade": "Best Individually",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/feral/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best Individually."
+    },
+    {
+      "grade": "Best Alternative",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/survival/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best Alternative."
+    },
+    {
+      "grade": "Balanced BiS",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/feral/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Balanced BiS."
+    },
+    {
+      "grade": "Hit Option",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/arms/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Hit Option."
+    },
+    {
+      "grade": "Hit Option",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/fury/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Hit Option."
+    },
+    {
+      "grade": "Best",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/death-knight/frost/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best."
+    },
+    {
+      "grade": "Best",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/death-knight/unholy/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best."
+    },
+    {
+      "grade": "Best Alternative",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/beast-mastery/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best Alternative."
+    },
+    {
+      "grade": "Best",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/survival/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best."
+    },
+    {
+      "grade": "Offpiece Option",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/arms/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Offpiece Option."
+    },
+    {
+      "grade": "Best",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/rogue/subtlety/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best."
+    },
+    {
+      "grade": "Best Individually",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/feral/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best Individually."
+    },
+    {
+      "grade": "Best",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/arms/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best."
+    },
+    {
+      "grade": "Best",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/fury/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best."
+    },
+    {
+      "grade": "Best Alternative",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/marksmanship/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best Alternative."
+    },
+    {
+      "grade": "P4 - Optional",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/retribution/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: P4 - Optional."
+    },
+    {
+      "grade": "Best",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/beast-mastery/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best."
+    },
+    {
+      "grade": "Offpiece Option",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/fury/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Offpiece Option."
+    },
+    {
+      "grade": "P4 - BIS",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/retribution/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: P4 - BIS."
+    },
+    {
+      "grade": "Best Alternative (without Hit Rating)",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/feral/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best Alternative (without Hit Rating)."
+    },
+    {
+      "grade": "Expertise Option",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/fury/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Expertise Option."
+    },
+    {
+      "grade": "Optional",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/death-knight/unholy/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Optional."
+    },
+    {
+      "grade": "Alternative (below Crit cap)",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/feral/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Alternative (below Crit cap)."
+    },
+    {
+      "grade": "P4 - A Bis",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/retribution/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: P4 - A Bis."
+    },
+    {
+      "grade": "Balanced Alternative",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/feral/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Balanced Alternative."
+    },
+    {
+      "grade": "P4 - Ring2 Option",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/retribution/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: P4 - Ring2 Option."
+    },
+    {
+      "grade": "Best Below Armor Penetration Cap",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/feral/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best Below Armor Penetration Cap."
+    },
+    {
+      "grade": "Armor Penetration Alternative",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/feral/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Armor Penetration Alternative."
+    },
+    {
+      "grade": "Good",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/fury/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Good."
+    },
+    {
+      "grade": "Optional",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/death-knight/frost/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Optional."
+    },
+    {
+      "grade": "Great",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/shaman/enhancement/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great."
+    },
+    {
+      "grade": "Best",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/death-knight/blood/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best."
+    },
+    {
+      "grade": "My Guild cant kill lich king heroic BIS",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/retribution/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: My Guild cant kill lich king heroic BIS."
+    },
+    {
+      "grade": "Optional",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/death-knight/blood/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Optional."
+    },
+    {
+      "grade": "As above but RIP",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/retribution/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: As above but RIP."
+    },
+    {
+      "grade": "Best - Realistic",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/death-knight/unholy/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best - Realistic."
+    },
+    {
+      "grade": "Best (264)",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best (264)."
+    },
+    {
+      "grade": "Best Mitigation",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best Mitigation."
+    },
+    {
+      "grade": "Highest EHP",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Highest EHP."
+    },
+    {
+      "grade": "Mitigation Alternative (264)",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Mitigation Alternative (264)."
+    },
+    {
+      "grade": "Decent EHP",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Decent EHP."
+    },
+    {
+      "grade": "Best 10-man",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best 10-man."
+    },
+    {
+      "grade": "EHP & Hit",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: EHP & Hit."
+    },
+    {
+      "grade": "Best Overall",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best Overall."
+    },
+    {
+      "grade": "Best Balanced",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best Balanced."
+    },
+    {
+      "grade": "10m BiS",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: 10m BiS."
+    },
+    {
+      "grade": "Hit Alternative",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Hit Alternative."
+    },
+    {
+      "grade": "Good Balanced",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Good Balanced."
+    },
+    {
+      "grade": "10m Good EHP",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: 10m Good EHP."
+    },
+    {
+      "grade": "High EHP",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: High EHP."
+    },
+    {
+      "grade": "High EHP + Avoidance",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: High EHP + Avoidance."
+    },
+    {
+      "grade": "Good EHP + Avoidance",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Good EHP + Avoidance."
+    },
+    {
+      "grade": "Mitigation Alternative",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Mitigation Alternative."
+    },
+    {
+      "grade": "High EHP + Hit",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: High EHP + Hit."
+    },
+    {
+      "grade": "Good EHP + Exp",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Good EHP + Exp."
+    },
+    {
+      "grade": "Good EHP + Hit",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Good EHP + Hit."
+    },
+    {
+      "grade": "Balanced w/ Hit",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Balanced w/ Hit."
+    },
+    {
+      "grade": "Balanced w/ Exp",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Balanced w/ Exp."
+    },
+    {
+      "grade": "Second Best",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Second Best."
+    },
+    {
+      "grade": "BoE Good EHP + Hit",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: BoE Good EHP + Hit."
+    },
+    {
+      "grade": "2128 Armor + Stacking Stamina",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: 2128 Armor + Stacking Stamina."
+    },
+    {
+      "grade": "Close Second",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Close Second."
+    },
+    {
+      "grade": "Alternative",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Alternative."
+    },
+    {
+      "grade": "Niche",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Niche."
+    },
+    {
+      "grade": "Decent",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Decent."
+    },
+    {
+      "grade": "Good",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Good."
+    },
+    {
+      "grade": "2nd BiS - Extremely High Contest",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: 2nd BiS - Extremely High Contest."
+    },
+    {
+      "grade": "Best",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/priest/discipline/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best."
+    },
+    {
+      "grade": "Best - Throughput",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/priest/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best - Throughput."
+    },
+    {
+      "grade": "Optional",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/priest/shadow/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Optional."
+    },
+    {
+      "grade": "Great",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/shaman/elemental/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great."
+    },
+    {
+      "grade": "Great",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/shaman/restoration/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great."
+    },
+    {
+      "grade": "Great",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/mage/arcane/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great."
+    },
+    {
+      "grade": "Great",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/mage/fire/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great."
+    },
+    {
+      "grade": "Great",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/mage/frost/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great."
+    },
+    {
+      "grade": "Great",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/affliction/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great."
+    },
+    {
+      "grade": "Great",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/demonology/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great."
+    },
+    {
+      "grade": "Great",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/destruction/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great."
+    },
+    {
+      "grade": "Great",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/balance/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great."
+    },
+    {
+      "grade": "Optional",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/restoration/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Optional."
+    },
+    {
+      "grade": "Great - Extremely High Contest",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great - Extremely High Contest."
+    },
+    {
+      "grade": "Great",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/priest/discipline/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great."
+    },
+    {
+      "grade": "Good",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/mage/arcane/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Good."
+    },
+    {
+      "grade": "Good",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/mage/fire/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Good."
+    },
+    {
+      "grade": "Good",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/balance/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Good."
+    },
+    {
+      "grade": "Good - Easy to Obtain (Hit)",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Good - Easy to Obtain (Hit)."
+    },
+    {
+      "grade": "Okay",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/mage/arcane/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Okay."
+    },
+    {
+      "grade": "Okay",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/mage/fire/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Okay."
+    },
+    {
+      "grade": "Okay",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/mage/frost/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Okay."
+    },
+    {
+      "grade": "Good",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/affliction/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Good."
+    },
+    {
+      "grade": "Good",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/demonology/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Good."
+    },
+    {
+      "grade": "Good",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/destruction/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Good."
+    },
+    {
+      "grade": "Good - Easy to Obtain (MP5)",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Good - Easy to Obtain (MP5)."
+    },
+    {
+      "grade": "2nd BiS",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: 2nd BiS."
+    },
+    {
+      "grade": "ICC BiS - Plate",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: ICC BiS - Plate."
+    },
+    {
+      "grade": "ICC BiS - Mail",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: ICC BiS - Mail."
+    },
+    {
+      "grade": "Good",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Good."
+    },
+    {
+      "grade": "Great - 10H BiS (Hit)",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great - 10H BiS (Hit)."
+    },
+    {
+      "grade": "Great",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/priest/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great."
+    },
+    {
+      "grade": "Good",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/mage/frost/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Good."
+    },
+    {
+      "grade": "Great - 10H BiS (MP5)",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great - 10H BiS (MP5)."
+    },
+    {
+      "grade": "Absolute BiS - MP5 option",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Absolute BiS - MP5 option."
+    },
+    {
+      "grade": "Great - 25N BiS",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great - 25N BiS."
+    },
+    {
+      "grade": "ICC BiS - Extremely High Contest",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: ICC BiS - Extremely High Contest."
+    },
+    {
+      "grade": "Best",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/mage/frost/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best."
+    },
+    {
+      "grade": "Great",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great."
+    },
+    {
+      "grade": "Good - BoE",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Good - BoE."
+    },
+    {
+      "grade": "Absolute BiS - Extremely High Contest",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Absolute BiS - Extremely High Contest."
+    },
+    {
+      "grade": "Alternative Best",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/mage/fire/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Alternative Best."
+    },
+    {
+      "grade": "Alternative Best",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/mage/frost/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Alternative Best."
+    },
+    {
+      "grade": "Best",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/destruction/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best."
+    },
+    {
+      "grade": "Best - Contested",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/priest/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best - Contested."
+    },
+    {
+      "grade": "Best",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/priest/shadow/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best."
+    },
+    {
+      "grade": "Great - 10H BiS",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great - 10H BiS."
+    },
+    {
+      "grade": "Great - Sustain",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/priest/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great - Sustain."
+    },
+    {
+      "grade": "Great - 25N BiS, BoE (but expensive)",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great - 25N BiS, BoE (but expensive)."
+    },
+    {
+      "grade": "Mediocre",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/demonology/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Mediocre."
+    },
+    {
+      "grade": "Optional",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/balance/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Optional."
+    },
+    {
+      "grade": "Great - Throughput",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/priest/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great - Throughput."
+    },
+    {
+      "grade": "Best",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/balance/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best."
+    },
+    {
+      "grade": "Best",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/priest/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best."
+    },
+    {
+      "grade": "Great - BoE, MP5 option",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great - BoE, MP5 option."
+    },
+    {
+      "grade": "Absolute BiS - Non-legendary",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Absolute BiS - Non-legendary."
+    },
+    {
+      "grade": "Good - 25N BiS",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Good - 25N BiS."
+    },
+    {
+      "grade": "Good - 10H BiS",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Good - 10H BiS."
+    },
+    {
+      "grade": "Good",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/priest/discipline/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Good."
+    },
+    {
+      "grade": "Great - 10H BiS (Haste/MP5)",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great - 10H BiS (Haste/MP5)."
+    },
+    {
+      "grade": "Strong EHP",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Strong EHP."
+    },
+    {
+      "grade": "Good EHP",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Good EHP."
+    },
+    {
+      "grade": "DPS",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: DPS."
+    },
+    {
+      "grade": "Phase 4 BiS",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Phase 4 BiS."
+    },
+    {
+      "grade": "Best",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/marksmanship/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best."
+    },
+    {
+      "grade": "2nd BiS",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: 2nd BiS."
+    },
+    {
+      "grade": "Great",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great."
+    },
+    {
+      "grade": "Realistic BiS",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/protection/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Realistic BiS."
+    },
+    {
+      "grade": "P4 Optional",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/retribution/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: P4 Optional."
+    },
+    {
+      "grade": "Hit Alternative",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/beast-mastery/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Hit Alternative."
+    },
+    {
+      "grade": "Hit Alternative",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/marksmanship/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Hit Alternative."
+    },
+    {
+      "grade": "Hit Alternative",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/survival/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Hit Alternative."
+    },
+    {
+      "grade": "P4 - Tier",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/retribution/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: P4 - Tier."
+    },
+    {
+      "grade": "Optional;",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/rogue/assassination/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Optional;."
+    },
+    {
+      "grade": "Optional;",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/rogue/subtlety/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Optional;."
+    },
+    {
+      "grade": "P4 - hit option",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/retribution/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: P4 - hit option."
+    },
+    {
+      "grade": "Alternative/Hit Option",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/beast-mastery/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Alternative/Hit Option."
+    },
+    {
+      "grade": "Alternative/Hit Option",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/marksmanship/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Alternative/Hit Option."
+    },
+    {
+      "grade": "Alternative/Hit Option",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/survival/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Alternative/Hit Option."
+    },
+    {
+      "grade": "P4 BIS",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/retribution/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: P4 BIS."
+    },
+    {
+      "grade": "P4 Optional hit",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/retribution/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: P4 Optional hit."
+    },
+    {
+      "grade": "Alternative (below Hit cap)",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/feral/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Alternative (below Hit cap)."
+    },
+    {
+      "grade": "Best for Sindragosa",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/feral/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best for Sindragosa."
+    },
+    {
+      "grade": "Above but hit option",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/retribution/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Above but hit option."
+    },
+    {
+      "grade": "Offensive Swap",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/feral/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Offensive Swap."
+    },
+    {
+      "grade": "Distant Second",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/feral/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Distant Second."
+    },
+    {
+      "grade": "Great (Phys MH)",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/shaman/enhancement/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great (Phys MH)."
+    },
+    {
+      "grade": "Best - 277 Tier",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/priest/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best - 277 Tier."
+    },
+    {
+      "grade": "Great - 264 Tier",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/priest/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great - 264 Tier."
+    },
+    {
+      "grade": "Great - Offpiece",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/priest/discipline/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great - Offpiece."
+    },
+    {
+      "grade": "Mediocre",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/affliction/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Mediocre."
+    },
+    {
+      "grade": "Mediocre",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/destruction/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Mediocre."
+    },
+    {
+      "grade": "Great - Offpiece",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/priest/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great - Offpiece."
+    },
+    {
+      "grade": "Alternative Best",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/mage/arcane/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Alternative Best."
+    },
+    {
+      "grade": "Great (no-hit) offpiece",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/balance/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great (no-hit) offpiece."
+    },
+    {
+      "grade": "Best",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/demonology/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best."
+    },
+    {
+      "grade": "Best - Offpiece",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/priest/discipline/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best - Offpiece."
+    },
+    {
+      "grade": "Good",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/priest/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Good."
+    },
+    {
+      "grade": "Great  - Throughput",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/priest/discipline/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great  - Throughput."
+    },
+    {
+      "grade": "Great  - Throughput",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/priest/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great  - Throughput."
+    },
+    {
+      "grade": "Optional: HPS+MP5",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/restoration/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Optional: HPS+MP5."
+    },
+    {
+      "grade": "Good (Hit)",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/balance/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Good (Hit)."
+    },
+    {
+      "grade": "Good - Offpiece",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/priest/holy/healer-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Good - Offpiece."
+    },
+    {
+      "method": "explicit-warmane-guide",
+      "grade": "Weapon alternative",
+      "url": "https://forum.warmane.com/showthread.php?t=323638&page=6",
+      "note": "Restoration Shaman weapon alternative discussed in the Warmane guide; compare Royal Scepter heroic or Valanyr and your healing setup."
+    },
+    {
+      "grade": "Best",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/mage/arcane/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best."
+    },
+    {
+      "grade": "Best Off-piece",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/balance/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best Off-piece."
+    },
+    {
+      "grade": "Best in slot",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/shaman/enhancement/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best in slot."
+    },
+    {
+      "grade": "Best",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/affliction/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best."
+    },
+    {
+      "grade": "Best in slot",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/shaman/elemental/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best in slot."
+    },
+    {
+      "grade": "Best - P4",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/death-knight/frost/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best - P4."
+    },
+    {
+      "grade": "Optional Best",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/mage/arcane/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Optional Best."
+    },
+    {
+      "grade": "Great (Hit)",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/balance/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great (Hit)."
+    },
+    {
+      "grade": "Great (OH)",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/shaman/enhancement/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Great (OH)."
+    },
+    {
+      "grade": "Optional (hit)",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/balance/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Optional (hit)."
+    },
+    {
+      "grade": "Catch-up",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/mage/arcane/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Catch-up."
+    },
+    {
+      "grade": "Best (Tier)",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/balance/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best (Tier)."
+    },
+    {
+      "grade": "Best with 4pT10 Bonus",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/feral/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Best with 4pT10 Bonus."
+    },
+    {
+      "grade": "Alternative (with 4pT10 Bonus)",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/feral/dps-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Alternative (with 4pT10 Bonus)."
+    },
+    {
+      "grade": "Sindragosa Alternative",
+      "url": "https://www.wowhead.com/wotlk/guide/classes/druid/feral/tank-bis-gear-pve-phase-4",
+      "method": "explicit-guide-table",
+      "note": "Listed gear alternative in a WotLK Classic P4 guide; not a Warmane simulation or a universal upgrade. Preserve set bonuses and hit/expertise caps. Source rank: Sindragosa Alternative."
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51935",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Physical gear: compare weapon speed, hit/expertise caps and armor penetration; no guaranteed upgrade over current gear. ",
+      "stats": {
+        "38": 161,
+        "3": 104,
+        "7": 95,
+        "5": 63,
+        "31": 47,
+        "32": 80
+      },
+      "classMask": -1,
+      "inventoryType": 6,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51935",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Physical gear: compare weapon speed, hit/expertise caps and armor penetration; no guaranteed upgrade over current gear. Physical Enhancement only; armor penetration is a weaker stat and this is a temporary alternative. ",
+      "stats": {
+        "38": 161,
+        "3": 104,
+        "7": 95,
+        "5": 63,
+        "31": 47,
+        "32": 80
+      },
+      "classMask": -1,
+      "inventoryType": 6,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51931",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Spell-power gear: compare haste/crit and mana regeneration; crit/spirit or mp5 is not a replacement for a required haste target. ",
+      "stats": {
+        "45": 122,
+        "7": 92,
+        "5": 92,
+        "32": 80,
+        "43": 32
+      },
+      "classMask": 32767,
+      "inventoryType": 8,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51936",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Physical gear: compare weapon speed, hit/expertise caps and armor penetration; no guaranteed upgrade over current gear. ",
+      "stats": {
+        "4": 169,
+        "7": 185,
+        "32": 79,
+        "31": 116
+      },
+      "classMask": -1,
+      "inventoryType": 17,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51926",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Physical gear: compare weapon speed, hit/expertise caps and armor penetration; no guaranteed upgrade over current gear. ",
+      "stats": {
+        "38": 161,
+        "3": 104,
+        "7": 95,
+        "5": 68,
+        "44": 56,
+        "31": 64
+      },
+      "classMask": 262143,
+      "inventoryType": 10,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51926",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Physical gear: compare weapon speed, hit/expertise caps and armor penetration; no guaranteed upgrade over current gear. Physical Enhancement only; armor penetration is a weaker stat and this is a temporary alternative. ",
+      "stats": {
+        "38": 161,
+        "3": 104,
+        "7": 95,
+        "5": 68,
+        "44": 56,
+        "31": 64
+      },
+      "classMask": 262143,
+      "inventoryType": 10,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51919",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Spell-power gear: compare haste/crit and mana regeneration; crit/spirit or mp5 is not a replacement for a required haste target. ",
+      "stats": {
+        "45": 122,
+        "7": 92,
+        "5": 92,
+        "36": 84,
+        "43": 29
+      },
+      "classMask": -1,
+      "inventoryType": 6,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51908",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Spell-power gear: compare haste/crit and mana regeneration; crit/spirit or mp5 is not a replacement for a required haste target. ",
+      "stats": {
+        "45": 122,
+        "7": 92,
+        "5": 92,
+        "6": 80,
+        "32": 64
+      },
+      "classMask": -1,
+      "inventoryType": 6,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51906",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Spell-power gear: compare haste/crit and mana regeneration; crit/spirit or mp5 is not a replacement for a required haste target. ",
+      "stats": {
+        "45": 171,
+        "7": 111,
+        "5": 117,
+        "36": 100,
+        "43": 49
+      },
+      "classMask": 262143,
+      "inventoryType": 1,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51907",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Spell-power gear: compare haste/crit and mana regeneration; crit/spirit or mp5 is not a replacement for a required haste target. ",
+      "stats": {
+        "45": 97,
+        "7": 79,
+        "5": 65,
+        "36": 52,
+        "43": 30
+      },
+      "classMask": -1,
+      "inventoryType": 9,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51903",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Physical gear: compare weapon speed, hit/expertise caps and armor penetration; no guaranteed upgrade over current gear. ",
+      "stats": {
+        "38": 292,
+        "3": 84,
+        "7": 128,
+        "5": 85,
+        "31": 73,
+        "32": 108
+      },
+      "classMask": 32767,
+      "inventoryType": 5,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51903",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Physical gear: compare weapon speed, hit/expertise caps and armor penetration; no guaranteed upgrade over current gear. Physical Enhancement only; armor penetration is a weaker stat and this is a temporary alternative. ",
+      "stats": {
+        "38": 292,
+        "3": 84,
+        "7": 128,
+        "5": 85,
+        "31": 73,
+        "32": 108
+      },
+      "classMask": 32767,
+      "inventoryType": 5,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51905",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Physical gear: compare weapon speed, hit/expertise caps and armor penetration; no guaranteed upgrade over current gear. ",
+      "stats": {
+        "4": 161,
+        "7": 185,
+        "44": 91,
+        "37": 99
+      },
+      "classMask": -1,
+      "inventoryType": 17,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51885",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Spell-power gear: compare haste/crit and mana regeneration; crit/spirit or mp5 is not a replacement for a required haste target. ",
+      "stats": {
+        "45": 97,
+        "7": 69,
+        "5": 69,
+        "6": 63,
+        "32": 48
+      },
+      "classMask": 32767,
+      "inventoryType": 9,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51886",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Spell-power gear: compare haste/crit and mana regeneration; crit/spirit or mp5 is not a replacement for a required haste target. ",
+      "stats": {
+        "45": 122,
+        "7": 92,
+        "5": 92,
+        "32": 64,
+        "43": 40
+      },
+      "classMask": 262143,
+      "inventoryType": 10,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51892",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Physical gear: compare weapon speed, hit/expertise caps and armor penetration; no guaranteed upgrade over current gear. ",
+      "stats": {
+        "4": 121,
+        "7": 137,
+        "31": 80,
+        "37": 64
+      },
+      "classMask": 262143,
+      "inventoryType": 10,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51870",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Spell-power gear: compare haste/crit and mana regeneration; crit/spirit or mp5 is not a replacement for a required haste target. ",
+      "stats": {
+        "45": 162,
+        "7": 123,
+        "5": 123,
+        "6": 84,
+        "32": 108
+      },
+      "classMask": 262143,
+      "inventoryType": 20,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51873",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Spell-power gear: compare haste/crit and mana regeneration; crit/spirit or mp5 is not a replacement for a required haste target. ",
+      "stats": {
+        "45": 122,
+        "7": 92,
+        "5": 92,
+        "43": 40,
+        "36": 64
+      },
+      "classMask": 32767,
+      "inventoryType": 8,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51878",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Physical gear: compare weapon speed, hit/expertise caps and armor penetration; no guaranteed upgrade over current gear. ",
+      "stats": {
+        "4": 95,
+        "7": 103,
+        "44": 54,
+        "37": 57
+      },
+      "classMask": -1,
+      "inventoryType": 11,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51876",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Physical gear: compare weapon speed, hit/expertise caps and armor penetration; no guaranteed upgrade over current gear. ",
+      "stats": {
+        "3": 61,
+        "7": 53,
+        "36": 50,
+        "44": 33,
+        "38": 106
+      },
+      "classMask": 262143,
+      "inventoryType": 21,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51876",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Physical gear: compare weapon speed, hit/expertise caps and armor penetration; no guaranteed upgrade over current gear. Physical Enhancement only; armor penetration is a weaker stat and this is a temporary alternative. ",
+      "stats": {
+        "3": 61,
+        "7": 53,
+        "36": 50,
+        "44": 33,
+        "38": 106
+      },
+      "classMask": 262143,
+      "inventoryType": 21,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51881",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Physical gear: compare weapon speed, hit/expertise caps and armor penetration; no guaranteed upgrade over current gear. ",
+      "stats": {
+        "38": 229,
+        "3": 146,
+        "7": 146,
+        "32": 108,
+        "31": 92
+      },
+      "classMask": -1,
+      "inventoryType": 17,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51865",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Physical gear: compare weapon speed, hit/expertise caps and armor penetration; no guaranteed upgrade over current gear. ",
+      "stats": {
+        "4": 121,
+        "7": 137,
+        "44": 83,
+        "31": 60
+      },
+      "classMask": 32767,
+      "inventoryType": 3,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51861",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Spell-power gear: compare haste/crit and mana regeneration; crit/spirit or mp5 is not a replacement for a required haste target. ",
+      "stats": {
+        "45": 162,
+        "7": 123,
+        "5": 123,
+        "43": 42,
+        "32": 108
+      },
+      "classMask": 1535,
+      "inventoryType": 5,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51840",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Spell-power gear: compare haste/crit and mana regeneration; crit/spirit or mp5 is not a replacement for a required haste target. ",
+      "stats": {
+        "45": 162,
+        "7": 123,
+        "5": 123,
+        "36": 108,
+        "43": 42
+      },
+      "classMask": 32767,
+      "inventoryType": 5,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51844",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Physical gear: compare weapon speed, hit/expertise caps and armor penetration; no guaranteed upgrade over current gear. ",
+      "stats": {
+        "4": 121,
+        "7": 137,
+        "31": 80,
+        "36": 64
+      },
+      "classMask": 262143,
+      "inventoryType": 10,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51836",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Spell-power gear: compare haste/crit and mana regeneration; crit/spirit or mp5 is not a replacement for a required haste target. ",
+      "stats": {
+        "45": 122,
+        "7": 92,
+        "5": 92,
+        "36": 80,
+        "43": 32
+      },
+      "classMask": 1535,
+      "inventoryType": 6,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51825",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Spell-power gear: compare haste/crit and mana regeneration; crit/spirit or mp5 is not a replacement for a required haste target. ",
+      "stats": {
+        "45": 162,
+        "7": 123,
+        "5": 123,
+        "6": 92,
+        "32": 100
+      },
+      "classMask": 262143,
+      "inventoryType": 1,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51829",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Physical gear: compare weapon speed, hit/expertise caps and armor penetration; no guaranteed upgrade over current gear. ",
+      "stats": {
+        "38": 192,
+        "3": 138,
+        "7": 128,
+        "5": 75,
+        "32": 96,
+        "31": 91
+      },
+      "classMask": -1,
+      "inventoryType": 7,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51829",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Physical gear: compare weapon speed, hit/expertise caps and armor penetration; no guaranteed upgrade over current gear. Physical Enhancement only; armor penetration is a weaker stat and this is a temporary alternative. ",
+      "stats": {
+        "38": 192,
+        "3": 138,
+        "7": 128,
+        "5": 75,
+        "32": 96,
+        "31": 91
+      },
+      "classMask": -1,
+      "inventoryType": 7,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51824",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Spell-power gear: compare haste/crit and mana regeneration; crit/spirit or mp5 is not a replacement for a required haste target. ",
+      "stats": {
+        "45": 122,
+        "7": 92,
+        "5": 92,
+        "32": 64,
+        "43": 40
+      },
+      "classMask": 32767,
+      "inventoryType": 3,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51814",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Spell-power gear: compare haste/crit and mana regeneration; crit/spirit or mp5 is not a replacement for a required haste target. ",
+      "stats": {
+        "45": 122,
+        "7": 92,
+        "5": 92,
+        "6": 80,
+        "36": 64
+      },
+      "classMask": 262143,
+      "inventoryType": 10,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51811",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Spell-power gear: compare haste/crit and mana regeneration; crit/spirit or mp5 is not a replacement for a required haste target. ",
+      "stats": {
+        "45": 122,
+        "7": 92,
+        "5": 92,
+        "32": 80,
+        "36": 64
+      },
+      "classMask": -1,
+      "inventoryType": 3,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51818",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Physical gear: compare weapon speed, hit/expertise caps and armor penetration; no guaranteed upgrade over current gear. ",
+      "stats": {
+        "38": 183,
+        "3": 104,
+        "7": 95,
+        "5": 56,
+        "31": 52,
+        "32": 61
+      },
+      "classMask": 32767,
+      "inventoryType": 8,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51818",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Physical gear: compare weapon speed, hit/expertise caps and armor penetration; no guaranteed upgrade over current gear. Physical Enhancement only; armor penetration is a weaker stat and this is a temporary alternative. ",
+      "stats": {
+        "38": 183,
+        "3": 104,
+        "7": 95,
+        "5": 56,
+        "31": 52,
+        "32": 61
+      },
+      "classMask": 32767,
+      "inventoryType": 8,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51819",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Physical gear: compare weapon speed, hit/expertise caps and armor penetration; no guaranteed upgrade over current gear. Combat off-hand only; preserve weapon specialization and poison setup. ",
+      "stats": {
+        "38": 93,
+        "7": 69,
+        "36": 38,
+        "44": 46,
+        "3": 61
+      },
+      "classMask": 262143,
+      "inventoryType": 22,
+      "itemSet": 0
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51126",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Tier option for this role; choose the complete 2/4-piece setup, not all five pieces automatically. ",
+      "stats": {
+        "4": 169,
+        "7": 185,
+        "32": 108,
+        "37": 92
+      },
+      "classMask": 32,
+      "inventoryType": 7,
+      "itemSet": 897
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51139",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Tier option for this role; choose the complete 2/4-piece setup, not all five pieces automatically. ",
+      "stats": {
+        "45": 171,
+        "7": 123,
+        "5": 123,
+        "6": 108,
+        "32": 92
+      },
+      "classMask": 1024,
+      "inventoryType": 20,
+      "itemSet": 887
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51300",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Tier option for this role; choose the complete 2/4-piece setup, not all five pieces automatically. ",
+      "stats": {
+        "45": 195,
+        "7": 139,
+        "5": 139,
+        "6": 122,
+        "32": 106
+      },
+      "classMask": 1024,
+      "inventoryType": 20,
+      "itemSet": 887
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51152",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Tier option for this role; choose the complete 2/4-piece setup, not all five pieces automatically. ",
+      "stats": {
+        "38": 184,
+        "3": 162,
+        "7": 128,
+        "5": 85,
+        "32": 100,
+        "36": 77
+      },
+      "classMask": 4,
+      "inventoryType": 7,
+      "itemSet": 891
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51165",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Tier option for this role; choose the complete 2/4-piece setup, not all five pieces automatically. ",
+      "stats": {
+        "45": 171,
+        "7": 123,
+        "5": 123,
+        "32": 108,
+        "36": 92
+      },
+      "classMask": 2,
+      "inventoryType": 5,
+      "itemSet": 899
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51168",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Tier option for this role; choose the complete 2/4-piece setup, not all five pieces automatically. ",
+      "stats": {
+        "45": 171,
+        "7": 123,
+        "5": 123,
+        "32": 108,
+        "43": 46
+      },
+      "classMask": 2,
+      "inventoryType": 7,
+      "itemSet": 899
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51169",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Tier option for this role; choose the complete 2/4-piece setup, not all five pieces automatically. ",
+      "stats": {
+        "45": 132,
+        "7": 92,
+        "5": 92,
+        "32": 80,
+        "43": 36
+      },
+      "classMask": 2,
+      "inventoryType": 10,
+      "itemSet": 899
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51270",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Tier option for this role; choose the complete 2/4-piece setup, not all five pieces automatically. ",
+      "stats": {
+        "45": 150,
+        "7": 103,
+        "5": 103,
+        "32": 90,
+        "43": 41
+      },
+      "classMask": 2,
+      "inventoryType": 10,
+      "itemSet": 899
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51271",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Tier option for this role; choose the complete 2/4-piece setup, not all five pieces automatically. ",
+      "stats": {
+        "45": 195,
+        "7": 139,
+        "5": 139,
+        "32": 122,
+        "43": 53
+      },
+      "classMask": 2,
+      "inventoryType": 7,
+      "itemSet": 899
+    },
+    {
+      "method": "reviewed-progression-option",
+      "grade": "Conditional progression alternative",
+      "url": "https://wowgaming.altervista.org/aowow/?item=51274",
+      "note": "Reviewed progression alternative from 3.3.5a item stats, equipment eligibility and role. Not explicitly ranked in the linked guide and not BIS. Tier option for this role; choose the complete 2/4-piece setup, not all five pieces automatically. ",
+      "stats": {
+        "45": 195,
+        "7": 139,
+        "5": 139,
+        "32": 122,
+        "36": 106
+      },
+      "classMask": 2,
+      "inventoryType": 5,
+      "itemSet": 899
+    }
+  ]
+}
