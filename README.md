@@ -170,3 +170,8 @@ All ICC loot-table equipment and all 190 Sanctified T10 pieces (264/277) now sho
 Added conditional ALT 4 assessments for missing item/spec pairs using exact item IDs from 31 specialization guides, plus individually reviewed progression options. All ICC 10 Heroic and Sanctified 264/277 pieces now have at least one class/spec assessment. ALT means a conditional gearing alternative, not an optimal set or a guaranteed upgrade. Existing curated BIS/ALT rankings remain authoritative and unchanged.
 
 The supplemental guides target WotLK Classic; these entries are conservative alternatives, not new Warmane BIS claims. Spellhance spell-power main-hand entries are excluded. Manually reviewed options use original 3.3.5a stats and role restrictions and are explicitly identified in `/mwbis item ID`. `RAID-ASSESSMENTS.json` records each added item/spec pair, method, source and caveat.
+
+## v0.4.3-beta: full ToC loot coverage
+All 632 boss/tribute equipment entries from ToC 10/25 Normal/Heroic, Horde/Alliance, now have acquisition and class/spec assessments. New conditional ALT 4 rows use exact-ID P3/P4 guide tables, reviewed faction/difficulty variants, and explicit manual role reviews for uncovered items. These are progression alternatives, not ICC/RS BIS rankings or guaranteed upgrades. Existing ratings remain unchanged. Original 3.3.5a loot sources are used, not Classic currencies. See TOC-ASSESSMENTS.json for provenance.
+
+Ruby Sanctum: all 56 Halion equipment entries across 10/25 Normal/Heroic have source and class/spec rows. Existing BIS entries are preserved; additional roles are conditional alternatives. See RS-ASSESSMENTS.json for guide versus manual-review provenance.

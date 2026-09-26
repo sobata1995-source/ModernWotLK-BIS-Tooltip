@@ -1,0 +1,1242 @@
+{
+  "coverage": {
+    "53115": {
+      "table": "Halion",
+      "line": 7006
+    },
+    "53118": {
+      "table": "Halion",
+      "line": 7007
+    },
+    "53114": {
+      "table": "Halion",
+      "line": 7008
+    },
+    "53117": {
+      "table": "Halion",
+      "line": 7009
+    },
+    "53113": {
+      "table": "Halion",
+      "line": 7010
+    },
+    "53119": {
+      "table": "Halion",
+      "line": 7011
+    },
+    "53112": {
+      "table": "Halion",
+      "line": 7012
+    },
+    "53121": {
+      "table": "Halion",
+      "line": 7013
+    },
+    "53111": {
+      "table": "Halion",
+      "line": 7014
+    },
+    "53103": {
+      "table": "Halion",
+      "line": 7015
+    },
+    "53116": {
+      "table": "Halion",
+      "line": 7016
+    },
+    "53110": {
+      "table": "Halion",
+      "line": 7017
+    },
+    "53489": {
+      "table": "Halion25Man",
+      "line": 7021
+    },
+    "53486": {
+      "table": "Halion25Man",
+      "line": 7022
+    },
+    "53134": {
+      "table": "Halion25Man",
+      "line": 7023
+    },
+    "53126": {
+      "table": "Halion25Man",
+      "line": 7024
+    },
+    "53488": {
+      "table": "Halion25Man",
+      "line": 7025
+    },
+    "53127": {
+      "table": "Halion25Man",
+      "line": 7026
+    },
+    "53125": {
+      "table": "Halion25Man",
+      "line": 7027
+    },
+    "53487": {
+      "table": "Halion25Man",
+      "line": 7028
+    },
+    "53129": {
+      "table": "Halion25Man",
+      "line": 7029
+    },
+    "53132": {
+      "table": "Halion25Man",
+      "line": 7030
+    },
+    "53490": {
+      "table": "Halion25Man",
+      "line": 7031
+    },
+    "53133": {
+      "table": "Halion25Man",
+      "line": 7032
+    },
+    "54572": {
+      "table": "Halion25Man",
+      "line": 7033
+    },
+    "54573": {
+      "table": "Halion25Man",
+      "line": 7034
+    },
+    "54571": {
+      "table": "Halion25Man",
+      "line": 7035
+    },
+    "54569": {
+      "table": "Halion25Man",
+      "line": 7036
+    },
+    "54556": {
+      "table": "HalionHEROIC",
+      "line": 7040
+    },
+    "54562": {
+      "table": "HalionHEROIC",
+      "line": 7041
+    },
+    "54561": {
+      "table": "HalionHEROIC",
+      "line": 7042
+    },
+    "54560": {
+      "table": "HalionHEROIC",
+      "line": 7043
+    },
+    "54566": {
+      "table": "HalionHEROIC",
+      "line": 7044
+    },
+    "54558": {
+      "table": "HalionHEROIC",
+      "line": 7045
+    },
+    "54559": {
+      "table": "HalionHEROIC",
+      "line": 7046
+    },
+    "54565": {
+      "table": "HalionHEROIC",
+      "line": 7047
+    },
+    "54564": {
+      "table": "HalionHEROIC",
+      "line": 7048
+    },
+    "54557": {
+      "table": "HalionHEROIC",
+      "line": 7049
+    },
+    "54563": {
+      "table": "HalionHEROIC",
+      "line": 7050
+    },
+    "54567": {
+      "table": "HalionHEROIC",
+      "line": 7051
+    },
+    "54583": {
+      "table": "Halion25ManHEROIC",
+      "line": 7055
+    },
+    "54582": {
+      "table": "Halion25ManHEROIC",
+      "line": 7056
+    },
+    "54584": {
+      "table": "Halion25ManHEROIC",
+      "line": 7057
+    },
+    "54580": {
+      "table": "Halion25ManHEROIC",
+      "line": 7058
+    },
+    "54587": {
+      "table": "Halion25ManHEROIC",
+      "line": 7059
+    },
+    "54577": {
+      "table": "Halion25ManHEROIC",
+      "line": 7060
+    },
+    "54578": {
+      "table": "Halion25ManHEROIC",
+      "line": 7061
+    },
+    "54586": {
+      "table": "Halion25ManHEROIC",
+      "line": 7062
+    },
+    "54579": {
+      "table": "Halion25ManHEROIC",
+      "line": 7063
+    },
+    "54581": {
+      "table": "Halion25ManHEROIC",
+      "line": 7064
+    },
+    "54585": {
+      "table": "Halion25ManHEROIC",
+      "line": 7065
+    },
+    "54576": {
+      "table": "Halion25ManHEROIC",
+      "line": 7066
+    },
+    "54588": {
+      "table": "Halion25ManHEROIC",
+      "line": 7067
+    },
+    "54589": {
+      "table": "Halion25ManHEROIC",
+      "line": 7068
+    },
+    "54591": {
+      "table": "Halion25ManHEROIC",
+      "line": 7069
+    },
+    "54590": {
+      "table": "Halion25ManHEROIC",
+      "line": 7070
+    }
+  },
+  "assessments": {
+    "53115": {
+      "PALADIN_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53115",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "PRIEST_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53115",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "PRIEST_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53115",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DRUID_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53115",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "SHAMAN_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53115",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "53118": {
+      "MAGE_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53118",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "MAGE_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53118",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "MAGE_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53118",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "WARLOCK_1": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/affliction/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "WARLOCK_2": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/demonology/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "WARLOCK_3": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/destruction/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "PRIEST_3": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/priest/shadow/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DRUID_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53118",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "SHAMAN_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53118",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "53114": {
+      "ROGUE_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53114",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "ROGUE_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53114",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "ROGUE_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53114",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DRUID_2_CAT": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53114",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DRUID_2_BEAR": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53114",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "53117": {
+      "DRUID_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53117",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DRUID_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53117",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "53113": {
+      "HUNTER_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53113",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "HUNTER_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53113",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "HUNTER_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53113",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "SHAMAN_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53113",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "53119": {
+      "SHAMAN_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53119",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "SHAMAN_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53119",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "53112": {
+      "WARRIOR_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53112",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "WARRIOR_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53112",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "PALADIN_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53112",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DEATHKNIGHT_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53112",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DEATHKNIGHT_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53112",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "53121": {
+      "PALADIN_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53121",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "53111": {
+      "WARRIOR_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53111",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "PALADIN_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53111",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DEATHKNIGHT_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53111",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "53103": {
+      "ROGUE_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53103",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "ROGUE_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53103",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "ROGUE_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53103",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DRUID_2_CAT": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53103",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DRUID_2_BEAR": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53103",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "SHAMAN_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53103",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "53116": {
+      "MAGE_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53116",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "MAGE_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53116",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "MAGE_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53116",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "WARLOCK_1": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/affliction/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "WARLOCK_2": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/demonology/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "WARLOCK_3": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/destruction/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "PRIEST_3": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/priest/shadow/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DRUID_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53116",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "SHAMAN_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53116",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "53110": {
+      "WARRIOR_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53110",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "WARRIOR_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53110",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "PALADIN_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53110",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DEATHKNIGHT_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53110",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DEATHKNIGHT_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53110",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "53489": {
+      "MAGE_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53489",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "PRIEST_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53489",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "53486": {
+      "MAGE_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53486",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "53134": {
+      "DRUID_1": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/druid/balance/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DRUID_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53134",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "53126": {
+      "ROGUE_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53126",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "ROGUE_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53126",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "53127": {
+      "HUNTER_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53127",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "HUNTER_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53127",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "HUNTER_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53127",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "SHAMAN_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53127",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "53125": {
+      "WARRIOR_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53125",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "WARRIOR_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53125",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "PALADIN_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53125",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DEATHKNIGHT_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53125",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DEATHKNIGHT_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53125",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "53129": {
+      "DEATHKNIGHT_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53129",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "53132": {
+      "WARRIOR_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53132",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "WARRIOR_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53132",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "PALADIN_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53132",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DEATHKNIGHT_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53132",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DEATHKNIGHT_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53132",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "53490": {
+      "PALADIN_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53490",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DRUID_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53490",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "SHAMAN_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53490",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "53133": {
+      "HUNTER_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53133",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "HUNTER_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53133",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "HUNTER_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53133",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "ROGUE_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53133",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "ROGUE_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53133",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DRUID_2_BEAR": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=53133",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "54572": {
+      "MAGE_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54572",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment. Trinket value depends on proc/on-use conditions and encounter; match physical, spell, healing or tank role."
+      }
+    },
+    "54573": {
+      "PALADIN_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54573",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment. Trinket value depends on proc/on-use conditions and encounter; match physical, spell, healing or tank role."
+      },
+      "PRIEST_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54573",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment. Trinket value depends on proc/on-use conditions and encounter; match physical, spell, healing or tank role."
+      },
+      "PRIEST_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54573",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment. Trinket value depends on proc/on-use conditions and encounter; match physical, spell, healing or tank role."
+      },
+      "DRUID_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54573",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment. Trinket value depends on proc/on-use conditions and encounter; match physical, spell, healing or tank role."
+      },
+      "SHAMAN_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54573",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment. Trinket value depends on proc/on-use conditions and encounter; match physical, spell, healing or tank role."
+      }
+    },
+    "54571": {
+      "PALADIN_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54571",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment. Trinket value depends on proc/on-use conditions and encounter; match physical, spell, healing or tank role."
+      },
+      "DEATHKNIGHT_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54571",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment. Trinket value depends on proc/on-use conditions and encounter; match physical, spell, healing or tank role."
+      },
+      "DRUID_2_BEAR": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54571",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment. Trinket value depends on proc/on-use conditions and encounter; match physical, spell, healing or tank role."
+      }
+    },
+    "54569": {
+      "HUNTER_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54569",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment. Trinket value depends on proc/on-use conditions and encounter; match physical, spell, healing or tank role."
+      },
+      "HUNTER_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54569",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment. Trinket value depends on proc/on-use conditions and encounter; match physical, spell, healing or tank role."
+      },
+      "ROGUE_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54569",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment. Trinket value depends on proc/on-use conditions and encounter; match physical, spell, healing or tank role."
+      },
+      "ROGUE_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54569",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment. Trinket value depends on proc/on-use conditions and encounter; match physical, spell, healing or tank role."
+      }
+    },
+    "54556": {
+      "PALADIN_1": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "PRIEST_1": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/priest/discipline/healer-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "PRIEST_2": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/priest/holy/healer-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DRUID_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54556",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "SHAMAN_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54556",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "54562": {
+      "MAGE_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54562",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "MAGE_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54562",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "MAGE_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54562",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "WARLOCK_1": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/affliction/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "WARLOCK_2": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/demonology/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "WARLOCK_3": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/destruction/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "PRIEST_3": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/priest/shadow/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DRUID_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54562",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "SHAMAN_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54562",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "54561": {
+      "ROGUE_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54561",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "ROGUE_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54561",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "ROGUE_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54561",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DRUID_2_CAT": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/druid/feral/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DRUID_2_BEAR": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54561",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "54560": {
+      "DRUID_1": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/druid/balance/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DRUID_3": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/druid/restoration/healer-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "54566": {
+      "HUNTER_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54566",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "HUNTER_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54566",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "HUNTER_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54566",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "SHAMAN_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54566",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "54558": {
+      "SHAMAN_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54558",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "SHAMAN_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54558",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "54559": {
+      "WARRIOR_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54559",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "WARRIOR_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54559",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DEATHKNIGHT_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54559",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DEATHKNIGHT_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54559",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "54565": {
+      "PALADIN_1": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "54564": {
+      "WARRIOR_3": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/protection/tank-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "PALADIN_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54564",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DEATHKNIGHT_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54564",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "54557": {
+      "ROGUE_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54557",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "ROGUE_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54557",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "ROGUE_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54557",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DRUID_2_CAT": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/druid/feral/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DRUID_2_BEAR": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54557",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "SHAMAN_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54557",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "54563": {
+      "MAGE_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54563",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "MAGE_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54563",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "MAGE_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54563",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "WARLOCK_1": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/affliction/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "WARLOCK_2": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/demonology/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "WARLOCK_3": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/warlock/destruction/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "PRIEST_3": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/priest/shadow/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DRUID_1": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/druid/balance/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "SHAMAN_1": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/shaman/elemental/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "54567": {
+      "WARRIOR_1": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54567",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "WARRIOR_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54567",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "PALADIN_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54567",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DEATHKNIGHT_2": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54567",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DEATHKNIGHT_3": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54567",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "54583": {
+      "MAGE_3": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/mage/frost/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "PRIEST_2": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/priest/holy/healer-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "54582": {
+      "MAGE_3": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/mage/frost/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "54584": {
+      "DRUID_1": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/druid/balance/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DRUID_3": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/druid/restoration/healer-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "54580": {
+      "ROGUE_1": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/rogue/assassination/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "ROGUE_3": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/rogue/subtlety/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "54577": {
+      "HUNTER_1": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/beast-mastery/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "HUNTER_3": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/survival/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "54579": {
+      "DEATHKNIGHT_1": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/death-knight/blood/tank-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "54585": {
+      "PALADIN_1": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/paladin/holy/healer-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DRUID_3": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/druid/restoration/healer-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "SHAMAN_3": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/shaman/restoration/healer-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "54576": {
+      "HUNTER_1": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/beast-mastery/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "HUNTER_2": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/marksmanship/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "HUNTER_3": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/survival/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "ROGUE_1": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/rogue/assassination/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "ROGUE_3": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/rogue/subtlety/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      },
+      "DRUID_2_BEAR": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/druid/feral/tank-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment."
+      }
+    },
+    "54588": {
+      "MAGE_3": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/mage/frost/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment. Trinket value depends on proc/on-use conditions and encounter; match physical, spell, healing or tank role."
+      }
+    },
+    "54591": {
+      "WARRIOR_3": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/warrior/protection/tank-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment. Trinket value depends on proc/on-use conditions and encounter; match physical, spell, healing or tank role."
+      },
+      "DEATHKNIGHT_1": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/death-knight/blood/tank-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment. Trinket value depends on proc/on-use conditions and encounter; match physical, spell, healing or tank role."
+      },
+      "DRUID_2_BEAR": {
+        "url": "https://wowgaming.altervista.org/aowow/?item=54591",
+        "method": "manual-stats-role-review",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Reviewed original 3.3.5a stats, equipment eligibility and role. Compare hit/expertise caps, haste/armor-penetration targets and current equipment. Trinket value depends on proc/on-use conditions and encounter; match physical, spell, healing or tank role."
+      }
+    },
+    "54590": {
+      "HUNTER_1": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/beast-mastery/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment. Trinket value depends on proc/on-use conditions and encounter; match physical, spell, healing or tank role."
+      },
+      "HUNTER_3": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/hunter/survival/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment. Trinket value depends on proc/on-use conditions and encounter; match physical, spell, healing or tank role."
+      },
+      "ROGUE_1": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/rogue/assassination/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment. Trinket value depends on proc/on-use conditions and encounter; match physical, spell, healing or tank role."
+      },
+      "ROGUE_3": {
+        "url": "https://www.wowhead.com/wotlk/guide/classes/rogue/subtlety/dps-bis-gear-pve-phase-4",
+        "method": "explicit-guide-table",
+        "note": "Conditional alternative, not a simulated upgrade or automatic BIS. Listed in a WotLK Classic guide; Warmane mechanics may differ. Compare hit/expertise caps, haste/armor-penetration targets and current equipment. Trinket value depends on proc/on-use conditions and encounter; match physical, spell, healing or tank role."
+      }
+    }
+  },
+  "counts": {
+    "equipment": 56,
+    "newPairs": 182
+  }
+}

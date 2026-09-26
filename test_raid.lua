@@ -15,8 +15,8 @@ for id in pairs(A.raidItems) do
   tip.hooks.OnTooltipSetItem(tip); assert(n==tip:NumLines())
  end
 end
-assert(count==751)
+assert(count==1439)
 assert(A.raidItems[50661] and A.raidItems[51939])
 for id=51125,51314 do assert(A.raidItems[id]) end
 assert(not A:HasAssessment(1))
-print("PASS: 751 raid/tier items, all 190 Sanctified pieces, reported items and tooltip hooks")
+print("PASS: 1439 raid/tier items, all 190 Sanctified pieces, reported items and tooltip hooks")
