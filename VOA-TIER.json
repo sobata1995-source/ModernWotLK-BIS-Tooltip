@@ -1,0 +1,734 @@
+{
+  "47753": {
+    "name": "Khadgar's Gauntlets of Triumph",
+    "specs": [
+      "MAGE_1",
+      "MAGE_2",
+      "MAGE_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2092",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "47755": {
+    "name": "Khadgar's Leggings of Triumph",
+    "specs": [
+      "MAGE_1",
+      "MAGE_2",
+      "MAGE_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2093",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "47983": {
+    "name": "Velen's Gloves of Triumph",
+    "specs": [
+      "PRIEST_1",
+      "PRIEST_2"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2095",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "47985": {
+    "name": "Velen's Leggings of Triumph",
+    "specs": [
+      "PRIEST_1",
+      "PRIEST_2"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2096",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48077": {
+    "name": "Velen's Handwraps of Triumph",
+    "specs": [
+      "PRIEST_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2098",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48079": {
+    "name": "Velen's Pants of Triumph",
+    "specs": [
+      "PRIEST_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2099",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "47782": {
+    "name": "Kel'Thuzad's Gloves of Triumph",
+    "specs": [
+      "WARLOCK_1",
+      "WARLOCK_2",
+      "WARLOCK_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2101",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "47780": {
+    "name": "Kel'Thuzad's Leggings of Triumph",
+    "specs": [
+      "WARLOCK_1",
+      "WARLOCK_2",
+      "WARLOCK_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2102",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48163": {
+    "name": "Stormrage's Gloves of Triumph",
+    "specs": [
+      "DRUID_1"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2120",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48165": {
+    "name": "Stormrage's Trousers of Triumph",
+    "specs": [
+      "DRUID_1"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2121",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48212": {
+    "name": "Stormrage's Handgrips of Triumph",
+    "specs": [
+      "DRUID_2_CAT",
+      "DRUID_2_BEAR"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2123",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48210": {
+    "name": "Stormrage's Legguards of Triumph",
+    "specs": [
+      "DRUID_2_CAT",
+      "DRUID_2_BEAR"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2124",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48133": {
+    "name": "Stormrage's Handguards of Triumph",
+    "specs": [
+      "DRUID_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2126",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48135": {
+    "name": "Stormrage's Leggings of Triumph",
+    "specs": [
+      "DRUID_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2127",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48224": {
+    "name": "VanCleef's Gauntlets of Triumph",
+    "specs": [
+      "ROGUE_1",
+      "ROGUE_2",
+      "ROGUE_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2129",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48226": {
+    "name": "VanCleef's Legplates of Triumph",
+    "specs": [
+      "ROGUE_1",
+      "ROGUE_2",
+      "ROGUE_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2130",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48256": {
+    "name": "Windrunner's Handguards of Triumph",
+    "specs": [
+      "HUNTER_1",
+      "HUNTER_2",
+      "HUNTER_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2149",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48258": {
+    "name": "Windrunner's Legguards of Triumph",
+    "specs": [
+      "HUNTER_1",
+      "HUNTER_2",
+      "HUNTER_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2150",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48317": {
+    "name": "Nobundo's Gloves of Triumph",
+    "specs": [
+      "SHAMAN_1"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2152",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48319": {
+    "name": "Nobundo's Kilt of Triumph",
+    "specs": [
+      "SHAMAN_1"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2153",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48347": {
+    "name": "Nobundo's Grips of Triumph",
+    "specs": [
+      "SHAMAN_2"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2155",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48349": {
+    "name": "Nobundo's War-Kilt of Triumph",
+    "specs": [
+      "SHAMAN_2"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2156",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48286": {
+    "name": "Nobundo's Handguards of Triumph",
+    "specs": [
+      "SHAMAN_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2158",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48288": {
+    "name": "Nobundo's Legguards of Triumph",
+    "specs": [
+      "SHAMAN_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2159",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48482": {
+    "name": "Thassarian's Gauntlets of Triumph",
+    "specs": [
+      "DEATHKNIGHT_2",
+      "DEATHKNIGHT_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2178",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48484": {
+    "name": "Thassarian's Legplates of Triumph",
+    "specs": [
+      "DEATHKNIGHT_2",
+      "DEATHKNIGHT_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2179",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48539": {
+    "name": "Thassarian's Handguards of Triumph",
+    "specs": [
+      "DEATHKNIGHT_1"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2181",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48541": {
+    "name": "Thassarian's Legguards of Triumph",
+    "specs": [
+      "DEATHKNIGHT_1"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2182",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48576": {
+    "name": "Turalyon's Gloves of Triumph",
+    "specs": [
+      "PALADIN_1"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2184",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48578": {
+    "name": "Turalyon's Greaves of Triumph",
+    "specs": [
+      "PALADIN_1"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2185",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48608": {
+    "name": "Turalyon's Gauntlets of Triumph",
+    "specs": [
+      "PALADIN_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2187",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48610": {
+    "name": "Turalyon's Legplates of Triumph",
+    "specs": [
+      "PALADIN_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2188",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48640": {
+    "name": "Turalyon's Handguards of Triumph",
+    "specs": [
+      "PALADIN_2"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2204",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48638": {
+    "name": "Turalyon's Legguards of Triumph",
+    "specs": [
+      "PALADIN_2"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2205",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48377": {
+    "name": "Wrynn's Gauntlets of Triumph",
+    "specs": [
+      "WARRIOR_1",
+      "WARRIOR_2"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2207",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48379": {
+    "name": "Wrynn's Legplates of Triumph",
+    "specs": [
+      "WARRIOR_1",
+      "WARRIOR_2"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2208",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48452": {
+    "name": "Wrynn's Handguards of Triumph",
+    "specs": [
+      "WARRIOR_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2210",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48446": {
+    "name": "Wrynn's Legguards of Triumph",
+    "specs": [
+      "WARRIOR_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2211",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "47772": {
+    "name": "Sunstrider's Gauntlets of Triumph",
+    "specs": [
+      "MAGE_1",
+      "MAGE_2",
+      "MAGE_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2495",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "47770": {
+    "name": "Sunstrider's Leggings of Triumph",
+    "specs": [
+      "MAGE_1",
+      "MAGE_2",
+      "MAGE_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2496",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48066": {
+    "name": "Zabra's Gloves of Triumph",
+    "specs": [
+      "PRIEST_1",
+      "PRIEST_2"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2498",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48064": {
+    "name": "Zabra's Leggings of Triumph",
+    "specs": [
+      "PRIEST_1",
+      "PRIEST_2"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2499",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48096": {
+    "name": "Zabra's Handwraps of Triumph",
+    "specs": [
+      "PRIEST_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2501",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48094": {
+    "name": "Zabra's Pants of Triumph",
+    "specs": [
+      "PRIEST_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2502",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "47803": {
+    "name": "Gul'dan's Gloves of Triumph",
+    "specs": [
+      "WARLOCK_1",
+      "WARLOCK_2",
+      "WARLOCK_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2504",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "47805": {
+    "name": "Gul'dan's Leggings of Triumph",
+    "specs": [
+      "WARLOCK_1",
+      "WARLOCK_2",
+      "WARLOCK_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2505",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48182": {
+    "name": "Runetotem's Gloves of Triumph",
+    "specs": [
+      "DRUID_1"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2523",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48180": {
+    "name": "Runetotem's Trousers of Triumph",
+    "specs": [
+      "DRUID_1"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2524",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48193": {
+    "name": "Runetotem's Handgrips of Triumph",
+    "specs": [
+      "DRUID_2_CAT",
+      "DRUID_2_BEAR"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2526",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48195": {
+    "name": "Runetotem's Legguards of Triumph",
+    "specs": [
+      "DRUID_2_CAT",
+      "DRUID_2_BEAR"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2527",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48152": {
+    "name": "Runetotem's Handguards of Triumph",
+    "specs": [
+      "DRUID_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2529",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48150": {
+    "name": "Runetotem's Leggings of Triumph",
+    "specs": [
+      "DRUID_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2530",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48241": {
+    "name": "Garona's Gauntlets of Triumph",
+    "specs": [
+      "ROGUE_1",
+      "ROGUE_2",
+      "ROGUE_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2532",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48239": {
+    "name": "Garona's Legplates of Triumph",
+    "specs": [
+      "ROGUE_1",
+      "ROGUE_2",
+      "ROGUE_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2533",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48273": {
+    "name": "Windrunner's Handguards of Triumph",
+    "specs": [
+      "HUNTER_1",
+      "HUNTER_2",
+      "HUNTER_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2552",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48271": {
+    "name": "Windrunner's Legguards of Triumph",
+    "specs": [
+      "HUNTER_1",
+      "HUNTER_2",
+      "HUNTER_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2553",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48334": {
+    "name": "Thrall's Gloves of Triumph",
+    "specs": [
+      "SHAMAN_1"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2555",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48332": {
+    "name": "Thrall's Kilt of Triumph",
+    "specs": [
+      "SHAMAN_1"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2556",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48364": {
+    "name": "Thrall's Grips of Triumph",
+    "specs": [
+      "SHAMAN_2"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2558",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48362": {
+    "name": "Thrall's War-Kilt of Triumph",
+    "specs": [
+      "SHAMAN_2"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2559",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48301": {
+    "name": "Thrall's Handguards of Triumph",
+    "specs": [
+      "SHAMAN_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2561",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48303": {
+    "name": "Thrall's Legguards of Triumph",
+    "specs": [
+      "SHAMAN_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2562",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48499": {
+    "name": "Koltira's Gauntlets of Triumph",
+    "specs": [
+      "DEATHKNIGHT_2",
+      "DEATHKNIGHT_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2581",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48497": {
+    "name": "Koltira's Legplates of Triumph",
+    "specs": [
+      "DEATHKNIGHT_2",
+      "DEATHKNIGHT_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2582",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48556": {
+    "name": "Koltira's Handguards of Triumph",
+    "specs": [
+      "DEATHKNIGHT_1"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2584",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48554": {
+    "name": "Koltira's Legguards of Triumph",
+    "specs": [
+      "DEATHKNIGHT_1"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2585",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48593": {
+    "name": "Liadrin's Gloves of Triumph",
+    "specs": [
+      "PALADIN_1"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2587",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48591": {
+    "name": "Liadrin's Greaves of Triumph",
+    "specs": [
+      "PALADIN_1"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2588",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48625": {
+    "name": "Liadrin's Gauntlets of Triumph",
+    "specs": [
+      "PALADIN_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2590",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48623": {
+    "name": "Liadrin's Legplates of Triumph",
+    "specs": [
+      "PALADIN_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2591",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48658": {
+    "name": "Liadrin's Handguards of Triumph",
+    "specs": [
+      "PALADIN_2"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2607",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48660": {
+    "name": "Liadrin's Legguards of Triumph",
+    "specs": [
+      "PALADIN_2"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2608",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48392": {
+    "name": "Hellscream's Gauntlets of Triumph",
+    "specs": [
+      "WARRIOR_1",
+      "WARRIOR_2"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2610",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48394": {
+    "name": "Hellscream's Legplates of Triumph",
+    "specs": [
+      "WARRIOR_1",
+      "WARRIOR_2"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2611",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48462": {
+    "name": "Hellscream's Handguards of Triumph",
+    "specs": [
+      "WARRIOR_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2613",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  },
+  "48464": {
+    "name": "Hellscream's Legguards of Triumph",
+    "specs": [
+      "WARRIOR_3"
+    ],
+    "url": "https://github.com/Gescht/AtlasLoot3.3.5a/blob/f437767f282566abd8424cb4119476c586e3b3a3/AtlasLoot_WrathoftheLichKing/wrathofthelichking.lua#L2614",
+    "tier": 9,
+    "source": "VoA 25 - Koralon"
+  }
+}
