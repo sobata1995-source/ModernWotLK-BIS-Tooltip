@@ -1,0 +1,16 @@
+package-as: ModernWotLKBISTooltip
+enable-nolib-creation: no
+ignore:
+  - ModernWotLK-BIS-Tooltip-v0.3.3-beta.zip
+  - ModernWotLK-BIS-Tooltip-v0.3.4-beta.zip
+  - ModernWotLK-BIS-Tooltip-v0.4.0-beta.zip
+  - ModernWotLK-BIS-Tooltip-v0.4.1-beta.zip
+  - ModernWotLK-BIS-Tooltip-v0.4.2-beta.zip
+  - gameplay-demo.mp4
+  - preraid-bracers.png
+  - preraid-neck.png
+  - test_assessments.lua
+  - test_preraid.lua
+  - test_raid.lua
+  - test_voa.lua
+  - AUTOMATIC-RELEASES.md
