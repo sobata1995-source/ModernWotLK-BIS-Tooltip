@@ -1,8 +1,16 @@
+# ModernWotLK BIS Tooltip
+
+### Gear guidance where you need it — right in your item tooltip.
+
+Compact class-colored BIS, ALT and PRE RAID guidance, with acquisition sources, for the original **WoW 3.3.5a client (Interface 30300)**. Curated recommendations and conditional alternatives help you evaluate gear; they are not a guarantee of an upgrade or a complete optimized set.
+
+[![Support on Patreon](https://img.shields.io/badge/Support-Patreon-FF424D?style=for-the-badge)](https://www.patreon.com/c/DenisAleksandrov/membership)
+
 ## v0.4.4-beta: VoA 25 Tier 9
 
 Adds all 76 PvE Tier 9 glove/leg entries from Koralon 25 for Horde and Alliance, including Runetotem's Trousers of Triumph (48180). Tooltips show boss, tier and class/spec. TIER 9 identifies a set, not an ICC/RS BIS ranking. Existing BIS/ALT ratings are preserved. `/mwbis item 48180` shows the source.
 
-# ModernWotLK BIS Tooltip 0.4.0-beta
+## Project overview
 
 Warmane forum PvE reference for the original WoW 3.3.5a client (Interface 30300).
 
@@ -44,9 +52,16 @@ Only base T9 (232) and T10 (251) qualify through emblem purchases. Trophy/Mark u
 
 Coverage includes all classes' base T9/T10 sets and the selected acquisition tables, not every quest reward or every WotLK item. No Classic-only Titan Rune/Gamma/Scourgestone gear is imported. The original forum rankings in `Database.lua` are unchanged.
 
+[![Support on Patreon](https://img.shields.io/badge/Support-Patreon-FF424D?style=for-the-badge)](https://www.patreon.com/c/DenisAleksandrov/membership)
 [![Support / Donate via Revolut](https://img.shields.io/badge/Support%20%2F%20Donate-Revolut-0075EB?style=for-the-badge)](https://revolut.me/denisar2z)
 
-Enjoying the addon? You can leave an optional tip via Revolut: [@denisar2z](https://revolut.me/denisar2z). The addon remains free; donations are entirely voluntary. Thank you for your support!
+## Support development
+
+Support ongoing development on [Patreon](https://www.patreon.com/c/DenisAleksandrov/membership), join the [Razer Dev Studio Discord](https://discord.gg/Pr5eMAUqt), or browse [my CurseForge addons](https://www.curseforge.com/members/sobstven/projects).
+
+The addon is free to download and use. Patreon support is optional and helps fund development and updates. Custom development is quoted separately; membership does not include individual tasks or guarantee implementation of suggestions. Feedback and testing are welcome too.
+
+You can also [leave a one-time tip via Revolut](https://revolut.me/denisar2z).
 
 `PRE-RAID-SOURCES.json` records every ID, exact AtlasLoot source commit/line and metadata checksum. Item identities and eligibility were checked against [AzerothCore's 3.3.5 data](https://github.com/azerothcore/azerothcore-wotlk/blob/master/data/sql/base/db_world/item_template.sql); this does not imply Warmane uses AzerothCore. Acquisition facts come from [AtlasLoot 3.3.5a](https://github.com/Gescht/AtlasLoot3.3.5a). The starter approach follows the [Warmane fresh-80 guide](https://forum.warmane.com/showthread.php?t=426653) and [ICC gearing guide](https://forum.warmane.com/showthread.php?t=462356).
 
